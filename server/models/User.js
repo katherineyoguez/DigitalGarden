@@ -2,7 +2,7 @@ const { Schema, model } = require('mongoose');
 const bcrypt = require('bcrypt');
 
 // import schema from Plants.js
-const plantSchema = require('./Plants');
+const plantsSchema = require('./Plants');
 
 const userSchema = new Schema(
 	{
