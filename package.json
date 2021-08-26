@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/katherineyoguez/DigitalGarden/issues"
   },
-  "homepage": "https://github.com/katherineyoguez/DigitalGarden#readme"
+  "homepage": "https://github.com/katherineyoguez/DigitalGarden#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "apollo-client": "^2.6.10",
+    "graphql": "^15.5.1"
+  }
 }
