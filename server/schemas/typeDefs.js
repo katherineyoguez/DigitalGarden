@@ -16,12 +16,6 @@ const typeDefs = gql`
 		
 	}
 
-	input PlantInput {
-		plantId: String
-		description: String
-		title: String
-	}
-
 	type Auth {
 		token: ID!
 		user: User

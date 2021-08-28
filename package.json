@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "cd client && npm run build"
   },
@@ -17,10 +18,11 @@
   "bugs": {
     "url": "https://github.com/katherineyoguez/DigitalGarden/issues"
   },
-  "homepage": "https://github.com/katherineyoguez/DigitalGarden#readme",
+  "homepage": "https://github.com/katherineyoguez/DigitalGarden",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "apollo-client": "^2.6.10",
-    "graphql": "^15.5.1"
+    "graphql": "^15.5.1",
+    "concurrently": "^5.3.0"
   }
 }
