@@ -8,7 +8,14 @@
   },
   "devDependencies": {},
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1"
+=======
+    "start": "node server/server.js",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd client && npm run build"
+>>>>>>> 0823783efc8c662f5bedb9952c25a6e7cc4a0c24
   },
   "repository": {
     "type": "git",
@@ -19,5 +26,15 @@
   "bugs": {
     "url": "https://github.com/katherineyoguez/DigitalGarden/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/katherineyoguez/DigitalGarden#readme"
+=======
+  "homepage": "https://github.com/katherineyoguez/DigitalGarden",
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "apollo-client": "^2.6.10",
+    "graphql": "^15.5.1",
+    "concurrently": "^5.3.0"
+  }
+>>>>>>> 0823783efc8c662f5bedb9952c25a6e7cc4a0c24
 }
