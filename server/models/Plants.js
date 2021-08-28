@@ -13,13 +13,6 @@ const plantsSchema = new Schema({
 		type: String,
 		required: true
 	},
-	// saved plant id from ("need to put where to get the plants here.")
-	// image: {
-	// 	type: String
-	// },
-	// link: {
-	// 	type: String
-	// },
 	sun: {
 		type: String,
 		required: true
