@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/katherineyoguez/DigitalGarden/issues"
   },
-  "homepage": "https://github.com/katherineyoguez/DigitalGarden#readme"
+  "homepage": "https://github.com/katherineyoguez/DigitalGarden#readme",
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
 }
