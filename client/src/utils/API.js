@@ -28,20 +28,20 @@ export const getMe = (token) => {
   };
   
   // save plant data for a logged in user
-  export const savePlant = (plantData, token) => {
+  export const saveLists = (listsData, token) => {
     return fetch('/api/users', {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json',
         authorization: `Bearer ${token}`,
       },
-      body: JSON.stringify(plantData),
+      body: JSON.stringify(listsData),
     });
   };
   
   // remove saved plant data for a logged in user
-  export const deletePlant = (plantId, token) => {
-    return fetch(`/api/users/plants/${plantId}`, {
+  export const deleteLists = (listsId, token) => {
+    return fetch(`/api/users/lists/${listsId}`, {
       method: 'DELETE',
       headers: {
         authorization: `Bearer ${token}`,
@@ -49,8 +49,3 @@ export const getMe = (token) => {
     });
   };
   
-  // make a search to google books api
-  // https://www.googleapis.com/books/v1/volumes?q=harry+potter
-//   export const searchGoogleBooks = (query) => {
-//     return fetch(`https://www.googleapis.com/books/v1/volumes?q=${query}`);
-//   };
