@@ -1,0 +1,1075 @@
+Type,Plant - Common,Full Grown Characteristics,Flower Color,Soil Type,Sun Exposure,Foliage Color
+FERNS,"Fern, Autumn","18-24""Tx18-24""W",,Moist,Part/Full Shade,Green (new fronds red/orange)
+FERNS,"Fern, Branford Rambler","18-24""x24-36""W, spreading and mound forming ", ,Dry,Full Sun/Part Sun,Variegated
+FERNS,"Fern, Christmas","24""Tx30-36""W, evergreen, N",,Moist,Part/Full Shade,Evergreen
+FERNS,"Fern, Cinnamon","36-48""Tx36-48""W, spore spikes, moist, N",,Moist,Part/Full Shade,Yellow/ Green
+FERNS,"Fern, Crested Red Lady","30-36""Tx30-36""W, burgundy stems, N",,Moist,Part/Full Shade,Green w/burgundy stems
+FERNS,"Fern, Dixie Wood","3-4'Tx2'W, dark green, semi-evergreen foliage, upright, Deer Resistant",,Moist,Part/Full Shade,Dk Green
+FERNS,"Fern, Ghost","24-30""Tx24-30""W, silverfish-gray-green foliage, rigidly upright",,Moist,Part/Full Shade,Silver/Gray/Green
+FERNS,"Fern, Hayscented","30""Tx30-36""W, creeping, yellow-green fronds, sun/shade,  N",,Moist,Sun/Part Sun,Yellow/Green
+FERNS,"Fern, Japanese Beech","12-24""Tx12-18""W, large, arching dark green fronds with a lighter underside",,Dry to Moist,Sun/Part Sun,DkGreen/Lt Green
+FERNS,"Fern, Japanese Painted","6-12""Tx18-24""W, silver-purple fronds, moist ",,Moist,Part/Full Shade,Silver/Purple
+FERNS,"Fern, Maidenhair","24-30""T, graceful, fan-shaped delicate fronds, moist, N",,Moist,Filtered /Full Shade,Med Green
+FERNS,"Fern, Marginal Shield/Leatherwood","20""Tx24-30""W, evergreen, dusty blue fronds, N",,"Moist, Acidic",Part/Full Shade,Dusty Blue
+FERNS,"Fern, New York","12-24""Tx24-48""W, soft, yellow-green fronds, consistently moist soil, filtered light, N",,Moist,Filtered Shade,Yellow/Greenn
+FERNS,"Fern, Ostrich","6'Tx2-3'W, vase-shaped, moist, acidic, shade, N",,"Moist, Acidic",Part/Full Shade,Green Grey
+FERNS,"Fern, Royal","4-6'Tx30-36""W, pale green leathery, moist, yellow fall color, N",,Moist,Part/Full Shade,Pale Green
+FERNS,"Fern, Sensitive","18-24""Tx30-36'W, spreading fern, moist shade",,Moist,Part/Full Shade,Lt Green
+FERNS," Fern, Goldies Wood","3-4' Tx2-3'W, evergreen, graceful, arching fronds, wet soil",,,,
+FRUITS,Apple,"15-20'Tx15-20'W, white flowers, Spring, med-sized,  Gala, Honeycrisp, Red Delicious",White,,,
+FRUITS,Apple,"5-8'Tx 8-10'W, pink/white flowers, spring, Red Delicious, Golden Delicious, Granny Smith, Gavenstein (Espaliered Form)",Pink/White,,,
+FRUITS,Apple,"10-15'Tx 8-10'W, pink/white flowers, spring, Red Delicious, Golden Delicious, Granny Smith, Gavenstein ",Pink/White,,,
+FRUITS,Blackberry,"4-6'Tx4-6'W, thornless, large, very sweet fruit, ripens in July",,,,
+FRUITS,Thornless Blackberry,"5-6'Tx5-6'W, white-pink flowers, May, fruit ripens in mid-summer, thornless, vine-like canes",Pink/White,,,
+FRUITS,"Blackberry, Thornless Dwarf","3-4'Tx 3-4'W, white flowers, Spring, large, juicy berries in mid-summer, produce twice in one season, on 2nd year canes",White,,,
+FRUITS,Elderberry,"8-10'Tx 8-10'W, broad, rounded shrub, fruit ripens early August, birds, N",White,,,
+FRUITS,Fig,"12-15'Tx12-15'W, juicy, sweet, reddish-brown fruit, self-pollinating",,,,
+FRUITS,Gooseberry/Currant,"3-5'Tx3-5'W, greenish/yellow flowers, late April-early May, bright red berries, compact, birds",Green/Yellow,,,
+FRUITS,Grape,"12-15' length, flowers in June, seedless, blue-black fruit, September",,,,
+FRUITS,Peach,"10-12'Tx10-12'W, semi-dwarf, freestone, self-fertile, yellow/red fruit, late Aug",,,,
+FRUITS,Peach,"10-12'Tx10-12'W, semi-dwarf, self-fertile, yellow/red fruit, late July",,,,
+FRUITS,Peach,"10-12'Tx10-12'W, standard, freestone, self-fertile, bright yellow fruit, mid-late Aug",,,,
+FRUITS,"Raspberry, Black","4-6'Tx4-6'W, large, glossy black fruit, more disease resistant",,,,
+FRUITS,"Raspberry, Red","5-7'Tx5-7'W, first crop mid-July, 2nd crop early September, flavorful fruit",,,,
+FRUITS,"Raspberry, Yellow","4-5'Tx4-5'W, extra large yellow berries ripen in Aug-Oct",,,,
+FRUITS,"Raspberry, Thornless Dwarf","2-3'Tx2-3'W, sweet, summer berries",,,,
+FRUITS,Rhubarb,"3-4'Tx 3-4'W, juicy, red stalks, summer stress resistant",,,,
+FRUITS,"Strawberry, Everbearing","12""Tx2'W, rose-colored flowers, runnerless",Rose,,,
+FRUITS,Sweet Cherry,"30'Tx25'W, fragrant, white flowers, late April, large, dark-burgundy red, sweet fruit, late June, Semi-Dwarf, Pollinator for 'Black Tartarian'",White,,,
+FRUITS,Sweet Cherry,"20-30'Tx 20-30'W, white flowers, Spring, yellow-blushed with red fruit, mid-summer, Pollinator for 'Bing'",White,,,
+FRUITS,Sweet Cherry,"30-35'Tx30-35'W, white, fragrant flowers, Spring, deep purple fruit with dark red, juicy flesh, mid-summer, Old Variety-dependable high yields",White,,,
+GRASSES,"Bluestem, Big","4-8'Tx2-3'W, blue-green foliage, Summer blooming, copper FC, DR, Salt Tolerant, Butterflies, N                                       ",,Dry,Sun/Part Sun,Blue / Green
+GRASSES,"Bluestem, Little","3'Tx2'W, upright, burgundy/pink/blue foliage, N","purplish-bronze flowers then white, fluffy seed heads",Dry to average,Full Sun,Burgundy/Pink/Blue
+GRASSES,"Bluestem, Little","3-4'Tx2'W, upright growth habit, scarlet red turning to deep red/purple foliage",,Dry to average,Full Sun,Red/Deep Red/Purple
+GRASSES,"Bluestem, Little","3-4'Tx2'W, silver flowers, late Summer, tight, upright habit with blue cast, Fall Color, N",Silver,Dry,Full Sun,Blue-Green
+GRASSES,"Bluestem, Little","3-4'Tx2-3'W, silver flowers, late Summer, tight, upright habit, silvery-blue stems, deep, wine-red Fall Color, N", ,,,
+GRASSES,"Bluestem, Little","4'Tx 3'W, tan flowers, late Summer, tight, upright habit, green foliage turning to irridescent silver/mauve/purple, Fall Color, N",,,,
+GRASSES,"Dropseed, Prairie","2-3'Tx2-3'W, deep green foliage, clump forming, fine texture,  N",Pink/brown,Dry,Full Sun,Deep Green
+GRASSES,Feather Reed Grass,"4-6'Tx3-4'W, vertical clumper June-October",Beige/Pink,Average to wet,Sun/Part Sun,Deep Green
+GRASSES,"Feather Reed Grass, Avalanche","4-5'Tx18-24""W, variegated foliage, vertical clumper, July-Sept",Silver,Average to wet,Sun/Part Sun,Green/White Variegated
+GRASSES,Fountain Grass,"3-4'Tx3-4'W, reddish flowers, August-October, yellow Fall Color                                                         Plant Group 2g- 4pts/flat@$7/pot",Reddish,Average to wet,Full Sun,Bright Green
+GRASSES,Fountain Grass,"2-3'Tx2-3'W, red flowers, August-September, upright habit, needs moist-wet soil                                                              ",Red,Moist,Full Sun,Green
+GRASSES,"Fountain Grass, Black","2-3'Tx3-4'W, black flowers, Sept-October                                                                                      ",Black,Average to wet,Full Sun,
+GRASSES,"Fountain Grass, Dwarf","8-12""Tx12-18""W, wheat-colored flowers, late summer, variegated green/red foliage, red Fall Color",Wheat,Average,Full Sun,Variegated Green/Red
+GRASSES,"Fountain Grass, Dwarf","2'Tx2'W, compact, white flowers, August-October",White,Average to wet,Full Sun,Green
+GRASSES,"Fountain Grass, Dwarf","12""Tx24""W, creamy, bunny-tail flowers, Aug-Oct, birds, Deer Resistant",Creamy,Average to wet,Full Sun,Green
+GRASSES,"Gramma Grass, Blue","2-3'Tx3'W, flag-like golden flowers, Summer, blue-green, stiff stems, N",Golden,Average to dry ,Full Sun,Blue-green
+GRASSES,"Hair Grass, Tufted ","18-24""Tx12-18""W, dark green foliage, wispy silver blooms, late Spring, full sun/moist soil, N",Silver,Moist,Sun/Part Sun,Dark Green
+GRASSES,"Hair Grass, Tufted ","18-24""Tx18-24""W, dark, evergreen green foliage, pink wispy blooms, late Spring, light shade/moist soil, N",Pink ,Moist,Part Shade,Dark Green
+GRASSES,Hakone Grass,"12""-18""Tx18-24""W, yellow & green foliage, resembles bamboo",,Moist,Part Shade,Yellow/Green
+GRASSES,Indian Grass,"4-6'Tx1-2'W, steely blue upright foliage, Aug, Fall Color, N                                                                                              ",,Dry to average,Full Sun,Steely  Blue
+GRASSES,Indian Grass,"4-6'Tx1-2'W, steely blue upright foliage, Aug, Fall Color, N",,,,Steely  Blue
+GRASSES,"Love Grass, Purple","18-24""Tx2-3'W, bronze/red flowers, Fall, red Fall Color, spreader, poor soils, N",Bronze/Red,Poor,Full Sun,Light Green
+GRASSES,Maiden Grass,"2-3'Tx 2-3'W, creamy white/green variegated foliage",,Average,Sun/Part Sun, White /Green variegated
+GRASSES,Maiden Grass,"5-7'Tx2-3'W, graceful arching clumper, Copper flowers, October, sterile flowers",Copper,Average,Sun/Part Sun,Green
+GRASSES,"Mondo Grass, Black","8-12""Tx8-12""W, shiny black strap-like foliage, pink flowers, July-Aug",Pink,Moist,Full Sun,Shiny Black
+GRASSES,"Moor Grass, Autumn","1'Tx2'W, evergreen, silver flowers, September, clumper                                                                                                              ",Silver,Dry to average,Sun/Part Sun,Yellow-green
+GRASSES,Muhly Grass,"2-3'Tx2-3'W, thin, green foliage, clumper, pink plumes, Aug",Pink,Dry to average,Sun/Part Sun,Green
+GRASSES,"Sea Oats, Northern","2-3'Tx2-3'W, 3 season interest, clumper, Aug, N",oat-like seedheads,Average,Full sun to Full Shade,Deep Green
+GRASSES,"Sedge, Variegated Japanese","12-24""Tx12-24""W, tan flowers, late Spring, variegated green/white foliage, clumper, shade",,,,
+GRASSES,"Sedge, Variegated Japanese","12-18""Tx12-18""W, tan flowers, late Spring, variegated green/white foliage, clumper, shade",,,,
+GRASSES,"Sedge, Appalachian","6-8""Tx15-18""W, thin, long, wispy foliage, clumper, shade, N",,Average,Part/Full Shade,Green
+GRASSES,"Sedge, Blue Zinger","2'Tx2'W, fine-textured, arching blue foliage, Sun-Shade, DR &DR",,,,
+GRASSES,"Sedge, Bunny Blue","8-12""Tx12-16""W, evergreen, metallic-blue foliage, Deer resistant, N",,Average,Part/Full Shade,Metallic Blue
+GRASSES,"Sedge, Pennsylvania","6-8""Tx6-8""W, green foliage, butterflies and birds, dry, dark-shade, N",Yellow/brown,Dry to average,Part/Full Shade,Green
+GRASSES,"Sedge, Tussock","6-8""Tx6-8""W, bright green foliage, moist-wet shade, butterflies and birds, N",,Moist to wet,Part/Full Shade,Bright Green
+GRASSES,Switch Grass,"4-5'Tx2-3'W, upright clump, metallic blue with red overtone foliage",,Moist,Full Sun,Metallic Blue w/Red 
+GRASSES,Switch Grass,"4'Tx4'W, rose colored flowers and leaf tips, upright, dense clump, birds, Deer Resistant, DR, SaltT, N",Rose,Average,Full Sun,Grey-green
+GRASSES,"Switch Grass, Blue","4'Tx2-3'W, blue foliage, yellow Fall Color",,Average,Full Sun,Blue
+GRASSES,"Switch Grass, Dwarf","24-30""Tx24-30""W, amber flowers and seed heads, compact, upright habit , birds, Deer Resistant, DR, SaltT, N",Amber,Average,Sun/Part Sun,Green
+GRASSES,"Switch Grass, Northwind","6'Tx2'W, wide, thick blue blades, Aug-September, N",Pink beige,Average,Sun/Part Sun,Blue Green
+GRASSES,"Switch Grass, Purple Tears","4'Tx4'W, grey/white flowers that turn to purple seed heads, medium green foliage, birds",,,,
+GRASSES,"Switch Grass, Shenadoah","3-4'Tx2'W, bright red leaves, blooms Aug-September, N",Red,Average,Full Sun,Blue Green becomes Bright Red 
+GROUND COVER,"Archangel, Variegated Yellow","12""Tx 18""W, yellow flowers, Spring, variegated silver-green leaves, creates a radiating clump",Yellow,Moist,Part/Full Shade,Silver/Green variegated 
+GROUND COVER,"Aster, Heath","3""Tx2-4'W, white flowers, Fall, gray-green leaves, prostrate growth habit, Butterflies, Bees",,,,
+GROUND COVER,"Azalea, Ground Cover","1'Tx 5'W, light red flowers, Spring,  dark evergreen foliage, trailing growth habit",Lt Red,Moist,Sun/Part Sun,Dark Green
+GROUND COVER,"Azalea, Ground Cover","2'Tx4'W, silvery, pink flowers, late May into June, evergreen",Pink ,Moist,Sun/Part Sun,Dark Green
+GROUND COVER,"Azalea, Ground Cover","2'Tx3-4'W, dark red flowers, dense, slow growing, Fall Color ",Dk Red/scarlet,Moist,Sun/Part Sun,Green
+GROUND COVER,Barrenwort,"12""Tx15-18""W, 1"" yellow flowers, May, heart-shaped foliage, Deer Resistant",Yellow,Average to dry ,Part/Full Shade,Green
+GROUND COVER,Barrenwort,"10-12""Tx15-18""W, red flowers, April-May, Deer Resistant",Red,Average to dry ,Part/Full Shade,Green
+GROUND COVER,Barrenwort,"12""  (6-8""? - youngianum are the shorter of the barrenworts) Tx24""W, airy, dark pink flowers, early Spring, evergreen foliage, dry soil, Deer Resistant",Dk Pink ,Dry,Part/Full Shade,Green
+GROUND COVER,Barrenwort,"12""Tx24""W, violet purple flowers, early Spring, evergreen foliage, dry soil, Deer Resistant",Violet Purple / White,Dry,Part/Full Shade,Green
+GROUND COVER,Barrenwort,"12"" (6-8""?) Tx24""W,white flowers, early Spring, evergreen foliage, dry soil, Deer Resistant",White ,Dry,Part/Full Shade,Green
+GROUND COVER,Bearberry,"6-12""Tx4-6'W, white flowers, Spring, evergreen, red berries, Fall Color, Birds, N ",White,"Dry, poor",Sun/Part Sun,Dark Green
+GROUND COVER,Bearberry,"6-12""Tx4-6'W, white flowers, Spring, evergreen, red berries, Fall Color, Birds, N ",White,"Dry, poor",Sun/Part Sun,Dark Green
+GROUND COVER,"Bellflower, Creeping","4-6""Tx24-30""W, lavender-blue flowers, May-June, dark green foliage",Lavender/Blue,Moist,Sun/Part Sun,Dark Green
+GROUND COVER,"Bellflower, Fairy Thimble","2-4""Tx4-6""W, lavender-blue bell-shaped flowers, early summer, spoon-shaped green leaves, edible",Lavender/Blue,Moist,Sun/Part Sun,Green
+GROUND COVER,"Blueberry, Dwarf","2'Tx2'W, white, bell-shaped flowers, May, blueberries-mid Summer, Fall Color",White ,Moist,Full Sun,Peachy orange new leaves turn blue-green
+GROUND COVER,"Blueberry, Dwarf","1-2'Tx2'W, white, bell-shaped flowers, May, blueberries-mid Summer, Fall Color",White,Moist,Full Sun,Green
+GROUND COVER,"Blueberry, Dwarf","2-3'Tx 2-3'W, white flowers, spring, blue fruit in mid-summer, boxwood-like foliage",White w/pink,Moist,Full Sun,Glossy Green
+GROUND COVER,"Blueberry, Highbush Dwarf","3-4'Tx 3-4'W, pink flowers, spring, large, sweet summer berries, pink/blue green foliage",Pink,Moist,Full Sun,Pink/Blue Green
+GROUND COVER,"Blueberry, Lowbush","8-12""Tx2-3'W, white flowers, May, vigorous, mid-summer, Fall Color, N",White,"Poor, acidic",Sun/Part Sun,Green
+GROUND COVER,"Blueberry, Lowbush","12-15""Tx2-3'W, white flowers, May, dense, small, delicate leaves, mid-sum, Fall Color",White,Moist,Full Sun,Deep Green
+GROUND COVER,Blue-eyed Grass,"8-10""Tx12""W, blue-purple, star-shaped flowers, May-June, grass-like foliage, moist soil, N",Blue/Purple,Moist,Full Sun,Deep Green
+GROUND COVER,Bugle Weed,"4-6""Tx18-24""W, blue flowers, May-June, green-red crinkly foliage, Bees", Blue,Average,Sun/Part Sun,Red/Green
+GROUND COVER,Bugle Weed,"4""Tx18-24""W, deep blue flowers, May-June, varigated, cream/pink/green foliage, Bees",Deep Blue,Average,Sun/Part Sun,Cream/Pink/Green
+GROUND COVER,Bugle Weed,"2-4""Tx15-18""W, deep blue flowers, May, chocolate brown/deep purple foliage, Bees",Deep Blue,Average,Sun/Part Sun,Brown/Purple
+GROUND COVER,Bugle Weed,"3-10""Tx10-14""W, blue flowers, late Spring-early Summer, glossy, dark mahogony foliage, Bees",Blue,Average,Sun/Part Sun,Glossy Dk Mahogany
+GROUND COVER,Bunchberry,"3-6""Tx4-6'W, small white flowers, red fruit, burgundy/purple Fall color, birds, N",White,"Moist, acidic",Part Shade,Green
+GROUND COVER,Candytuft,"18-20""Tx12-15""W, white flowers, May-June, evergreen",White,Average,Sun/Part Sun,Green
+GROUND COVER,"Chokeberry, Dwarf","12-24""Tx18-24""W, white flowers/pink centers, Spring, black-purple fruit, Summer, brilliant red Fall Color, N",White/Pink,Moist,Sun/Part Sun,Green
+GROUND COVER,"Chokeberry, Dwarf","12-14""Tx2.5-3'W, white flowers/pink centers, Spring, black-purple fruit, late Summer-Fall, brilliant red Fall Color, birds, N",,,,
+GROUND COVER,Cotoneaster,"1-2'Tx3-4'W, white/pink flowers, Spring, shiny evergreen foliage, berries, birds, Fall color ",White / Pink,Moist,Part/Full Shade,Shiny Green
+GROUND COVER,Cotoneaster,"1-1.5'Tx5-6'W, white-pink flowers, Spring, shiny evergreen foliage, orange/red fruit ",White / Pink,Moist,Sun/Part Sun,Shiny Green
+GROUND COVER,"Cotoneaster, Willow Leaf ","12-18""Tx6-8'W semi-evergreen, red berries, Fall Color ",,Moist,Sun/Part Sun,Dark Green
+GROUND COVER,Cranberry,"6-8""Tx1-3'W, pink flowers, mid-May, evergreen foliage, large, tart, red berries, mid-late Fall",,,,
+GROUND COVER,"Creeper, Blue Star","2-4""Tx12-18""W, starry dark-blue flowers, May-September, evergreen deep-green foliage ",Dk Blue,Average,Sun/Part Sun,Deep Green
+GROUND COVER,"Cypress, Russian","12""Tx8-10' W, soft, touchable, feathery foliage, bronze Fall/Winter Color, Deer Resistant",,Average,Sun/Part Sun,Green
+GROUND COVER,"Cypress, Russian","12-15""Tx8-10'W, soft, touchable, feathery foliage, Drought and Deer Resistant, bronze Fall/Winter color", ,Average,Sun/Part Sun,Green
+GROUND COVER,Deadnettle,"6-8""Tx18-24""W, white flowers, April-July, silver-white leaves, Drought and Deer Resistant",White,Average,Part/Full Shade,Silver White
+GROUND COVER,Deadnettle,"6-8""Tx15-18""W, purple flowers, April-June, blue/green leaves w/silver edges, Drought and Deer Resistant ",Purple,Average,Part/Full Shade,Blue Green/Silver
+GROUND COVER,Deadnettle,"6-8""Tx15-18""W, reddish-pink flowers, April-June, silver leaves w/green edges, Drought and Deer Resistant",Red/Pink,Average,Part/Full Shade,Silver/Green
+GROUND COVER,Deadnettle,"6-8""Tx15-18""W, deep purple flowers, June-July, silver/green variegated foliage, Drought and Deer Resistant",Deep Purple,Average,Part/Full Shade,Silver/Green
+GROUND COVER,Deadnettle,"6-8""Tx18-24""W, pink flowers, April-July, silver-white foliage, Drought and Deer Resistant",Pink,Average,Part/Full Shade,Silver /White
+GROUND COVER,Deutzia,"1-2'Tx3-4'W,  small white flowers, late May, purple-red Fall Color  ",White,Average,Sun/Part Sun,Green
+GROUND COVER,Deutzia,"1-2'Tx3'W,  small white flowers, late May, purple-red Fall Color, Deer Resistant  ",White,Average,Sun/Part Sun,Green
+GROUND COVER,Deutzia,"1-2'Tx3'W,  small pink flowers, late May, purple-red Fall Color, Deer Resistant  ",Pink,Average,Sun/Part Sun,Green
+GROUND COVER,Geranium,"8-10""Tx18-24""W, violet-blue saucer shaped 2"" flowers, June-October",Violet/Blue,Average,Sun/Part Sun,Deep Green
+GROUND COVER,Geranium,"12-18""Tx24-30""W, reddish-purple flowers, June-September, brilliant red Fall Color",Red Purple,Moist,Sun/Part Sun,Green
+GROUND COVER,Geranium,"10-12""Tx15-18""W, rose-pink flowers with reddish veining, deep green foliage, May-September",Rose/Pink Veins,Average,Sun/Part Sun,Deep Green
+GROUND COVER,Geranium,"12""Tx 32-40"", clear blue flowers, late Spring-Fall, Deer Resistant",Clear Blue,Moist,Sun/Part Sun,Green
+GROUND COVER,Geranium,"12""Tx 32-40"", light purple/blue flowers, late Spring-Fall, Deer Resistant, Bees",Light Purple/Blue,Average,Sun/Part Sun,Green
+GROUND COVER,Geranium,"6-8""Tx32-40""W, white flowers with fine red veins, May-July, drought resistant, red Fall Color",White/Red Veins,Average,Sun/Part Sun,Green
+GROUND COVER,Geranium,"1-1.5'Tx 32-40""W, long blooming, fragrant, dark magenta flowers, late Spring-mid Summer, Deer Resist, bronze/red FC",,,,
+GROUND COVER,Geranium,"6-8""Tx18-24""W, pure white flowers, late May, small, deep green, deeply lobed foliage, May-June, Deer Resistant",White,Moist,Sun/Part Sun,Deep Green
+GROUND COVER,"Geranium, Wild","18-24""Tx12-18""W, small pink-lavender single flowers, mid-May-late June, butterflies, N",Pink/Lavender,Average,Sun/Part Sun,Deep Green
+GROUND COVER,Geranium,"12""Tx18-24""W, soft pink flowers with pink veins, all Summer, Bees and Butterflies, Deer Resistant",Pink/Pink Veins,Average,Sun/Part Sun,Green
+GROUND COVER,"Ginger, Chinese Wild","4-6""Tx10-12""W, dark purple flowers, April-May, evergreen, heart-shaped leaves w/ silver mottling",Dark Purple,Moist,Part/Full Shade,Green/Silver
+GROUND COVER,"Ginger, European","6-8""Tx8-10""W, evergreen, glossy, dark green, leathery leaves",,Moist,Part/Full Shade,Glossy Dark Green
+GROUND COVER,"Ginger, Wild","8-10""Tx8-10""W, non-glossy foliage, tight, mounding, N",,Moist,Part/Full Shade,Green (not glossy)
+GROUND COVER,Golden Star,"6""Tx12""W, yellow daisy-like flowers, June-July, N",Yellow,Moist,Sun/Part Sun,Dark Green
+GROUND COVER,"Heath, Spring","15-18""Tx24""W, deep purple, bell-shaped flowers, March/April, evergreen foliage",Deep  Purple,Moist,Sun/Part Sun,Green
+GROUND COVER,"Heath, Spring","18-24""Tx2-3'W, deep purple-red bell-shaped flowers, late March/April, evergreen foliage",Deep Purple/Red,Moist,Sun/Part Sun,Green
+GROUND COVER,"Heath, Spring","6-12""Tx30""W, white, bell-shaped flowers, late March-April, low spreading, evergreen ground cover",White,Moist,Sun/Part Sun,Green
+GROUND COVER,"Heather, Scotch","12-20""Tx18-24""W, red-tipped foliage, Spring, soft lavender blooms, late summer, chocolate-colored winter foliage",Lavender,"Moist, sandy, acidic",Sun/Part Sun,Red Tipped to Green
+GROUND COVER,"Heather, Scotch","12-18""T x 3'W, pink flowers, Summer-Fall, evergreen foliage",Pink ,"Moist, sandy, acidic",Sun/Part Sun,Yellow/orange to Green
+GROUND COVER,"Heather, Summer ","12-24""Tx18-30""W, double pink flower, Summer, evergreen foliage",Light Pink,"Moist, sandy, acidic",Sun/Part Sun,Green
+GROUND COVER,"Heather, Summer ","12-24""Tx18-30""W, white flower, Summer, evergreen foliage",White,"Moist, sandy, acidic",Sun/Part Sun,Green
+GROUND COVER,"Heather, Summer ","12-24""Tx18-30""W, red-purple flower, Summer, evergreen foliage",Red/Purple,"Moist, sandy, acidic",Sun/Part Sun,Dark Green
+GROUND COVER,Hens and Chicks,"3-4""Tx10-12""W, rose-red flowers, mid-summer, succulent foliage",Rose/Red,Dry,Full Sun,Green w/silver threads
+GROUND COVER,Hens and Chicks,"3-4""Tx10-12""W, pink-purple flowers, mid-summer, succulent foliage",Pink/Purple,Dry,Full Sun,Deep Green/Red
+GROUND COVER,Hens and Chicks,"3-4""Tx 10-12"" W  (6) 3 of each variety",,Dry,Full Sun,
+GROUND COVER,"Huckleberry, Black","2-3'T, pink-red flowers, Spring, blue fruit, dry acidic slopes/woodland, colony, full-filtered light, red Fall Color, Birds, N",Red/Pink,"Dry, Acidic",Filtered Shade,Green
+GROUND COVER,"Huckleberry, Box","10-15""Tx3-4'W, white-pink flowers, June, berries, moist soils, reddish Fall Color, N",White/Pink,"Moist, acidic",Filtered Shade,"Glossy, dark green"
+GROUND COVER,"Ice Plant, Cooper's Trailing ","4""Tx18-24""W, rose/pink daisy-like flowers, Summer, succulent foliage",Rose/Pink  ,Dry,Full Sun,Green
+GROUND COVER,"Ice Plant, Hardy ","2-3""Tx18-24""W, daisy-like, sunny, yellow flowers, June, succulent foliage",Yellow,Dry,Full Sun,Green
+GROUND COVER,Ice Plant,"3""Tx2'W, orange/coral starburst-shaped flowers, succulent foliage, dry soil only, Butterflies",Orange/Coral,Dry,Full Sun,Green
+GROUND COVER,Ice Plant,"3""Tx2'W, soft mauve starburst-shaped daisy-like flowers, succulent foliage, dry soil only, Butterflies",Mauve/Lavender,Dry,Full Sun,Green
+GROUND COVER,"Iris, Dwarf Crested","6-9""Tx10-12""W, woodland wildflower, pale blue flower, April-May, N                                                        ",Pale Blue,Average,Part/Full Shade,Green
+GROUND COVER,"Iris, Dwarf Crested","6-9""Tx10-12""W, woodland wildflower, white flower, April-May, N                                                             ",White,Average,Part/Full Shade,Green
+GROUND COVER,"Juniper, Compact Andorra","1'Tx4-6'W, vase-like form, bronze-purple, fall color, N",,Average,Full Sun,Green
+GROUND COVER,"Juniper, Dwarf Jap Garden ","6""Tx6-8'W, blue-green foliage, dwarf,compact mat",,Average,Full Sun,Blue/Green
+GROUND COVER,"Juniper, Dwarf Jap Garden ","6""Tx6-8'W, blue-green foliage, dwarf,compact mat",,,,Blue/Green
+GROUND COVER,"Juniper, Low Growing","4""Tx8-10'W, flat growing silver-blue foliage, aggressive, N",,Average,Full Sun,Silver/Blue
+GROUND COVER,"Juniper, Low Growing","2'Tx3-4'W, rich blue foliage, slow growing, low/rounded",,Average,Full Sun,Rich Blue 
+GROUND COVER,"Juniper, Low Growing","1-1.5'Tx8-10'W, horizontal branching habit, mass planting, banks",,Average,Full Sun,Green
+GROUND COVER,"Juniper, Low Growing","4""Tx10-12', deep green summer foliage/purple winter foliage, N",,Average,Full Sun,Deep Green
+GROUND COVER,"Juniper, Low Growing","6-12""Tx8-10'W, steel blue foliage, quick grower, seashore, sandy soil, N",,Average,Full Sun,Steely  Blue
+GROUND COVER,"Juniper, Low Growing","4-6'Tx6-8'W, vase-like, arching form, kelly green foliage, tolerant of dry, sandy soils, salt tolerant",,Average,Full Sun,Kelly Green
+GROUND COVER,"Juniper, Low Growing","3-4'Tx6-7'W, fine-textured, medium green-colored needled foliage",,Average,Full Sun,Med Green
+GROUND COVER,"Juniper, Low Growing","15-18""Tx 6-8' (4-6'?)W, deep green/silver hue foliage, lots of blue cones, tough, deer resistant, N",,Average,Full Sun,Deep Green/Silver
+GROUND COVER,"Juniper, Shore ","6""Tx8-10' W, blue-green, longer needle, foliage, shore",,Average,Full Sun,Blue Green
+GROUND COVER,"Leadwort, Plumbago","12""Tx24-30""W, spreading habit, deep blue flowers, bronzy/red fall color, Aug-Oct",Deep Blue,Average,Sun/Part Sun,Green
+GROUND COVER,Lily of the Valley,"6-8""Tx1-2'W, fragrant, white bell-shaped flowers, May-June",White,Average,Full/Part Shade,Green
+GROUND COVER,"Mint, Corsican","1""Tx18-24""W, ground hugging form, pleasantly aromatic",,Average,Sun/Part Sun,Green
+GROUND COVER,"Moss, Irish","1""Tx12""W, white flowers, soft green mat, spring",White,Average,Part/Full Shade,Green
+GROUND COVER,"Moss, Scotch","1""Tx12""W,  white flowers, Spring, chartreuse green mat",White,Average,Part/Full Shade,Chartreuse Green
+GROUND COVER,Paxistima (Mountain Jade),"8-12""Tx2-3'W, evergreen, prickly-edged foliage, part shade-sun",,Average,Sun/Part Sun,Dark Green
+GROUND COVER,Pachysandra  ,"6""Tx6""W, white flowers, April, evergreen foliage, Deer Resistant",White,Average,Part/Full Shade,Dark Green
+GROUND COVER,Pachysandra  (Allegheny Spurge),"6-8""x6-8"",  fragrant white flowers, early April, slightly mottled deep green leaves, evergreen, N",White,Average,Part/Full Shade,Deep Green mottled
+GROUND COVER,Partridgeberry,"1-2""Tx18-24""W, pink flowers, early June, bright red berries, N",Pink,,,
+GROUND COVER,Periwinkle,"6""Tx3'W, deep blue flowers, May, variegated leaves",Deep Blue ,Moist,Part/Full Shade,Green/WhiteVarigated
+GROUND COVER,Periwinkle,"6""Tx3'W, blue flowers, May, rich green leaves",Blue,Moist,Part/Full Shade,Rich Green
+GROUND COVER,Periwinkle,"6-10""Tx15-18""W, wine, reddish-purple flowers, May",Red/Purple,Moist,Part/Full Shade,Green
+GROUND COVER,Periwinkle,"6-10""Tx15-18""W, white flowers, May",White,Moist,Part/Full Shade,Green
+GROUND COVER,"Phlox, Moss","3-6""Tx2-3'W, blue flowers, late April, deer resistant, N",Blue,Moist,Full Sun,Green
+GROUND COVER,"Phlox, Moss","3-6""Tx2-3'W, bright pink flowers, late April, deer resistant, N",Bright Pink,Moist,Full Sun,Green
+GROUND COVER,"Phlox, Moss","3-6""Tx2-3'W, white flowers, late April-May, hardy, deer resistant, N",White,Moist,Full Sun,Green
+GROUND COVER,"Phlox, Moss","3-6""Tx2-3'W, purple-blue flowers, late April-May, hardy, evergreen, deer resistant, N",Purple Blue,Moist,Full Sun,Green
+GROUND COVER,"Phlox, Woodland","8""Tx18-24""W, blue-lilac flowers, May/June, semi-evergreen, N",Blue/ Lilac,Average,Part/Full Shade,Green
+GROUND COVER,"Phlox, Woodland","8""Tx18-24""W, pink flowers, May/June, N",Pink,Moist,Part/Full Shade,Green
+GROUND COVER,"Phlox, Woodland","6-10""Tx2-3'W, deep purple flowers, May, semi-evergreen, N",Deep Purple,Moist,Part/Full Shade,Green
+GROUND COVER,"Ragwort, Golden","6-8""Tx18-24""W, yellow flowers, mid-April, moist shade, N",Yellow,Moist,Sun/Part Sun,Deep Green
+GROUND COVER,Rhododendron ,"2-3'Tx3-4'W, soft yellow flower, late April, low and dwarf, bronze winter foliage",Soft Yellow,Moist,Sun/Part Sun,Green
+GROUND COVER,Rhododendron ,"2' Tx4'W, purple/blue flower, early May",Purple/Blue,Moist,Sun/Part Sun,Green
+GROUND COVER,"Rose, Drift","1-2'Tx3-4'W, deep pink, white-eyed flowers, mid May-Fall, med-dark green DR foliage",Deep Purple/White ,Average,Full Sun,Med-Dark Green
+GROUND COVER,"Rose, Drift","1-2'Tx2-3'W, double clear pink blooms, mid May-Fall, med-dark green DR foliage",Clear Pink,Average,Full Sun,Med-Dark Green
+GROUND COVER,"Rose, Drift","1-2'Tx2-3'W, double red blooms, mid May-Fall, med-dark green DR foliage", Red,Average,Full Sun,Med-Dark Green
+GROUND COVER,"Rose, Drift","1-2'Tx2-3'W, double apricot/pink blooms, mid May-Fall glossy dark green DR foliage", Apricot/Pink,Average,Full Sun,Glossy Dark Green
+GROUND COVER,"Rose, Drift","1-2'Tx2-3'W, double peach/yellow blooms, mid-May-Fall, med-dark green DR foliage",Peach/Yellow,Average,Full Sun,Medium Green
+GROUND COVER,"Rose, Drift","1-2'Tx2-3'W, yellow/cream blooms, mid May-Fall med-dark green DR foliage",Yellow/Cream,Average,Full Sun,Med-Dark Green
+GROUND COVER,"Rose, Drift","1-2'Tx2-3'W, semi-double salmon/coral blooms, mid May-Fall, med-dark green DR foliage",Salmon/Coral,Average,Full Sun,Med-Dark Green
+GROUND COVER,"Rose, Ground Cover","2-3'Tx3-5'W, small, double pink flowers",  Pink,Average,Full Sun,Medium Green
+GROUND COVER,"Rose, Ground Cover","2-3'Tx3-4'W, semi-double, purple/crimson flowers, hips, birds",Purple/Crimson,Average,Full Sun,Green
+GROUND COVER,"Rose, Ground Cover","2-3'Tx3-5'W, pale lavender-pale blush pink-white fragrant flowers, June-September, Hips",Lavender/White,Average,Full Sun,Green
+GROUND COVER,"Rose, Ground Cover Beach","2-3'Tx3-6'W, fragrant, single, bright pink flowers, June-September, Hips, Birds",Bright Pink,Average,Full Sun,Green
+GROUND COVER,"Rose, Oso Easy Ground Cover","12-18""Tx2-3'W, red-orange with bright yellow center flowers, summer","Red/Orange, Yellow center",Moist,Full Sun,Glossy  Green
+GROUND COVER,"Rose, Oso Easy Ground Cover","12-36""Tx12-36""W, soft peach-cream flowers, late May, glossy, deep green foliage",Soft Peach/Cream,Average,Full Sun,Glossy Deep Green
+GROUND COVER,"Rose, Oso Easy Ground Cover","12-36""Tx12-36""W, salmon/coral flowers, late May, glossy, deep green foliage",Salmon/Coral,Average,Full Sun,Glossy Deep Green
+GROUND COVER,"Rosemary, Bog","1'Tx 3'W, pink, bell-shaped flowers, early Spring, evergreen blue foliage, wet soil",Pink,Wet,Sun/Part Sun,Blue
+GROUND COVER,Rupturewort,"2-3""Tx18-24""W, fine-leaved, tremendous spreading groundcover,  ",,Average,Sun/Part Sun,Green
+GROUND COVER,Snow in Summer,"3-6""Tx18-24""W, wooly gray foliage, white flowers, May-June, aggressive",White,Average,Sun/Part Sun,Wooly Gray
+GROUND COVER,"Soapwort, Rock","4-8""Tx3'W, bright pink-purple flower, Spring, evergreen foliage, fast grower                                                              ",Pink/Purple,Average,Full Sun,Greyish Green
+GROUND COVER,"Speedwell, Creeping","6""Tx18""W, sky blue flowers with white eye, April- May, deep green foliage                                                               ",Sky Blue/White Eye,Average,Sun/Part Sun,Deep Green
+GROUND COVER,"Speedwell, Creeping","1-3""Tx8-10""W, lavender to white flowers, May",Lavender /White,Moist,Full sun,Deep Green
+GROUND COVER,"Speedwell, Creeping","2-4""Tx18-24""W, brilliant blue flowers, early June, fine-textured olive green foliage",Brillant Blue,Dry,Full sun, Olive Green
+GROUND COVER,"Spirea, Alpine","12-15""Tx4-5'W, dense, soft pink flowers, June",Soft Pink,Average,Sun/Part Sun,Green
+GROUND COVER,"Spruce, Birdnest","2-3'Tx4-5'W, slow growing and spreading",,Average,Full sun,Green
+GROUND COVER,"Stephanandra, Cutleaf","2-3'Tx5-7'W, compact habit, finely dissected, foliage, Fall Color",,Average,Sun/Part Sun,Green
+GROUND COVER,"Stonecrop, creeping","4-6""Tx20-24""W, pinkish-red flower, July, bronze-beet red, fleshy foliage",Pinkish/Red,Average to dry,Full sun,Bronze/Red 
+GROUND COVER,Stonecrop,"4""Tx18-24""W, rose-red flower, Summer, bronze foliage",Rose Red,Average to dry,Full sun,Bronze/Red 
+GROUND COVER,Stonecrop,"3-4""Tx10-12""W, deep pink flowers, purple-edged, blue-gray foliage, August-September",Deep Pink,Average,Full sun,Blue Gray w/purple edge
+GROUND COVER,"Stonecrop, Woodland","4-6""Tx10-12""W, white flowers, May-June, shady areas, wildlife, N                                                      ",White,Average to moist,Sun/Part Sun,Light Green
+GROUND COVER,Stonecrop,"6-8""Tx12-15""W, white flowers, early July, blue-green succulent leaves, N",White,Average,Sun/Part Sun,Blue Green 
+GROUND COVER,Stonecrop,"4-6""Tx14-18""W, dark pink flowers, late summer, steel blue, tufted, succulent leaves, DR",Dark Pink,Average to dry,Full sun,Steel Blue
+GROUND COVER,Stonecrop,"6-8""Tx12-15""W, pink flowers, late summer, burgundy-red succulent leaves, DR",Pink,Average,Full Sun,Burgundy-Red
+GROUND COVER,Stonecrop,"4""Tx18""W, soft pink flowers, late summer, lime green leaves with creamy yellow edges, DR",Soft Pink,Average,Full Sun,Lime Green w /creamy edges
+GROUND COVER,Stonecrop,"6""Tx18""W, pink flowers, late summer, vibrant red foliage with pink edges that turn orange in fall, mat forming, DR",Pink,Average,Full Sun,Vibrant Red/w pink edges
+GROUND COVER,Stonecrop,"10-12""Tx18-24""W, dark pink flowers, late summer, blue-gray mounding leaves",5.45,,,
+GROUND COVER,Stonecrop,"3-6""T, white flowers, Jun-July, blue green foliage turns blood red in winter                                     ",White,Average,Full Sun,Blue/Green
+GROUND COVER,"Stonecrop, Goldmoss","3""Tx12-24""W, yellow flowers, early-mid-summer, Deer Resistant",Yellow,Average to dry,Sun/Part Sun,Green
+GROUND COVER,Stonecrop,"2-3""Tx15-18""W, pink flowers, late August, scalloped-shaped, fleshy foliage",Pink ,Average,Full sun,Medium Green
+GROUND COVER,Stonecrop,"6""Tx18""W, pink flowers, late Summer, lime with red tips foliage, Deer and Drought Resistant",Pink,Average,Full Sun,Lime w/red tips
+GROUND COVER,Stonecrop,"6""Tx2'W, white flrs, mid-summer, bead-shaped, green changing to coral-colored leaves in hot weather, red Fall Color",White ,Average to dry,Sun/Part Sun,Green to coral
+GROUND COVER,Stonecrop,"1-3""T x 24""W, yellow flowers, early-mid Summer, green fleshy foliage turns golden-orange in Fall",Yellow,Average to dry,Sun/Part Sun,Green  
+GROUND COVER,Stonecrop,"14""Tx 18""W, pink flowers, late Summer, red stems, butterflies",Pink,Average to dry,Sun/Part Sun,Red Stem
+GROUND COVER,Stonecrop,"6-8""T x 18""W, yellow flowers, Summer, deep green fleshy foliage, Bees",Yellow,Average,Full Sun,Deep Green
+GROUND COVER,Stonecrop,"8-10""Tx 18""W, deep pink flowers, Summer, deep plum foliage, butterflies and bees",,,,
+GROUND COVER,Stonecrop,"8-10""Tx 18""W, deep pink flowers, Summer, purple, pink, white foliage, butterflies and bees",,,,
+GROUND COVER,"Strawberry, Barren","4-6""Tx12-18""W, single yellow flowers, April-early July, dark green, three-lobed foliage, N", Yellow,Average,Sun/Part Sun,Dark Green 
+GROUND COVER,"Strawberry, Ornamental","4-6""Tx12-20""W, deep rose-pink flowers, April-June, dark green foliage, fast spreading, wildlife, N                                        Northcreek",,,,
+GROUND COVER,"Sumac, Fragrant","1-2'Tx5-6'W, fragrant yellow flower, April, shiny orange/red Fall Color, N",Yellow,Average to dry,Sun/Part Sun,Green
+GROUND COVER,Sweet Woodruff ,"6-8""Tx15-18""W, white flowers, May-June, fragrant leaves, Agressive ",White,Average to moist,Sun/Part Sun,Green
+GROUND COVER,Sweet Woodruff ,"6-8""Tx15-18""W, white flowers, May-June, fragrant leaves, Agressive ",White,,,
+GROUND COVER,"Sweetbox, Himalayan","18-24""Tx3-4'W, fragrant white flowers, late April, low mounding evergreen ",White,Average,Part/Full Shade,Dark Green
+GROUND COVER,"Thyme, Lemon","8-10""Tx18-24""W, silver-green variegated leaves, June-July, Deer Resistant",Pale Lilac,Average to dry,Full Sun,Silver Green variegated
+GROUND COVER,"Thyme, Creeping","1-2""Tx12-18""W, magenta-red flowers, Deer Resistant",Magenta Red,Average to dry,Full Sun,Dark Green
+GROUND COVER,"Thyme, Creeping","2""T, white flowers, Summer, evergreen foliage, Deer Resistant",White ,Average to dry,Full Sun,Light Green
+GROUND COVER,"Thyme, Creeping","1-2""Tx6-8""W, pink flowers, Summer, evergreen foliage, Deer Resistant",Lavender Pink,Average to dry,Full Sun,Gray Green
+GROUND COVER,"Thyme, Creeping","1-2""T, pink flowers, July-August, soft, hairy, gray-green foliage, Deer Resistant",Salmon Pink,Average to dry,Full Sun,Deep Olive Green
+GROUND COVER,"Thyme, Creeping","3-4""Tx10-12""W, deep purple bloom, late Spring, fragrant foliage, Deer Resistant",Purple,Average to dry,Full Sun,Green
+GROUND COVER,"Thyme, Golden Lemon","4-6""Tx24""W, white flowers, June-July, fragrant, yellow-green variegated leaves, Deer Resistant",White ,Average to dry,Full Sun,Yellow/Green variegated
+GROUND COVER,"Thyme, Wooly","1""Tx18-20""W, pink flowers, June-July, wooly gray foliage, Deer Resistant",Pink,Average to dry,Full Sun,Silver Gray
+GROUND COVER,Weigela,"18-24""Tx2-3' W, deep pink flowers, mid-June, burgundy/purple foliage",Deep Pink,Average,Full Sun,Burgundy/Purple 
+GROUND COVER,Winecups,"8-12""Tx 3-4', bright magenta flowers, June-July, dry soil only, N                                                                                       ",Bright Magenta,Dry,Full Sun,
+GROUND COVER,"Wintergreen, Christmas ","6""Tx3-4'W, evergreen, dense and compact, red berries, N",White,Average,Part/Full Shade,Dark Green  
+GROUND COVER,Yellowroot/Goldenseal,"2-3'T, spreader, forms colony, brown/purple flowers, Mar-April, erect stems, bright green, celery-like leaves, FC, N",Brown/Purple,Average,Sun/Part Sun,Bright Green
+GROUND COVER,"Yew, Spreading English","2-4'Tx12-15'W, major branches horizontal, tips of branches pendulous, shining dark green foliage",,Moist,Sun/Part Sun,Shiny Dark Green 
+HERBS-VEGGIES,Asparagus,"4'Tx3'W, male plant, Disease Resistant",,,,
+HERBS-VEGGIES,"Basil, Genovese Green","18-24""Tx12-15""W, annual",,Average,Full Sun,Green
+HERBS-VEGGIES,"Basil, Purple","16""Tx12""W, full sun, annual",,Average,Full Sun,Purple
+HERBS-VEGGIES,Chives,"4-12""Tx12""W, perennial",,Average,Sun/Part Sun,Green
+HERBS-VEGGIES,Cilantro/Coriander,"10-12""Tx8-10""W,annual",,Average,Sun/Part Sun,Green
+HERBS-VEGGIES,"Dill, Dwarf Fernleaf","18'Tx18'W, annual",,Average to moist,Full Sun,Green
+HERBS-VEGGIES,"Fennel, Bronze","4-6'Tx2-4'W, wispy green/bronze foliage, annual",,Moist,Full Sun,Wispy Green/Bronze
+HERBS-VEGGIES,Germander,"12-18""Tx12-18""W, evergreen, rose flowers ,aromatic ",Rose,Average,Full Sun,Deep Green
+HERBS-VEGGIES,Lemon Balm,"24-36""Tx24""W, white/lavender flowers, late summer, full sun, perennial",,,Full Sun,
+HERBS-VEGGIES,"Mint, Chocolate","18-36""Tx3-5'W, aggressive, perennial",,Moist,Full Sun,Green
+HERBS-VEGGIES,"Oregano, Hardy","18-24""Tx12-15""W, perennial",,Dry to average,Full Sun,Green
+HERBS-VEGGIES,"Parsley, Italian","15-24""Tx15-24""W, biennial",,Moist,Full Sun,Green
+HERBS-VEGGIES,"Parsley, Triple Curly","12-20""Tx12""W, biennial",,Moist,Sun/Part Sun,Green
+HERBS-VEGGIES,Peppermint,"12-36""Tx3-4'W, perennial", ,Moist,Sun/Part Sun,Green
+HERBS-VEGGIES,"Rosemary, Arp","2'Tx2'W, evergreen, purple/pink flowers (light purple/blue), May, perennial",Light Purple/Blue,Dry to average,Full Sun,Gray Green
+HERBS-VEGGIES,"Rosemary, Prostrate","6-12""Tx24-36""W, Tender perennial/annual",Blue/White,Dry to average,Full Sun,Gray Green
+HERBS-VEGGIES,"Sage, Garden","24-30""Tx12-18""W, blue/purple flower, annual/tender perennial, full sun",Blue/Purple,Average,Full Sun,Med Green
+HERBS-VEGGIES,"Sage, Pineapple","3-4'Tx3-4'W, red flowers, Fall, tender perennial",Red,Average,Full Sun,Med Green
+HERBS-VEGGIES,Spearmint,"12-36""Tx3-4'W, perennial",,Moist,Full Sun,Med Green
+HERBS-VEGGIES,"Thyme, English","12-15""Tx10-12""W, perennial",Lilac/Purple,Average to dry,Full Sun,Green
+HERBS-VEGGIES,"Verbena, Lemon","3-4'Tx12-15""W, medium green foliage, annual/tender perennial, sun-part shade",,Moist,Sun/Part Sun,Med. Green
+PERENNIALS,Anemone,"18""Tx 24""W, white flowers with blue violet underside, Spring-Fall, repeat bloomer, moist soil",White/Blue,Moist,Part/Full Shade,Green
+PERENNIALS,"Anemone, Japanese","3'Tx3'W,  white flowers, August-October, mounding foliage",White,Moist,Sun/Part Sun,Green
+PERENNIALS,"Anemone, Japanese ","2-3'Tx2-3'W, single rose-pink flowers, Aug-September",Rose Pink,Moist,Sun/Part Sun,Green
+PERENNIALS,"Anemone, Japanese ","24-30""Tx24-30""W, deep pink, yellow-centered flower, early August-September",Pink/Yellow,Average to Moist,Sun/Part Sun,Green
+PERENNIALS,Anise hyssop,"2-4'Tx2-4'W, violet blue flowers, July-September, licorice-scented foliage, Drought Resistant",Violet/Blue,Average,Full Sun,Green
+PERENNIALS,Anise,"2'Tx3'W, bright pink/purple flowers, June-Oct, butterflies, hummingbirds",Pink/Purple,Average,Sun/Part Sun,Bright Green
+PERENNIALS,Aster,"12-15""x18-24""W, lavender-blue flowers, Sept-Frost birds, butterflies, Deer Resistant",Blue/Lav,Average,Sun/Part Sun,Green
+PERENNIALS,Aster,"12-15""x18-24""W, pinkish-purple flowers, Sept-Frost, birds, butterflies, Deer Resistant",Pink/Purple,Average,Sun/Part Sun,Green
+PERENNIALS,Aster,"1-2'Tx18-3-4'W, deep sky-blue flowers, Sept-Frost, bees, birds, butterflies, Deer Resistant",,,,
+PERENNIALS,Aster,"18""Tx18""W, violet flowers, Sept/Oct, fragrant foliage, Bees, Butterflies, N",Violet,Average to Dry,Full Sun,Gray/Green
+PERENNIALS,"Aster, New England ","24-30""Tx24-30""W, rose-colored,  daisy-like flowers, late Aug-late Sept, wildlife magnet, N",Rose,Average,Full Sun,Deep Green
+PERENNIALS,"Aster, Stoke's","18-20""x18-24""W, double violet-blue flowers, July-Aug",Violet Blue ,Average,Full Sun,Green
+PERENNIALS,"Aster, Stoke's","12-18""x 18""W, white flowers, July-August, butterflies, bees, Deer Resistant",White ,,,
+PERENNIALS,"Aster, White Woodland","18-30""Tx18-30""W, white flowers, Aug-Oct, wildlife, N",Red,Dry to average,Part/Full Shade,Green
+PERENNIALS,Astilbe,"18-24""Tx24-30""W, red buds, pink-red flowers, July-August",Pink/Red,Moist,Part/Full Shade,Dark Green
+PERENNIALS,Astilbe,"24""Tx24-30""W, pale pink flowers, May-June ",Pale Pink,Moist,Part/Full Shade,Dark Green
+PERENNIALS,Astilbe,"24-36""Tx18-24""W, pure white flowers, June-July",White,Moist,Part/Full Shade,Shiny Green
+PERENNIALS,Astilbe,"24""Tx24-30""W, white flowers, May-June, deep green foliage",White,Moist,Part/Full Shade,Deep Green
+PERENNIALS,Astilbe,"18-24""Tx24-30""W, pale pink flowers, July-August, blue-green foliage",Pale Pink,Moist,Part/Full Shade,Dark Green
+PERENNIALS,Astilbe,"24""Tx24""W, garnet red flowers, mid-June-August",Garnet Red,Moist,Part/Full Shade,Dark Bronze to Green
+PERENNIALS,Astilbe,"24""Tx24""W, white flowers, mid-June-August",White,Moist,Part/Full Shade,Bronze/Green
+PERENNIALS,Astilbe,"36""Tx2-3'W,  purple-rose flowers, August-September, bronze cut-leaf foliage ",Purple/Rose,Moist,Part/Full Shade,Bronze/Green
+PERENNIALS,Astilbe,"15-24""Tx24-30""W, lilac/purple, July-August, bronze foliage",Lilac/Purple,Moist,Part/Full Shade,Bronze/Green
+PERENNIALS,Astilbe,"8-12""Tx12-15""W, dwarf, lavender-pink flowers, mid-late season",Lavender Pink,Moist,Part/Full Shade,Dark Green
+PERENNIALS,Astilbe,"18-20""Tx20-24""W, dark red flowers, late May-early June, dark green foliage",Dark Red,Moist,Part/Full Shade,Bronze to Dark Green
+PERENNIALS,Astilbe,"24-36""Tx20-24""W, soft, salmon-pink flowers, deep-red stems, Summer",Salmon Pink,Moist,Part/Full Shade,Blue Green w/deep red stems
+PERENNIALS,Astilbe,"1-2'Tx 2'W, pale pink flrs fade to green, July-August, heat/drought tolerant                                  ",Pale Pink to Green ,Average to Moist,Part/Full Shade,Bluish Green
+PERENNIALS,Astilbe,"1-2'Tx 2'W, raspberry purple flowers, July-August, heat/drought tolerant                                     ",Raspberry Purple,Average to Moist,Part/Full Shade,Bronze/Green
+PERENNIALS,Bachelors Button,"24""Tx2-3' W, deep blue flowers, May-July, silvery-gray foliage                                                     ",Deep Blue,Average,Full Sun,Silver- Gray/Green
+PERENNIALS,Bachelors Button,"12-15""Tx2-3' W, royal purple flowers, late June, silvery-gray foliage",White/Royal Purple,Average,Full Sun,Silver- Gray/Green
+PERENNIALS,"Baneberry, White","2-3'Tx2-3'W, fragrant white flowers, late Spring, white, dolls-eye berry in Fall, poisonous, Full Shade, N",White,Moist,Full shade,Bluish Green
+PERENNIALS,Beardtongue,"24-30""Tx18-24""W, bright red, tubular flowers, summer, Hummingbirds",Red,Average to dry,Full Sun,Green
+PERENNIALS,Beardtongue,"24-30""Tx18-24""W, white flowers, early June-July, purple-red foliage, hummingbirds, N",White,Average to dry,Full Sun,Purple/Red
+PERENNIALS,Beardtongue,"24""Tx18""W, loose spikes of tubular, rosey-lavender flowers, Summer, Bees, Hummingbirds",Rose/Lavender,,,
+PERENNIALS,Beardtongue,"3'Tx3'W, loose spikes of tubular, lavender-pink flowers, Summer, glossy, bronze-red foliage, Bees, Hummingbirds",Lavender-Pink,Average to dry,Full Sun,Bronze/ Red
+PERENNIALS,Bee Balm,"2'Tx2'W, cherry red flowers, Summer, mildew and Deer Resistant, Hummers, Bees and Butterflies",Red,Moist,Sun/Part Sun,Deep Green
+PERENNIALS,Bee Balm,"12-15""Tx12-15""W, fragrant, lavender-pink flowers, June-Sept,  High MR                                                                                       ",Lavender-Pink,Moist,Sun/Part Sun,Deep Green
+PERENNIALS,Bee Balm,"3-4'Tx3-4'W, deep scarlet flowers, July, butterflies, hummingbirds, N",Deep Scarlet,Moist,Sun/Part Sun,Deep Green
+PERENNIALS,Bee Balm,"30-36""Tx 18-24""W, raspberry wine flowers, July-Aug, butterflies and hummers, MR",Wine Red,Moist,Sun/Part Sun,Deep Green
+PERENNIALS,Bee Balm,"30-36""Tx 30""W, purple flowers, July-Aug, butterflies, bees and hummers, MR                                      ",,,,
+PERENNIALS,Bee Balm,"12-16""Tx12-15""W, bright pink flrs, July-Aug, butterflies, hummers, Deer Resistant, N                        ",Bright Pink,Moist,Sun/Part Sun,Deep Green
+PERENNIALS,Bee Balm,"30-36""Tx18-24""W, shocking violet-blue flowers, July-Aug, fragrant leaves, butterflies, hummers, N",Violet-Blue,Moist,Sun/Part Sun,Green
+PERENNIALS,"Bee Balm, Dwarf","10-12""Tx18""W, medium purple flowers, June-September, fragrant foliage, Butterflies, Hummers",Purple,Moist,Sun/Part Sun,Deep Green
+PERENNIALS,"Bee Balm, Spotted","2'Tx2'W, purple flowers, July-September, sandy soil, full sun, Bees and Butterflies, N",Purple,Sandy,Full Sun,Medium Green
+PERENNIALS,"Bellflower, Serbian","8-10""Tx2-3'W, 1""deep blue flower, June-Fall",Deep Blue,Average,Sun/Part Sun,Green
+PERENNIALS,"Bergenia, Heartleaf/Pigsqueak","10-12""Tx12-15""W, deep pink flowers, late March-mid-May, part-full shade, red Fall Color",Deep Pink,Average,Part/Full Shade,Shiny Dark Green 
+PERENNIALS,Black-eyed Susan,"24-30""Tx30-36""W, golden yellow flowers, July-Frost, N",Golden Yellow w/ brown center,Average,Full Sun,Deep Green
+PERENNIALS,Black-eyed Susan,"12-14""Tx18-24""W, deep yellow flowers with brown center, July-Frost",Deep Yellow w/brown center,Average,Full Sun,Deep Green
+PERENNIALS,"Black-eyed Susan, Sweet coneflower ","3-4'Tx2-3'W, golden yellow, quill-like flowers with black center, Aug-Frost,                                                                                  ",Gold Yellow  w/black center,Average,Full Sun,Deep Green
+PERENNIALS,Black-eyed Susan ,"36""Tx24-30""W, deep gold flower with brown eye, July-September, N ",Deep Gold w/ brown center,Average,Full Sun,Deep Green
+PERENNIALS,Black-eyed Susan ,"12-14""Tx 12-15""W, short yellow-orange flowers with black center, July-Frost, Butterflies, Birds",Yellow-orange w/black center,Average,Full Sun,Deep Green
+PERENNIALS,Bleeding Heart,"8""Tx15-18""W, rosey-pink flowers, April-Sept",Rosey-Pink,Moist,Part/Full Shade,Grayish-Green
+PERENNIALS,Bleeding Heart,"12-15""Tx15-18""W, everblooming, deep red flowers, June-Frost, ferny-green foliage",Deep Red,Moist,Sun/Part Sun,Grayish-Green
+PERENNIALS,Bleeding Heart,"30""Tx36-42""W, pink flowers, May-June, round growth habit, mid-summer dormancy",Pink w/white,Moist,Part/Full Shade,Bright Green
+PERENNIALS,"Bleeding Heart, Wild","12-18""Tx18-24""W, pink flowers, April-September, gray-green foliage, self-sows, N",Pink-Red,Moist,Sun/Part Sun,Grayish-Green
+PERENNIALS,"Bluebells, Virginia","18-24""x15-18"", trumpet-like, pink turning blue flowers, mid-April-mid May, ephemeral, N",Lavendar /Blue,Moist,Part/Full Shade,Blue-Green
+PERENNIALS,"Bluestar, Blue Ice","12-15""Tx2'W, dark, lavender-blue flowers, early spring, Deer Resistant, Drought Resistant",Dark Lavender- Blue,Average,Sun/Part Sun,Deep Green
+PERENNIALS,"Bluestar, Narrowleaf","30-36""Tx30-36""W, light blue flowers, mid-May, light and airy foliage, outstanding Fall Color, N",Light Blue,Average,Sun/Part Sun,Green
+PERENNIALS,"Breeches, Dutchman's","6-8""Tx6-8""W, white, pantaloon-shaped flowers, April-May, spring ephemeral, N                                 ",Deep Blue,,,
+PERENNIALS,"Bugloss, Siberian","12-15""Tx18-24""W, deep blue flowers, May-June, variegated foliage",Deep Blue,Moist,Part/Full Shade,Green/White Variegated
+PERENNIALS,"Bugloss, Siberian","12-15""Tx18-24""W, deep blue flrs, May-Jun, medium green foliage, spreader, N                               ",Deep Blue,Moist,Part/Full Shade,Med Green
+PERENNIALS,Butterfly Weed ,"18-36""Tx12-24""W, bright orange flowers, June-July, butterflies,  N",Orange,Average to dry,Full Sun,Green
+PERENNIALS,Butterfly Weed,"18-36""Tx12-24""W, bright yellow flowers, June-July, butterflies,  N",Yellow,Average to dry,Full Sun,Green
+PERENNIALS,"Cactus, Prickly Pear","6-10""Tx12-18""W, succulent, yellow flowers, June-July, N                                                                                                                                                     ", ,,,Succulent
+PERENNIALS,Calamint,"12-15""Tx15-18""W, lavender/white flowers, August-Frost, scented foliage, Bees, Hummers",Lavender/White,"Average, well-drained",Full sun,Deep Green
+PERENNIALS,Calamint,"12-24""Tx12""W, tiny blue flowers, June-frost, fragrant deep green foliage, Bees, Hummers                                             ",Blue,"Average, well-drained",Full sun,Deep Green
+PERENNIALS,"Calamint, Dwarf","9-12""Tx12-36""W, white flowers, June-Sept, fragrant deep green foliage, Bees, Hummers                                             ",White,"Average, well-drained",Full sun,Deep Green
+PERENNIALS,Calamint,"12-18""Tx12-18""W, white flowers, Aug-Oct, fragrant medium green foliage, Bees                                          ",,,,
+PERENNIALS,Cardinal Flower,"3-4'Tx18-24""W, bright red flowers, July-September, N",Red,Moist,Sun/Part Sun,Med Green
+PERENNIALS,"Cardinal Flower, Blue","30-36""Tx18-24""W, blue flowers, late June-Sept, butterflies and hummingbirds, N",Blue,Moist,Sun/Part Sun,Med Green
+PERENNIALS,Catmint,"2-3'Tx3-4'W, violet-blue flowers, June-July, fuzzy gray-green foliage",Violet/Blue,Average,Sun/Part Sun,Fuzzy Gray Green
+PERENNIALS,Catmint,"18""Tx18""W, blue-purple flowers, June-September,  gray-green foliage",Blue/Purple,Average,Sun/Part Sun,Gray/Green Silvery
+PERENNIALS,Catmint,"12-15""Tx14-20""W, lavender-blue flowers, May-July, soft grey silvery foliage",Lavender/Blue,Average,Sun/Part Sun,Soft Gray Silvery
+PERENNIALS,Catmint,"6-12""Tx2-3'W, lavender-blue flowers, Summer, silver-gray foliage, Bees and Butterflies",Lavender/Blue,Average,Sun/Part Sun,Silver Gray
+PERENNIALS,Catmint,"12-14""Tx12-14""W, lavender-blue flowers, Summer, silver-gray foliage, Bees and Butterflies",Lavender/Blue,Average,Sun/Part Sun,Silver Gray
+PERENNIALS,Columbine,"8-12""Tx15-18""W, compact, white/pink/purple flowers, May-June",White/Pink/Purple,Average,Sun/Part Sun,Green
+PERENNIALS,Columbine,"8-10""Tx8-12""W, yellow-red flowers, April-June, N                                                                                                                                                              ",Red/Yellow,Average,Sun/Part Sun,Green
+PERENNIALS,Columbine,"18-24""Tx8-12""W, lemon yellow/coral pink flowers, early April",Yellow/Pink,Average,Sun/Part Sun,Green
+PERENNIALS,Columbine,"18-24""Tx18-24""W, light blue flowers, late April-mid-June, Hummers",Light Blue,Average,Sun/Part Sun,Green
+PERENNIALS,Columbine,"12-14""Tx12-14""W, light pink flowers, late April-mid-June, hummingbirds and butterflies",Light Pink,Average,Sun/Part Sun,Green
+PERENNIALS,Coneflower,"36-42""Tx 18-24""W, carmine red flowers, July-September, butterflies and birds, N",Pink/Purple,Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"2-3'Tx2'W, longlasting, deep rose flowers, June-September, butterflies and birds, N",Deep Rose  ,Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"3'Tx3'W, long lasting, white flower, June-September, butterflies, bees and birds","White, yellow cone",Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"24-30""Tx18-24""W, deep pink flowers, mid-June-Sept, butterflies, bees and birds",Deep Pink,Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"24-30""Tx18-24""W, pink flowers, mid-June-Oct, butterflies, birds, bees","Pink, orange cone",Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"18-22""Tx15-18""W, rosey-pink flower, June-October, butterflies, bees and birds, N",Rosey Pink,Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"24""Tx30""W, mix of colors-pinks/orange/yellow, July-Frost, Birds, Butterflies, Bees"," Pink, Yellow, Orange Mix",Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"24""Tx30""W, rosey/purple flowers, June-Frost, Birds, Butterflies, Bees",Rosey Purple,Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"24""Tx30""W, white flowers, June-Frost, Birds, Butterflies, Bees",White,Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"18-24""Tx18-24""W, brilliant red flowers, July-Frost, Birds, Butterflies, Bees",Red ,Average,Full Sun,Dark Green
+PERENNIALS,"Coneflower, Dwarf","24""Tx 24""W, deep rose flowers, June-Sept, birds, bees and butterflies, N",,,,
+PERENNIALS,"Coneflower, Dwarf","18-24""Tx12-18""W, white flower, June-September, butterflies and birds                                       ",White,Average,Full Sun,Dark Green
+PERENNIALS,"Coneflower, Dwarf","18-20""Tx18-24""W, fragrant, pink blooms with yellow cones, June-Sept, birds and butterflies",Pink w/Yellow Cones,,,
+PERENNIALS,Coneflower,"18-24""Tx18-24""W, brilliant yellow flowers, June-Frost, Birds, Butterflies, Bees",Brilliant Yellow,Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"18-28""Tx18-24""W, deep magenta pink flowers with black stems and cone, June-Frost, Birds, Butterflies, Bees",Deep Magenta w/Blk Stem,Average,Full Sun,Dark Green
+PERENNIALS,Coneflower,"18-28""Tx18-24""W, deep red/pink flowers, June-Sept, Birds, Butterflies, Bees",Deep Red/Pink,Average,Full Sun,Dark Green
+PERENNIALS,Coral Bells,"18-24""Tx18-24""W, pink/white flowers,  May-early July, large bronze-purple foliage, hummingbirds, N",Pink/White,Average,Sun/Part Sun, Bronze/Purple
+PERENNIALS,Coral Bells,"10-12""Tx24-30""W, light pink flowers, May-July, striking pink-purple maple-like foliage, hummingbirds",Light Pink,Average,Sun/Part Sun,Pink Purple  
+PERENNIALS,Coral Bells,"12""Tx24-30""W, white flowers, May-July,  plum-purple foliage, hummingbirds",White ,Average,Sun/Part Sun,Plum Purple
+PERENNIALS,Coral Bells,"12""Tx24-30""W, vibrant pink flowers, May-July, iridescent silver foliage turns rosey blush later in the season, hummingbirds",Vibrant Pink,Average,Sun/Part Sun,Iridescent silver to Rose blush
+PERENNIALS,Coral Bells,"12-24""Tx15-18""W, white flowers, May-July, chartreuse foliage, hummingbirds, N",White ,Average,Sun/Part Sun,Chartreuse
+PERENNIALS,Coral Bells,"8-12""Tx18-24""W, pink flowers, May-July, pink/apricot/burnt orange foliage, hummingbirds, butterflies, DR, DR, part shade, dry soil",Pink,Average,Sun/Part Sun,Pink/Apricot/Burnt Orange
+PERENNIALS,Coral Bells,"5-6""Tx12-18""W, red flowers, early May, hummingbirds",Red,,,
+PERENNIALS,Coral Bells,"12""Tx15-18""W, white flowers, May-July, lime-green foliage, butterflies and hummingbirds",White ,,,Lime Green   
+PERENNIALS,Coral Bells,"18-24""Tx2-3'W, white flowers, September, lime green to chartreuse leaves, hummingbirds, N",White ,Average,Sun/Part Sun,Lime Green /chartreuse
+PERENNIALS,Coral Bells,"8-10""Tx15-18""W, white flowers, June-July, striking almost black colored foliage, hummingbirds",White,Average,Sun/Part Sun,Almost Black
+PERENNIALS,Culver's Root,"4-6'Tx3-5'W, 9""+long white-pale blue flower spires, late May (June/July), butterflies, moist soil, N",White/Pale Blue,Moist,Full Sun,Green
+PERENNIALS,"Daisy, Montauk ","3'Tx3-5'W, white flowers, Sept-Frost, dark, glossy foliage",White,Average to dry,Full Sun,"Glossy, dark green"
+PERENNIALS,"Daisy, Shasta ","3'Tx3'W, white flowers, June-July, butterflies",White w/yellow center,Average,Full Sun,Green
+PERENNIALS,Daylily,"18""Tx18-24""W, reblooming, deep lemon-yellow flowers, May-Sept",Lemon Yellow,Average,Sun/Part Sun,Dark Green
+PERENNIALS,Daylily,"36""Tx36""W, fragrant vivid yellow flowers, June-July",Vivid Yellow,Average,Sun/Part Sun,Dark Green
+PERENNIALS,Daylily,"18""Tx30""W, yellow-orange flowers, June-Frost, rebloomer",Yellow/Orange,Average,Sun/Part Sun,Dark Green
+PERENNIALS,Daylily,"28""Tx 24""W, dark raspberry-red flowers, velvety texture of petals, mid-summer                               Plant Group 6pts/flat @ $4.59/pt",Dark Rasberry Red,Average,Sun/Part Sun,Dark Green
+PERENNIALS,Daylily,"34""Tx 24""W, dark red with yellow center with large spoon-shaped petals, early summer","Dk Red, yellow center",Average,Sun/Part Sun,Dark Green
+PERENNIALS,Daylily,"26""Tx 24""W, fragrant, wine purple flowers with glowing chartreuse throat, ruffled petals, mid to late summer","Wine Purple, chartreuse",Average,Sun/Part Sun,Dark Green
+PERENNIALS,Daylily,"30""Tx24""W, intense scarlet red flowers with ruffled edges, rebloomer",Scarlet Red,Average,Sun/Part Sun,Dark Green
+PERENNIALS,Daylily,"33""Tx24""W, true purple with lime green throat flowers, mid-season bloom","Purple, lime green",Average,Sun/Part Sun,Dark Green
+PERENNIALS,Daylily,"26""Tx 24""W, large, deep red to black flowers, mid-season, grass-like foliage                                      Plant Group 6pts/flat @ $4.59/pt",Deep Red/black,Average,Sun/Part Sun,Dark Green
+PERENNIALS,Daylily,"12-18""Tx 18-24""W, melon pink flower with yellow throat, mid-season, grass-like foliage, rebloomer                                    ",Pink/yellow,Average,Sun/Part Sun,Dark Green
+PERENNIALS,False Indigo,"3-4'Tx3-4'W, indigo blue pea-like flowers, May-June, N",Indigo blue,Average,Sun/Part Sun,Dark Green
+PERENNIALS,False Indigo,"30-36""Tx4-5'W, chocolate/purple flrs, Spring, upright growth habit, needs poor soil, Deer Resistant, Bees",Chocolate/Purple,Average to poor,Sun/Part Sun,Deep Blue/Green
+PERENNIALS,False Indigo,"30-36""Tx4-5'W, creamy vanilla flrs, Spring, upright growth habit, needs poor soil, Deer Resistant, Bees",Creamy Vanilla,Average to poor,Sun/Part Sun,Dark Green
+PERENNIALS,Foamflower,"12""Tx12-15""W, white flowers, May-June, red-speckled dissected leaves, spreading habit, N",White ,Moist,Part/Full Shade,Red Speckled
+PERENNIALS,Foamflower,"10-12""Tx10-12""W, white flowers, late April-early May, maple-like foliage, spreading habit, Fall Color, N",White,Moist,Part/Full Shade,Green
+PERENNIALS,Foamflower,"8-10""Tx12-15""W, pink buds open to white flowers, May-June, green/purple veins foliage, mounding habit", White ,Moist,Part/Full Shade,Green w/ Purple veins
+PERENNIALS,Foamy Bells,"12-16""Tx12-16""W, pink flowers, early May-August, trident-shaped med green/choco inlay foliage",Pink,Moist,Sun/Part Sun,Med Green w/Choc inlay
+PERENNIALS,Foamy Bells,"18-20""Tx24-28""W, white flowers, April-May, trident-shaped cinnamon with orange foliage ",White,Moist,Sun/Part Sun,Cinnamon/Orange inlay
+PERENNIALS,Foamy Bells,"8-12""Tx16-20""W, white flowers, April-June, blue/green-silver with burgundy veined foliage",White,Moist,Sun/Part Sun,"Blue-Green, Silver w/Burgundy veins"
+PERENNIALS,Foamy Bells,"8-12""Tx16-20""W, white flowers, April-June, caramel/bronze-green foliage",White,Moist,Sun/Part Sun,Carmel w/ Bronze
+PERENNIALS,Foamy Bells,"7-10""Tx18-24""W, white flowers, summer, frosted, blue foliage with green tones, silvery-pink in fall, Hummingbirds ",Pink,Moist,Sun/Part Sun,Frosted Blue/Green
+PERENNIALS,Foamy Bells,"12""Tx18""W, pink flowers, summer, lightly silvered, green leaves with purple center, Hummingbirds",Pink,Moist,Sun/Part Sun,Lt Silvery Green w/ Purple 
+PERENNIALS,Foamy Bells,"18""Tx18""W, shell pink flowers, May-July, coppery/bronze foliage turning dark green with coppery/bronze edges, Hummingbirds",Pink,Moist,Sun/Part Sun,Copper Bronze to Dark Green 
+PERENNIALS,Forget-Me-Not,"6-8""Tx12-15""W, bright blue flowers, May-June",Blue,Moist,Sun/Part Sun,Grey Green
+PERENNIALS,Foxglove,"3-4'Tx3'W,  tall spikes of bell-shaped, creamy white/spotted with purple flowers, late Spring to mid-Summer, Biennial, Bees",Cream w/purple spotted throat,Average,Sun/Part Sun,Green
+PERENNIALS,Foxglove,"3-4'Tx3'W,  tall spikes of bell-shaped, purple/spotted with purple flowers, late Spring to mid-Summer, Biennial, Bees",Purple w/purple spotted throat,Average,Sun/Part Sun,Green
+PERENNIALS,Foxglove,"3-4'Tx3'W,  tall spikes of bell-shaped, lavender/spotted with purple flowers, late Spring to mid-Summer, Biennial, Bees",Lavender w/purple spotted throat,Average,Sun/Part Sun,Deep Green
+PERENNIALS,Gay Feather,"18-24""Tx12-18""W, pinkish-purple flower spikes, June-Sept (July/Aug), butterflies",Pink/Purple,Average,Full sun,Dark Green
+PERENNIALS,Gay Feather,"18-24""Tx18-24""W, white flr spikes, Jun-Sept  (July/Aug), butterflies, bees, Deer Resist                                          Plant Group 4pts/flat @ $7.29/pt                        ",White ,Average,Full sun,Dark Green
+PERENNIALS,"Gentian, Meadow Bottle","12""Tx24""W, deep blue-violet flrs, late Aug-Sept, dry-average soil, Deer Resist                                     Plant Group 6pts/flat @ $4.59/pt ",Deep Blue,Average to dry,Sun/Part Sun,Sun/Part Sun
+PERENNIALS,Geum,"12-15""Tx12-15""W, double, bright orange-red flowers, May-June, deep green foliage",Orange/Red,Average,Sun/Part Sun,Deep Green
+PERENNIALS,Geum,"8-12""Tx8-12""W, single orange flowers, May-July, deep green, shiny foliage ",Orange,Average,Sun/Part Sun,Shiny Deep Green
+PERENNIALS,Geum,"18-24""Tx18-24""W, double scarlet-red flowers, late April-early Summer",Scarlet Red,Average,Sun/Part Sun,Deep Green
+PERENNIALS,Geum,"8-10""Tx10-12""W, single yellow flowers, late April-early summer ",Yellow,Average,Sun/Part Sun,Deep Green
+PERENNIALS,Goatsbeard ,"4-6'Tx4-6'W, spikes of cream/white flowers, June-July, N",Creamy White,Moist,Sun/Part Sun,Dark Green
+PERENNIALS,Goatsbeard ,"3-4'Tx2-3'W, feathery spikes of cream/white flowers, Summer/Fall, Part Sun ", Creamy Yellow on red stems,Moist,Sun/Part Sun,Dark Green
+PERENNIALS,Goldenrod,"24-30""Tx24-30""W, arching yellow flowers, late July-mid-Sept, N",Bright Yellow,Average,Full Sun,Deep Green
+PERENNIALS,"Goldenrod, Seaside","3-4'Tx3-4'W, yellow flowers, late July-mid-Sept, succulent, bees, Salt Tolerant, DR, N                                                     North Creek",Yellow,Average,Full Sun,Deep Green
+PERENNIALS,"Goldenrod, Wreath/Bluestem","2'Tx2'6""W, small yellow flowers, Aug-Oct, bees, can take shade, N                                                Plant Group 6pts/flat @ $4.59/pt ",Yellow,Average to dry,Sun/Part Sun,Medium Green
+PERENNIALS,"Grass, Blue-eyed","8-10""Tx8-10""W, 3/4"" bright blue flowers, May-July, iris-like foliage",Bright Blue,Moist,Full Sun,Deep Green
+PERENNIALS,Hellebore (Lenten Rose),"18-24""Tx24-36""W, red flowers, Feb-May, dark evergreen foliage, Deer Resistant",Red shades,Average,Part/Full Shade,Dark Green
+PERENNIALS,Hellebore,"12-18""Tx 12-15""W, pink-peach, flowers, early March-May, evergreen foliage, Deer Resistant",Pink to Peach,Average,Part/Full Shade,Deep Green
+PERENNIALS,Hellebore,"12-15""Tx18-21""W, light pink-burgundy flowers, March-May, evergreen foliage, Deer Resistant",Pink/Burgundy,Average,Part/Full Shade,"Silvery, Deep Green"
+PERENNIALS,Hellebore,"9-12""Tx12-15""W, white flowers, late November-Jan, deep red stems, evergreen foliage, Deer resistant",White,Moist,Part/Full Shade,Deep Green w/ Red Stems
+PERENNIALS,Hellebore,"2'Tx2'W, deep burgundy red flowers with red stems, late winter, evergreen, Deer Resistant ", Burgundy Red,Average,Part/Full Shade,Silvery Green
+PERENNIALS,Hellebore,"2'Tx2'W, jet black, single flowers, late winter, evergreen, Deer Resistant                                         Plant Group 6pts/flat @ $10.49/pt       ",Jet Black,Average,Part/Full Shade,Evergreen
+PERENNIALS,Hellebore,"2'Tx2'W, black-purple, double flowers, late winter, evergreen, Deer Resistant                                  Plant Group 6pts/flat @ $10.49/pt ",Black Purple,Average,Part/Full Shade,Evergreen
+PERENNIALS,Hosta,"3-4'Tx4-5'W,  lavender flowers, Summer, huge, heavily corrugated, deep green with blue-tinged leaves ",Lavender ,Moist,Part/Full Shade,Dp Green w/Blue tinge
+PERENNIALS,Hosta,"24""Tx 36""W, white flowers, August, huge, deeply cupped, powder blue/green foliage, Slug Resistant",White,Moist,Part/Full Shade,Powder blue/Green
+PERENNIALS,Hosta,"32""Tx40""W, white flowers, August,  blue-green foliage with yellow border",White,Moist,Part/Full Shade,"Blue-Green, yellow border"
+PERENNIALS,Hosta,"25""Tx48""W, lavender flowers, August, green margin with gold center leaves",Lavender,Moist,Part/Full Shade,Green w/ Gold center
+PERENNIALS,Hosta,"25""x55""W, lavender flowers, mid-July-mid-August,  interesting leaves",Lavender,Moist,Part/Full Shade,"Chartreuse/cream, green margin"
+PERENNIALS,Hosta,"15-18""Tx21-24""W, lavender flowers, September, blue-green leaves with cream borders",Lavender,Moist,Part/Full Shade,"Blue-Green, Cream Border"
+PERENNIALS,Hosta,"20""Tx18""W, lavender flowers, July, green leaves with golden yellow border",Lavender,Moist,Part/Full Shade,"Green, gold yellow border"
+PERENNIALS,Hosta,"21-24""Tx30-36""W, lavender flowers, August, dark green leaves ringed with white margins",Lavender,Moist,Part/Full Shade,"Dark Green, white margin"
+PERENNIALS,Hosta,"30""Tx48""W, lavender flowers, July, large, oval, dusty blue foliage, upright, vaselike form                  Plant Group 8plts/flat @ $4.49/pt                   ",Lavender,Moist,Part/Full Shade,Dusty Blue
+PERENNIALS,Hosta,"15-18""Tx24-30""W, lavender flowers, late July, yellow variegated foliage",Lavender,Moist,Part/Full Shade,Yellow Variegated
+PERENNIALS,Hosta,"15-20""x30-40""W, pale lavender flowers, August, brilliant gold with dark green margins foliage",Pale lavender/white,Moist,Part/Full Shade,"Gold, dark green margin"
+PERENNIALS,Hosta,"36""Tx30""W, light lavender flowers, August, blue-gray heavily textured foliage",Light Lavender,Moist,Part/Full Shade,Blue Gray
+PERENNIALS,Hosta,"24""Tx18""W, fragrant white flowers, August, green, heart-shaped, deeply veined leaves",White,Moist,Part/Full Shade,Green 
+PERENNIALS,Hosta,"4'Tx7'W, pale lavender flowers, early-mid Summer, heavy, very large blue green leaves, Bees and Hummers",Lavender,Moist,Part/Full Shade,Blue green
+PERENNIALS,Hosta,"2'Tx4'W, white (lavender) flowers, early-mid Summer, heavily rippled, slightly cupped, cascading blue leave         Plant Group 8plts/flat @ $4.49/pt  ",Lavender,Moist,Part/Full Shade,Blue
+PERENNIALS,Hosta,"30""Tx4'W, pale lavender flowers, early Summer, upright, vase-shaped, slighty cupped, corrugated, blue leaves",Pale lavender/white,Moist,Part/Full Shade,Blue
+PERENNIALS,Hosta,"18""Tx3'W, white flowers (pale lavender), late Summer, heavily twisted, rippled, blue green leaves, Bees and Hummers",Pale Lavender,Moist,Part/Full Shade,Bluegrey Green
+PERENNIALS,Indian Pink,"18-24""x15-18"", red/yellow tubular flower, late May, hummingbirds, N                                                                               North Creek",Red/Yellow,Average to moist,Sun/Part Sun,Glossy green
+PERENNIALS,Iris,"28""Tx24-30""W, white blooms with yellow falls, June-July",White/Yellow,Average to moist,Sun/Part Sun,Green
+PERENNIALS,Iris,"36""Tx30""W, white/yellow throat flower, May-June, moist soil",White/Yellow,Moist,Sun/Part Sun,Green
+PERENNIALS,"Iris, Blue Flag","36""Tx30""W, bluish-purple flowers, early June-mid-late July, N",Bluish Purple,Average to wet,Sun/Part Sun,Green
+PERENNIALS,"Iris, Japanese Variegated ","18-20""Tx12-15""W, red/purple flowers, June, creamy-yellow variegated foliage",Red/Purple,Average to moist,Sun/Part Sun,Creamy Variegated
+PERENNIALS,"Ironweed, Narrowleaf","30-36""Tx30-36""W, flattened heads of deep purple flowers, Aug-Sept, butterflies, N",Deep Purple,Average to dry,Full sun,Green
+PERENNIALS,"Ironweed, New York","3-4'Tx1-2'W, flattened heads of deep purple flowers, Aug-Sept, butterflies, N",Deep Purple,Average to moist,Full sun,Dark Green
+PERENNIALS,Jacob's Ladder ,"15-18""x12-15""W, light purple/blue flowers, April, variegated foliage, N", Purple/Blue,Average,Part/Full Shade,Variegated
+PERENNIALS,Joe Pye Weed,"5-6'Tx3-4'W, rosey-pink flowers, August-September, wildlife, N",Rosey Pink,Average to moist,Full sun,Dark Green
+PERENNIALS,"Joe Pye Weed, Dwarf","3-4'Tx3-4'W, rosey-pink flowers, July-September, wildlife, N",Rosey Pink,Moist,Sun/Part Sun,Green
+PERENNIALS,"Joe Pye Weed, Dwarf","2-3'Tx 2-3'W, rosey-pink flowers, July-September, wildlife, N                                                                        ",Rosey Pink,Moist,Sun/Part Sun,Green
+PERENNIALS,Lady's Mantle,"8-10""Tx18-24""W, yellow-green flowers, late May-June, gray-green foliage",Yellow/Green,Average to moist,Sun/Part Sun,Gray Green
+PERENNIALS,"Lady's Mantle, Dwarf","6""Tx8""W, yellow-green flowers, late May-June, gray-green foliage",Yellow,Average,Sun/Part Sun,Gray Green
+PERENNIALS,Lambs Ears,"8-12""x18-24""W, huge, wooly, velvety, silvery-white leaves",Purplish pink,Average to dry,Full sun,Silvery white
+PERENNIALS,Lambs Ears,"12-15""x18-24""W, fuzzy gray foliage, non-flowering",,Average to dry,Full sun,Silver gray
+PERENNIALS,Larkspur ,"30-40""Tx24-36""W, double, deep blue flowers, late May-early July",Deep Blue,Average,Full sun,Green
+PERENNIALS,Larkspur ,"30-40""Tx24-36""W,  double, white flowers, late May-early July",White,Average,Full sun,Green
+PERENNIALS,Larkspur ,"12-18""Tx18-24""W,  clear, sky blue flowers, Summer, Pollinators, Cut Flower",Blue ,Average,Full sun,Green
+PERENNIALS,Lavender,"12-18""Tx2-3'W, blue flowers, June-September, fragrant foliage, bees and butterflies ",Purple Blue,Average to dry,Full sun,Grey Green
+PERENNIALS,Lavender,"12-15""Tx18""W, purple flowers, June-Sept, fragrant foliage, Bees and Butterflies, Cut Flower",Purple,Average to dry,Full sun,Grey Green
+PERENNIALS,Lavender,"12-15""Tx2-3' W,  pale lavender flowers, June-September, fragrant foliage, bees and butterflies",Pale Lavender,Average to dry,Full sun,Grey Green
+PERENNIALS,"Lavender, Dwarf","12-15""Tx16-18""W, fragrant deep purple flrs, Jun-Sept, fragrant gray-green foliage, Bees and Butterflies, Cut Flower",Deep Purple,Average to dry,Full sun,Grey Green
+PERENNIALS,Leopardsbane,"10-12""Tx10-12""W, yellow, daisy-like flowers, mid-late April, deep green foliage",Yellow,Moist,Sun/Part Sun,Deep Green
+PERENNIALS,Liriope,"8-10""Tx15-18""W, lavender flowers, August,  cream-variegated foliage, blue-black, berry-like fruit",Lavender,Average,Sun/Part Sun,Cream Variegated
+PERENNIALS,Liriope,"8-10""Tx15-18""W, lavender flowers, August, blue-black, berry-like fruit",Lavender,Average,Sun/Part Sun,Dark Green
+PERENNIALS,Liriope,"10-12""Tx12-18""W, pale lavender flowers, August, blue-black, berry-like fruit, green/white variegated foliage, spreading habit",,,,
+PERENNIALS,Lungwort,"14""Tx30""W, pale blue flowers, April-May, spotted foliage",Pale Blue,Average,Part/Full Shade,"Deep Green, silver spots"
+PERENNIALS,Lungwort,"10-12""Tx12-15""W, raspberry colored flowers, April-May, spotted foliage, self sower ",Rasberry ,Average,Part/Full Shade,"Deep Green, silver spots"
+PERENNIALS,"Lupine, Wild Sundial","2-3'Tx15-18""W, bluish-purple flowers, late May-early July, deer resistant, butterflies, N",Blue/Purple,Average,Full sun,Green
+PERENNIALS,"Marigold, Marsh","18-24""Tx18-24""W, yellow flowers, late April, wildlife, N",Yellow,Wet,Sun/Part Sun,Deep Green
+PERENNIALS,Masterwort,"2'Tx2'W, pink flowers, Summer-Fall, moist soil/shade",Pink,Moist,Partial Shade,Medium Green
+PERENNIALS,"Meadow Rue, Lavender Mist","6-7'Tx3-4'W, lavender flowers with yellow stamens, July-August, moist soil, full sun-part shade ","Lavender, yellow stamens",Average to moist,Sun/Part Sun,"Blue-green, purple stems"
+PERENNIALS,Meadow Sage,"18""Tx18-24""W, deep purple flowers, June-July",Deep Purple,Average,Full sun,Medium Green
+PERENNIALS,Meadow Sage,"12-18""Tx15-18""W, violet purple flowers & stems, June-Frost",Violet Purple w/purple stems,Average,Full sun,Medium Green
+PERENNIALS,Meadow Sage,"8-12""Tx10-12""W, deep purple flowers, June-Sept, fragrant foliage",Deep Purple,Average,Full sun,Deep Green
+PERENNIALS,"Milkweed, Swamp","3'Tx12-24""W, mauve/pink flowers, June-July, butterflies, bees, hummers, moist soil, N",Mauve Pink,Moist to wet,Full sun,Green
+PERENNIALS,"Milkweed, Swamp","3'Tx12-24""W, white flowers, June-July, butterflies, bees, hummers, moist soil, N",White,Moist to wet,Full sun,Deep Green
+PERENNIALS,"Milkweed, Whorled","2'Tx12-24""W, white flowers, mid-late summer, butterflies, bees, hummers, N",White,Average to dry,Sun/Part Sun,Green
+PERENNIALS,"Montbretia, Lucifer","24""Tx18-24""W, deep, dark, fiery red, mid-late summer, bright green, grass-like, spear-shaped leaves",Dark Fiery Red,Average,Sun/Part Sun,Bright Green
+PERENNIALS,"Mountain Mint, Short-toothed","2-3'Tx2-3'W, white flowers, late Summer, all kinds of Beneficial Insects, moist soil, N                           Plant Group 6pts/flat @ $4.59/pt",White ,Moist,Sun/Part Sun,Green
+PERENNIALS,Obedient Plant,"24-30""Tx18-24""W, white flowers, June-July, bees, butterflies, hummingbirds, Deer Resistant",White,Average,Full sun,Dark Green
+PERENNIALS,"Peony, Garden","36""Tx36""W, large, apple-blossom pink flowers, June",Apple Blossem Pink,Average to moist,Sun/Part Sun,Deep Green
+PERENNIALS,"Peony, Garden","3'Tx3'W, fragrant, double white flowers with red flecks, early season                                                ",White/ Red Flecks,Average to moist,Sun/Part Sun,Deep Green
+PERENNIALS,"Peony, Garden","3'Tx3'W, fragrant, double white flowers, early season",White,Average to moist,Sun/Part Sun,Deep Green
+PERENNIALS,"Peony, Garden","30-36""Tx30-36""W, large, fragrant, rosey-reddish-pink flowers, early June",Rosey Red/Pink,Average to moist,Sun/Part Sun,Deep Green
+PERENNIALS,"Phlox, Garden","18-24""Tx12-15""W, fragrant, deep purple/white-eyed flower, July",Deep Purple w/White Eye,Average,Sun/Part Sun,Medium Green
+PERENNIALS,"Phlox, Garden","18-24""Tx15-18""W, white flowers, July-September, mildew-resistant",White ,Average,Sun/Part Sun,Medium Green
+PERENNIALS,"Phlox, Garden","18-24""Tx12-15""W, fragrant, deep pink/white-eyed flower, July-September, mildew-resistant",Deep Pink White Eye,Average,Sun/Part Sun,Medium Green
+PERENNIALS,"Phlox, Garden","18-24""Tx15-18""W, fragrant, pink-red-eyed flower, July-September, mildew-resistant",Pink/Red ,Average,Sun/Part Sun,Medium Green
+PERENNIALS,"Phlox, Garden","36""Tx15-18""W, fragrant, pink flower, July-September, mildew-resistant, butterflies, bees",Lavender-Pink,Average,Sun/Part Sun,Medium Green
+PERENNIALS,"Phlox, Garden","24-30""Tx15-18""W, fragrant, blue flowers, May- (July?) September, mildew-resistant, butterflies, bees, N",Blue,Average,Sun/Part Sun,Deep Green
+PERENNIALS,Pinks,"3""Tx18-20""W, double rose-pink flowers, May-June, soft green foliage ",Rose Pink,Average,Full sun,Soft Green
+PERENNIALS,Pinks,"3-5""Tx18-24""W, single deep violet-pink flowers, May-June, baby blue foliage",Deep Violet Pink,Average,Full sun,Baby Blue
+PERENNIALS,Pinks,"4-6""Tx12-18""W, deep burgundy flowers, mid-May, bronzy-green, evergreen foliage",Deep Burgundy,Average,Full sun,Bronzy Green
+PERENNIALS,"Pinks, Wild (Catchfly)","6-8""Tx10-15""W, deep pink flowers, late Spring, Hummingbirds, N",Deep Pink,Average,Sun/Part Sun,Green
+PERENNIALS,Poppy,"30""Tx30-36""W, 3-4"" diameter flowers with black center, mid-May-June","Orange, black Center",Average,Full sun,Deep Green
+PERENNIALS,"Poppy, Iceland","10-12""Tx12-18""W, orange/yellow/scarlet flowers, late April-Frost",Orange/Yellow/ Scarlet,Average,Sun/Part Sun,Blue-green
+PERENNIALS,"Poppy, Celandine","18""Tx18""W, deep yellow flowers, April, shade, N",Deep Yellow,Moist,Part/Full Shade,Light Green
+PERENNIALS,"Primrose, Orchid","12-24""x10-12"", orchid-pink flowers, May                                                                                   ",Orchard Pink,,,
+PERENNIALS,Rose Mallow,"24-30""Tx24-30""W, 8""diameter pink with red eye flowers, late July-early September, N",Pink w/red eye,Moist to wet,Full sun,Green
+PERENNIALS,"Sage, Russian","4'Tx2-3'W, lavender/blue flowers, Aug-September, fragrant silver foliage",Lavender/Blue,Average to dry,Full sun,Silver Green
+PERENNIALS,"Sage, Russian Dwarf","2'Tx2-3'W, lavender/blue flowers, Aug-September, fragrant silver foliage",Lavender/Blue,Average to dry,Full sun,Silver Green
+PERENNIALS,"Sea Holly, Big Blue","24-30""Tx24-30""W, violet blue, thistle-like flowers, late May-July, silvery-blue foliage",Violet Blue ,Dry,Full sun,Silver Blue
+PERENNIALS,Sea Lavender,"2'Tx2'W, pale purple flowers, July-August, tidal shorelines, bees, N                                                          Plant Group 6pts/flat @ $4.59/pt                                        ",Pale Purple,Average,Full sun,Green
+PERENNIALS,"Sea Thrift, Red-leaved","6-8""Tx10-12""W, rosey-pink, tuft-like flowers, purple-red, grass-like foliage, sand/salt environment",Rosey Pink ,"Dry, sandy",Full sun,Purple/Red  
+PERENNIALS,"Snakeroot, Brunette","3-4'Tx18-24""W, deep purple leaves, pink/white fragrant flowers, Aug-Oct, N",Pink/White,Average to moist,Part/Full Shade,Deep Purple
+PERENNIALS,Sneezeweed,"28-32""Tx18-24""W, brilliant yellow daisy-like flowers, July-Frost",Brilliant Yellow,Average to moist,Full sun,Green
+PERENNIALS,Sneezeweed,"36""Tx30""W,  yellow/orange-red daisy-like flowers, late June-Summer","Yellow,Orange,Red",Average to moist,Full sun,Green
+PERENNIALS,"Solomon's Seal, Small","20-24""Tx20-24""W, greenish-yellow, bell-like flowers, May, green foliage, berries, N                             Plant Group 6pts/flat @ $5.69/pt",Greenish/Yellow,Moist,Part/Full Shade,Light Green
+PERENNIALS,"Solomon's Seal, Variegated","18-20""Tx12-15""W, pink buds/white flowers, May, clumper",White,Moist,Part/Full Shade,Green w/Cream edge
+PERENNIALS,Speedwell,"12""Tx15-18""W, deep blue flower, June-August, clumper  ",Deep Blue,Average,Full sun,Deep Green
+PERENNIALS,Speedwell,"6""Tx12-18""W, light pink flowers, Summer, bees, butterflies, Deer Resistant",Light Pink,Average,Full sun,Green
+PERENNIALS,"Spurge, Cushion","10-12""Tx15-18""W, screaming yellow flowers, late April-June, chartreuse, green turning red foliage",Screaming Yellow,Dry,Full sun,Chartreuse 
+PERENNIALS,"Stachys, Hummelo","18-24""Tx18-24""W, lavender-rose flrs, July-Sept, deep green foliage, butterflies      ",Lavender Rose,Average,Sun/Part Sun,Deep Green
+PERENNIALS,Stonecrop,"18-24""x18-24""W, pink-deep red flowers, Aug-October, butterflies ",Pink/Deep Red ,Average to dry,Full sun,Green
+PERENNIALS,Stonecrop,"2'Tx4'W, yellow flowers, August-October, succulent foliage, Bees and Butterflies",Yellow,Average to dry,Full sun,Grey-Green
+PERENNIALS,Stonecrop,"1.5'Tx3'W, deep, rose-purple flrs, Aug, stems & leaves-deep burgundy hue        ",Deep Rose Purple,Average to dry,Full sun,Dp Burgundy
+PERENNIALS,Stonecrop,"1'Tx3'W, deep, rose-pink flrs, July-Aug, purple-tinted leaves, tight and compact                              Plant Group 6pts/flat @ $4.59/pt",Deep Rose Pink,Average to dry,Full sun,Purple 
+PERENNIALS,"Sunflower, False","3-4'Tx2-3'W, golden daisy-like flower, all summer, N",Golden Yellow,Average,Full sun,Green
+PERENNIALS,"Sunflower, False","3-4'Tx18-24""W, orange-yellow daisy flowers, red stems, June-September, N",Orange-Yellow,Average,Full sun,"Deep Green, Red Stems"
+PERENNIALS,Tickseed,"3-6""Tx6""W, yellow flowers, blooms all summer",Yellow,,Full sun,
+PERENNIALS,Tickseed,"15-18""Tx18-24""W, golden-yellow daisy-like flowers, June-frost, deep green foliage                         Plant Group 6pts/flat @ $4.59/pt",Golden Yellow,Average,Full sun,Deep Green
+PERENNIALS,"Tickseed, Threadleaf","18-24""Tx2-3'W, pale yellow flowers, Summer, fine, lacy foliage, N",Pale Yellow,Average to dry,Full sun,Green
+PERENNIALS,Tickseed ,"18-24""Tx2-3'W, deep yellow flowers, June-September, cactus-like foliage (?)",Deep Yellow,Average to dry,Full sun,Deep Green
+PERENNIALS,Tickseed ,"18-24""Tx2-3'W,  yellow/orange flowers, June-September, butterflies, Deer Resistant",Yellow/Orange,Average to dry,Full sun,Deep Green
+PERENNIALS,Tickseed ,"15-18""Tx2-3'W, velvety magenta flowers, June-September, butterflies, Deer Resistant",Magenta,Average,Full sun,Bright Green
+PERENNIALS,Tickseed ,"6-12""Tx2'W,  yellow/orange (?) red w/yellow center flowers, June-September, butterflies, Deer Resistant","Red, yellow center",Average,Full sun,Green
+PERENNIALS,Tickseed ,"15-18""Tx18-24""W, deep wine red flowers, early to late summer, butterflies, Deer Resistant               Plant Group 6pts/flat @ $4.59/pt","Deep Wine Red, yellow center",Average to dry,Full sun,Dark Green
+PERENNIALS,Toadlily,"1-1.5'Tx3', white flowers/ maroon spots, Sept-Nov, upright stems, spreader, shady/moist soil           Plant Group 6pts/flat @ $4.59/pt",White/Maroon spots,Moist,Part/Full Shade,Green
+PERENNIALS,Turtlehead,"2-3'Tx18-24""W, white flowers, Sept-Oct, wildlife, N",White,Moist to wet,Partial Shade,Dark Green
+PERENNIALS,Wand Flower,"12-14""Tx24-30""W, pink flowers, early June-late July",Pink,"Average, well-drained",Full sun,Medium Green
+PERENNIALS,Wand Flower,"12-14""Tx24-30""W, pink flowers, early June-late July",Pink,,,
+PERENNIALS,Wand Flower,"16-18""Tx18-24""W, red buds, blush pink flowers, May-Frost, radiant pink foliage, upright/non-flopping",6.93,,,
+PERENNIALS,Windflower,"18-24""Tx18-24""W, pure white flowers, late April-early May, spreading clump, N",White,Moist to wet,Partial Shade,Deep Green
+PERENNIALS,Wormwood,"6""Tx2-3'W, fragrant, silver foliage, Drought and Deer Resistant ",,"Poor, average to dry",Full sun,Silver
+PERENNIALS,"Wormwood (""Dusty Miller"")","6""Tx2-3'W, fragrant, silver foliage, Drought and Deer Resistant/ Seashore ",,"Poor, average to dry",Full sun,Silver
+PERENNIALS,Yarrow,"24-30""Tx24-30""W, fern-like foliage, magenta flrs, butterflies, June-Sept, DR                                     Plant Group 6pts/flat @ $4.59/pt                     ",Magenta,Average to dry,Full sun,Green
+PERENNIALS,Yarrow,"24-30""Tx24-36""W,  rose-pink flowers, June-Sept, fern-like foliage, bees, butterflies, Drought Resistant",Rose Pink,Average to dry,Full sun,Green
+PERENNIALS,Yarrow,"24-30""Tx24-36""W,  yellow flowers, June-Sept, fern-like foliage, bees, butterflies, Drought Resistant",Yellow,Average to dry,Full sun,Dark Green
+PERENNIALS,Yarrow,"24-30""Tx24-36""W,  yellow flowers with red/pink edges, Jun-Sept, fern-like foliage, bees, butterflies, Drought Resistant",Yellow/Red/Pink,Average to dry,Full sun,Green
+PERENNIALS,Yarrow,"24-30""Tx24-36""W,  yellow flowers, Jun-Sept, fern-like foliage, bees, butterflies, Drought Resistant",Yellow,Average to dry,Full Sun,Green
+SHRUBS,Andromeda,"5-7'Tx5-7'W, red flower buds, pink flowers, late March, evergreen, Deer Resistant",Red buds to Pink,Average to moist,Part/Full Shade,Reddish new to Dark Green
+SHRUBS,Andromeda,"2'Tx3'W, white flowers, late April, compact, evergreen , Deer Resistant",White,Average to moist,Part/Full Shade,Bronze new to Dark Green
+SHRUBS,Andromeda,"4-5'Tx4-5'W, white flowers, late March-late April, Deer Resistant",White,Average to moist,Part/Full Shade,Medium Green
+SHRUBS,Andromeda,"6-7'Tx6-7'W, white flowers, April, somewhat lace bug resistant, evergreen, Deer Resistant ",White,Average to moist,Part/Full Shade,Yellow new to Dark Green
+SHRUBS,Andromeda,"6-8'Tx5-6'W, white flowers, late March-mid April, red new growth, upright, Deer Resistant",White,Average to moist,Part/Full Shade,Red new to Dark Green
+SHRUBS,Andromeda,"5-6'Tx5-6'W, white fllowers, late March-late April, Deer Resistant",White,Average to moist,Part/Full Shade,Reddish new to Deep Green
+SHRUBS,Andromeda,"5-7'Tx5-7'W, red buds/pinkish-red flowers, late April, bronze new foliage, Deer Resistant",Red Buds to Pinkish Red,Average to moist,Part/Full Shade,Bronze new to Green
+SHRUBS,Andromeda,"4-5'Tx4-5'W, bell-shaped, dusty rose flowers, late April-May, wine red new foliage, Deer Resistant",Dusty Roase,Average to moist,Part/Full Shade,Wine Red new to Green
+SHRUBS,Azalea,"4-5'Tx5-6'W, salmon pink flowers, mid-May, good naturalizer",Salmon Pink,Average,Sun/Part Sun,Glossy Dark Green
+SHRUBS,Azalea,"3'Tx5'W, white flowers, mid-May, good naturalizer",White,Average,Sun/Part Sun,Deep Green
+SHRUBS,Azalea,"4-6'T, lavender flowers, early May  ",Lavender,Average,Sun/Part Sun,Deep Green
+SHRUBS,Azalea,"4'Tx4'W, double, silvery-pink flowers, mid-May",Silvery Pink,Average,Sun/Part Sun,Deep Green
+SHRUBS,Azalea,"2-3'Tx3-4'W, red flowers, early May",Red,Average,Sun/Part Sun,Glossy Dark Green
+SHRUBS,Azalea,"4'Tx5'W, reddish/purple flowers, early-mid- May, dark glossy foliage, very hardy",Red/Purple,Average,Sun/Part Sun,Glossy Dark Green
+SHRUBS,Azalea,"3-4'Tx4-5'W, crimson red flowers, mid-May, hardy, compact and spreading",Crimson Red,Average,Sun/Part Sun,Deep Green
+SHRUBS,Azalea,"3'Tx4.5'W, 1.5-3"" white flowers, late May, dark, lustrous foliage, Hardy",White,Average,Sun/Part Sun, Lustrous Dark Green
+SHRUBS,"Azalea, Korean","5'Tx4'W, pink flowers, early April, deciduous",Pink,Average,Sun/Part Sun,Deep Green
+SHRUBS,"Azalea, Northern Lights","7'Tx7'W,  profuse, bright, mandarin orange flowers, early May, deciduous",Mandarin Orange,Average,Sun/Part Sun,Green
+SHRUBS,"Azalea, Northern Lights","5-6'Tx4-5'W, fragrant lemon yellow flowers, early May, deciduous ",Lemon Yellow,Average,Sun/Part Sun,Green
+SHRUBS,"Azalea, Pinkshell","6-9'Tx6-9'W, fragrant, clear rose flowers, mid-late May, deciduous, N ",Clear Rose,,,
+SHRUBS,"Azalea, Pinxterbloom","6-8'Tx6-8'W, slightly fragrant pink-white flowers, late April, deciduous, moist soil, N ",Pink/White ,Average to moist,Partial Shade,Green
+SHRUBS,"Azalea, Reblooming","4'Tx4'W, large, magenta flowers, Spring-Fall, full sun/heat tolerant",Magenta,Average,"Full Sun, Sun/Part Sun",Green
+SHRUBS,"Azalea, Reblooming","2-3'Tx3-4'W, large, deep rose flowers, Spring-Fall, full sun/heat tolerant",Deep Rose Pink,Average,"Full Sun, Sun/Part Sun",Green
+SHRUBS,"Azalea, Reblooming","3-4'Tx3-4'W, large, red/orange flowers, Spring-Fall, full sun/heat tolerant",Red/Orange,Average,"Full Sun, Sun/Part Sun",Green
+SHRUBS,"Azalea, Reblooming","4'Tx4'W, large, purple flowers, Spring-Fall, full sun/heat tolerant",Purple,Average,"Full Sun, Sun/Part Sun", Glossy Green
+SHRUBS,"Azalea, Royal","5-6'Tx5-6'W, fragrant, light pink flowers, mid-May, deciduous ",Light Pink,,,
+SHRUBS,"Azalea, Swamp","8-10'Tx5-6'W, pink flowers, June-July, deciduous, N",Pink,Moist to wet,Partial Shade,Lustrous Green
+SHRUBS,"Azalea, Swamp","5-7'Tx6-8'W, fragrant pink flowers, late June, partial-full shade, deciduous, MR, N",Pink,Moist to wet,Part/Full Shade,Green
+SHRUBS,"Azalea, Swamp","5-7'Tx6-8'W, fragrant, pink star-shaped flowers, late June, blue-green foliage, deciduous, N",Pink,Moist to wet,Partial Shade,Blue/Green
+SHRUBS,"Azalea, Swamp ","5-7'Tx6-8'W, peach/pastel yellow flowers, July, deciduous, N",Peach/Yellow,Moist to wet,Partial Shade,Green
+SHRUBS,"Bayberry, Northern","5-6'Tx8-10'W, white flowers, Spring, gray, waxy, berries, aromatic, Agressive, seashore, birds, N",White,Average,Sun/Part Sun,"Lustrous, Deep Green"
+SHRUBS,"Bayberry, Northern","4-5'Tx6-8'W, white flowers, Spring, gray, waxy, berries, aromatic, Agressive, seashore, birds, N",White,Average,Sun/Part Sun,"Lustrous, Deep Green"
+SHRUBS,Beach Plum,"6-7'Tx6-7'W, white flowers, May, fruits edible, N",White,Average to Dry,Full Sun,Deep Green
+SHRUBS,Beautyberry,"3-4'Tx4-5'W,  pinkish-lavender flowers, June-Jul, metallic purple-violet fruit, yellow Fall Color, Deer Resistant",Pink/Lavender,,,
+SHRUBS,Beautyberry,"5-6'Tx6-7'W, soft pink flowers, June-Aug, electric purple fruit, yellow Fall Color, Deer Resistant",Pink ,Average,Sun/Part Sun,Bronze to Green
+SHRUBS,Blue Mist Shrub,"2'Tx2'W, deep purple/blue flowers, August-September, butterflies, bees",Deep Purple/Blue,,,
+SHRUBS,Blue Mist Shrub ,"2-3'Tx2-3'W, purple/blue flowers, August-September, butterflies, bees",Purple/Bue,Average,Full Sun,Green
+SHRUBS,"Blueberry, Highbush","6'Tx6'W, white flowers, large, blue-black fruit, ripens mid-season, birds, red Fall Color",White,Moist to wet,Sun/Part Sun,Dark Green
+SHRUBS,"Blueberry, Highbush","4-6'Tx4-6'W, upright, large blue-black fruit, ripens mid-season, birds, red Fall Color",White,Moist to wet,Sun/Part Sun,Dark Green
+SHRUBS,"Blueberry, Highbush","5-7'Tx5-7'W, white flowers, medium dark blue fruit, ripens mid season, bright yellow stems, N",White,Moist to wet,Sun/Part Sun,Medium Green leaves
+SHRUBS,"Blueberry, Highbush","5'Tx5'W, white flowers, medium-sized fruit, ripens early/mid season, hardy and compact, N",White,Moist to wet,Sun/Part Sun,Medium Green leaves
+SHRUBS,"Blueberry, Highbush","4'Tx4'W, white flowers, blue-black fruit, dense, rounded compact, birds, red Fall Color",White,Moist to wet,Sun/Part Sun,Dark Green
+SHRUBS,"Blueberry, Highbush","6'Tx6'W, white flowers, medium dark blue fruit, ripens mid season, yellow twigs, birds, red Fall Color",White,Moist to wet,Sun/Part Sun,Green Leaves
+SHRUBS,"Blueberry, Highbush","6-7'Tx5-6'W, pink-white flowers, Spring, med-large fruit, birds, red fall color, N",Pink-White,Moist to wet,Sun/Part Sun,Dark Green
+SHRUBS,"Blueberry, Highbush","3-4'Tx3-4'W, white flowers, Spring, very sweet fruit, mid-summer, birds, red fall color, N",White ,Moist to wet,Sun/Part Sun,Green
+SHRUBS,"Blueberry, Highbush","4-7'Tx4-7'W, white flowers, Spring, large fruit, mid-summer, birds, red fall color, N",White ,Moist to wet,Sun/Part Sun,Dark Green
+SHRUBS,Boxwood,"3'Tx3'W, small dark green leaves, slower growth rate, Deer Resistant",,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,Boxwood,"1-2'Tx3-4'W, fine texture, dense, low, spreading, Deer Resistant",,Average to moist,Sun/Part Sun,Bright Green
+SHRUBS,"Boxwood, Dwarf","2'Tx2'W, dark green foliage, Deer Resistant",,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,"Boxwood, Upright","6-7'Tx4-5'W, upright, conical,  small, dark green leaves, Deer Resistant",,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,"Boxwood, Upright","6-8'Tx2-3'W, upright, conical,  small, dark green leaves, Deer Resistant",,,,
+SHRUBS,"Buckeye,  Bottlebrush","8-10'Tx8-10'W, large, pyramidal, white flowers, July-August, mounding habit, Deer Resistant, N",White ,Average to moist,Part/Full Shade,Green
+SHRUBS,Bush Honeysuckle,"36-48""Tx48-60""W, yellow flowers, early summer, red/orange Fall Color, bees, butterflies, hummingbirds  DR, DR, N",Yellow,Average,Sun/Part Sun,Green
+SHRUBS,"Butterfly Bush, Dwarf","6'Tx8'W, lightly fragrant, purple flowers, July-Sept, butterflies and bees",Purple,Average,Full Sun,Grey-green
+SHRUBS,"Butterfly Bush, Dwarf","4-5'Tx3-5'W, fragrant, sangria red flowers, July-September, butterflies and hummingbirds",Sangria Red,Average,Full Sun,Green
+SHRUBS,"Butterfly Bush, Dwarf","4-9'Tx4-8'W, deep blue flower, July-Sept, butterflies, bees",Deep Blue,Average,Full Sun,
+SHRUBS,"Butterfly Bush, Dwarf","4-5'Tx3-5'W, vivid, rich pink flower with red eye, July-Sept, silver foliage, butterflies",Pink w/Red Eye,Average,Full Sun,Silver 
+SHRUBS,"Butterfly Bush, Dwarf","4-9'Tx4-8'W, lightly fragrant, deep purple flower, July-Sept, butterflies",Deep Purple,Average,Full Sun,
+SHRUBS,"Butterfly Bush, Lo & Behold","2-3'Tx3-4'W, purple-blue flowers, July-September, low spreading form, butterflies and hummingbirds",Purple/Blue,Average,Full Sun,Green
+SHRUBS,Andromeda,"30""Tx 30""W, fragrant, upright, sterile, purple-blue flowers, mid-summer to frost, butterflies",Purple/Blue,Average,Full Sun,Silver-green
+SHRUBS,Buttonbush,"5-10'Tx4-7'W, fragrant, white flowers, Summer, red fruit, butterflies and birds, N",White,Moist to wet,Sun/Part Sun,Green
+SHRUBS,"Buttonbush, Dwarf","3-4'Tx3-4'W, fragrant, white flowers, Summer, red fruit, butterflies and birds, N",White,Moist to wet,Sun/Part Sun,Green
+SHRUBS,"Chaste Tree, Dwarf","3-6'Tx6-8'W, blue flowers, Summer, blooms on new wood, Sun, Butterflies and Bees",Blue ,Moist,Full Sun,Green
+SHRUBS,Chokeberry,"5-6'Tx5-6'W, white flowers, mid-May, black fruit in summer, edible and nutritious",White,Average,Sun/Part Sun,Deep Green
+SHRUBS,Chokeberry,"6-10'Tx3-5'W, white flowers/red berries, May, brilliant red Fall color, N",White,Average,Sun/Part Sun,Deep Green
+SHRUBS,Chokeberry,"3-6'Tx3-6'W, white flowers, May, black berries, red Fall Color, birds, edible, N",White,Average,Sun/Part Sun,Deep Green
+SHRUBS,Chokeberry,"3'Tx3-4'W, white flowers, May, purple-black berries, Fall, red Fall Color, Birds, N",White,Average,Sun/Part Sun,Deep Green
+SHRUBS,"Chokeberry, Dwarf","4-5'Tx2-3'W, white flowers w pink centers, May, purple-black berries, late Summer-Fall, red Fall Color, Birds, N",,,,
+SHRUBS,"Cypress, Compact Hinoki ","12-15'Tx6-8'W, deep green fan-shaped foliage",,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,"Cypress, Compact Hinoki ","6'Tx3-4'W, deep green fan-shaped foliage, heavy ",,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,"Cypress, False","3-4'Tx3-4'W, soft blue juvenile foliage, full sun, moist soil ",,Moist,Full Sun,Soft Blue Green
+SHRUBS,"Cypress, False","8-10'Tx 4-6'W, soft frond-like gold foliage, broadly upright form",,Moist,Full Sun, Gold
+SHRUBS,"Cypress, False","3-4'Tx1-2'W, silvery-blue foliage, pyramidal form, slow growing",,Moist,Full Sun,Silvery Blue
+SHRUBS,"Cypress, False","6'Tx3-4'W, slow growing, dark green, fan-shaped, scaled foliage",,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,"Cypress, False  ","6-8'Tx4-6'W, compact, conical and slow growing, fernlike bright green foliage",,Average to moist,Sun/Part Sun, Bright Green
+SHRUBS,"Cypress, False Fernspray","6-8'Tx5-6'W, evergreen, medium growing, upright, sun/pshade ",,Average to moist,Sun/Part Sun,Evergreen
+SHRUBS,"Cypress, False Twisted","8-10'Tx5-6'W, pyramidal, upright form, slow growing, dark green, fan-shaped, scaled foliage",,,,Dk Green Fan Shaped
+SHRUBS,"Cypress, Hinoki","10-15'Tx8-10'W, golden yellow fern-like texture",,Moist,Full Sun,Golden Yellow
+SHRUBS,"Cypress, Hinoki Dwarf","2-3'Tx3-4'W, evergreen, slow grower",,Average to moist,Sun/Part Sun,Green
+SHRUBS,Daphne,"2-3'Tx3-4'W, cream-edged foliage, evergreen, fragrant pink flowers, early May, ",Pink,Average to moist,Sun/Part Sun,Cream edge 
+SHRUBS,Daphne,"2-3'Tx2-3'W, extremely fragrant, small pink flowers, early May and sporatically throughout the season, deep green, evergreen foliage",Pink,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,Daphne,"9-12""Tx3-4'W, extremely fragrant, purple-pink flowers, early May and sporatically throughout season, deep green, evergreen foliage",Purple/Pink,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,"Dogwood, Graytwig","6-8'Tx10-12'W, white berries Fall, red-purple Fall Color, spreader, birds, N",White,Moist to wet,Sun/Part Sun,Grey-green
+SHRUBS,"Dogwood, Red Twig","6-8'Tx9-10'W, white flrs, May, blue fruit, bright red twig color, birds, N",White,Moist to wet,Sun/Part Sun,Medium Green
+SHRUBS,"Dogwood, Red (Bloodtwig) Twig","3-4'Tx3-4'W, white flower, fiery red winter stem color, compact and dense, Deer Resistant",White,Moist to wet,Sun/Part Sun,Green
+SHRUBS,"Dogwood, Tatarian","5-6'Tx6-8'W, white flrs-Spring, blue fruit-Sum, cream-edged/variegated foliage, bright red twigs Fall/Winter, Mesic",White,Moist to wet,Sun/Part Sun,Cream Variegated
+SHRUBS,"Dogwood, Dwarf Tatarian","3-4'Tx3-4'W, white flowers, Spring, berries, deep red FC, blood-red stems in Winter, Birds, moist soil",White,Moist to wet,Sun/Part Sun,Green
+SHRUBS,"Dogwood, Silky","6-10'Tx6-10'W, white flowers, June, blue fruit, outstanding bird plant, N",White,Moist to wet,Part/Full Shade,Green
+SHRUBS,"Dogwood, Silky","6-8'Tx8-10'W (suckers), white flowers, Spring, porcelain blue berries, late Summer, orange-red FC, birds, N",White,Moist to wet,Part/Full Shade,Green
+SHRUBS,"Dogwood, Yellowtwig","6-8'Tx9-10'W, white flowers, bright yellow twig color, berries, birds",White,Moist to wet,Sun/Part Sun,Green
+SHRUBS,"Enkianthus, Red-veined ","6-10'T x 5-7'W, creamy white/red bell-shaped flower, upright/deciduous, red-orange Fall Color",Creamy White/Red,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Enkianthus, Red-veined ","5-8'T x 3-5'W, pink-red bell-shaped flower, late Spring, upright/deciduous, red-orange Fall Color",Pink/Red,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,Forsythia,"7-8'Tx10-12'W, intense yellow flower, early Spring",Intense Yellow,Average,Sun/Part Sun,Medium Green
+SHRUBS,Fothergilla,"4-6'Tx4-6'W, bottle-brush white fragrant flowers, late April-early May, striking red Fall Color, Deer Resistant, N",White,Average to moist,Sun/Part Sun,Light Green
+SHRUBS,Fothergilla,"5-6'Tx3-4'W, bottle-brush white fragrant flowers, late April-early May, Fall Color, Deer Resistant, N",White,Average to moist,Sun/Part Sun,"Dark, Blue-Green"
+SHRUBS,Fothergilla,"4-5'Tx4-5'W, bottle-brush white fragrant flowers, late April-early May, Deer Resistant, Fall Color",White,Average to moist,Sun/Part Sun,Blue
+SHRUBS,"Fothergilla, Dwarf","3-4'Tx3-4'W, bottle-brush white fragrant flowers, late April-early May, Fall Color, Deer Resistant, N",White,Average to moist,Sun/Part Sun,Blue-Green
+SHRUBS,"Fothergilla, Dwarf","3-4'Tx3-4'W, bottle-brush white fragrant flowers, late April-early May, glaucous blue foliage, N",White,Average to moist,Sun/Part Sun,Glaucous Blue
+SHRUBS,Holly,"8-10'Tx6-7'W, blue-green leathery foliage, male pollinator for Red Beauty and Blue Princess",White,Average to moist,Sun/Part Sun,Blue/Green 
+SHRUBS,Holly,"6-8'Tx4-6'W, dense, pyramidal form, outstanding fruit set-red berries, male pollinator-Blue Prince",,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,Holly,"10-12'Tx5-6'W, white flowers, Spring, bright red berries, bluish-green foliage",White,Average to moist,Sun/Part Sun,Blue/Green 
+SHRUBS,Holly,"6-8'Tx4-5'W, shiny, deep blue-green foliage, male pollinator for 'Castle Spire'", ,,,Shiny Dp Blue-Green
+SHRUBS,"Holly, Dwarf Japanese","2-3'Tx4-5'W, small, deep green foliage, low/dense",White,Average,Sun/Part Sun,Deep Green
+SHRUBS,"Holly, Japanese","2.5'Tx3'W, flattened, dark green foliage",,Average,Sun/Part Sun,Deep Green
+SHRUBS,"Holly, Oregon Grape","3-6'Tx3-6'W, fragrant, bright yellow flowers, late-April, blue fruit, spiny, holly-like leaves, Fall Color",Yellow ,Moist,Part/Full Shade,Green
+SHRUBS,"Holly, Upright Japanese","6-8'Tx4-5'W, small deep green foliage, upright",,,,Deep Green
+SHRUBS,"Hydrangea, Dwarf","3-5'Tx3-5'W, white/pink flowers, Summer, upright growth habit",White/Pink,Average to moist,Sun/Part Sun,
+SHRUBS,"Hydrangea, Lacecap","4'Tx4'W, lace-cap violet-blue flowers, late June, purple-black stems, dark green foliage", Violet/Blue ,Average to moist,Sun/Part Sun,"Dark Green,  Purple/ Black Stems"
+SHRUBS,"Hydrangea, Lacecap","3-4'Tx3-4'W, lace-cap blue or pink flowers, late June, dark green foliage",Blue or Pink,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,"Hydrangea, Late Season Hardy","6-8'Tx6-8'W, white turning deep pink flowers, late July-Fall, upright form",White to Deep Pink,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Hydrangea, Late Season Hardy","8-10'Tx10-12'W, upright-held white flowers, late August",White,,,
+SHRUBS,"Hydrangea, Late Season Hardy","12'Tx 8-10'W, upright, cream-pink flowers, late summer",Cream /Pink,,,
+SHRUBS,"Hydrangea, Late Season Hardy","6-8'Tx6-8'W, white turning deep pink flowers, early June-Fall, upright form",White to Deep Pink,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Hydrangea, Late Season Hardy","4-6'Tx4-6'W, white-light pink flowers, mid June-Fall",White/Pink,,,
+SHRUBS,"Hydrangea, Late Season Hardy","2.5-3'Tx 3'W, white, pointed flowers, early June-Fall",White,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Hydrangea, Late Season Hardy","3-4'Tx 3-4'W, lightly scented, white flowers, early Summer-late Autumn",White ,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Hydrangea, Mophead","3-4'Tx3-4'W, white flowers, Summer, reblooming",White  ,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,"Hydrangea, Mophead","5-6'Tx5-6'W, blue pom-pom flowers, July-August",Blue ,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,"Hydrangea, Mophead","6-7'Tx6-7'W, deep blue flowers, July",Deep Blue ,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,"Hydrangea, Mophead","3-4'Tx3-4'W, deep blue round flowers, late May-Frost",Deep Blue,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,"Hydrangea, Mophead","3-4'Tx3-4'W, pink-red flowers, July, Fall Color",Pink/Red ,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,"Hydrangea, Mophead","4-5'Tx4-5'W, large purple mophead flowers, July",Purple,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,"Hydrangea, Mophead","3-4'Tx3-4'W, pure white-blushing blue or pink flowers, late June-Frost, deep green foliage ","White, Blue or Pink",Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,"Hydrangea, Mophead","4-6'Tx4-6'W, blue mophead flowers, June-August, blooms on old and new wood",Blue,Average to moist,Sun/Part Sun,Rich Green
+SHRUBS,"Hydrangea, Mophead Dwarf","2-3'Tx2-3'W, blue mophead flowers, June-August, blooms on old and new wood",Blue,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Hydrangea, Mophead Dwarf","18""Tx18""W, pink flowers, July, compact",Pink,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Hydrangea, Mophead Dwarf","1-3'Tx2-3'W, light blue/violet splotch mophead flowers, July-August",Light Blue/Violet,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Hydrangea, Mophead Dwarf","24-30""Tx24-30""W, pink mophead flowers, July-August",Pink,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Hydrangea, Mophead Dwarf","2-3'Tx2-3'W,  blue/green-edged mophead flowers, July-August",Blue/Green,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Hydrangea, Mophead Dwarf","2-3'Tx2-3'W,  blue mophead flowers, June-August, rebloomer, cold tolerant",,,,
+SHRUBS,"Hydrangea, Oakleaf","4-6'Tx4-6'W, 6"" tall, white flowers, July, deep burgundy Fall Color, exfoliating bark, N", White,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,"Hydrangea, Oakleaf","5-6'Tx6-7'W, 6"" tall, white flowers, July, red fall color, exfoliating bark, N ",White,,Sun/Part Sun,
+SHRUBS,"Hydrangea, Oakleaf","5-8'Tx5-8'W, 10-14"" white flowers, June, red Fall Color, exfoliating bark",White ,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Hydrangea, Oakleaf Dwarf","3-4'Tx5'W, dk red-light pink-white flowers, early Summer, red Fall Color, exfoliating bark", White/Pink/Red,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Hydrangea, Oakleaf Dwarf","3'Tx3-4'W, large, white changing to pink flowers, Summer, red Fall Color, exfoliating bark",White to Pink,Average to moist,Sun/Part Sun,Green
+SHRUBS,Inkberry,"3-5'Tx4-5'W, white flowers, black berries, evergreen, dark green leaves, slow growing, birds, N",White,Average to moist,Sun/Part Sun,Dark Green 
+SHRUBS,Inkberry,"8-10'Tx8'W, white flowers, evergreen, dark green, lustrous foliage, black berries, birds, N",White,Average to moist,Sun/Part Sun,Dark Green 
+SHRUBS,"Inkberry, Dwarf","2-3'Tx2-3'W, white flowers, Spring, black berries, Fall, Deer Resistant",White ,Average to moist,Sun/Part Sun,Dark Green 
+SHRUBS,"Inkberry, Dwarf","2-3'Tx2-3'W, white flowers, Spring, black berries, Fall, Deer Resistant",White ,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,"Kerria, Japanese","4-6'Tx6-8'W, bright yellow flowers, late April- early May, bright green stems, part shade",Bright Yellow ,Moist,Part/Full Shade,Rich Green
+SHRUBS,Leatherleaf,"2-4'Tx4-5'W, slightly fragrant white flowers, April-June, wet areas, N",White,Wet, ,
+SHRUBS,Leucothoe,"3-6'Tx 3-6'W, white flowers, May, cream variegated, evergreen foliage, Deer Resistant, N",White ,Average to moist,Part/Full Shade,Green/Pink/Bronze variegated
+SHRUBS,"Leucothoe, Coast ","3-6'Tx3-6'W, white flowers, early May, mounding, Deer Resistant, Fall Color, N",White,Average,Partial Shade,Dark Green
+SHRUBS,"Leucothoe, Dwarf","2'Tx 3'W, creamy white flowers, early May, fountain-like habit, Deer Resistant",Creamy White ,Average,Partial Shade,Dark Green
+SHRUBS,Lilac,"6-7'Tx5-6'W, 3"" long, fragrant, purple flowers, mid May, red Fall Color",Purple,Average,Full Sun,Deep Green
+SHRUBS,Lilac,"6-10'Tx4-8'W, extremely fragrant light pink/white flowers, mid-May",Pink/White ,Average,Full Sun,Deep Green
+SHRUBS,Lilac,"12-15'Tx8-12'W, fragrant, dark purple flowers, early May",Dark Purple,Average,Full Sun,Green
+SHRUBS,Lilac,"12-15'Tx8-12'W, deep purple buds open to fragrant, rich violet flowers,  May",Purple/Violet,Average,Full Sun,Rich Green
+SHRUBS,Lilac,"8-10'Tx8-10'W,  fragrant, deep dark purple flowers, May",Deep Purple,Average,Full Sun,Green
+SHRUBS,Lilac,"6-8'Tx5-6'W,  fragrant, reddish-purple flowers, May",Red/Purple,Average,Full Sun,Green
+SHRUBS,"Lilac, Dwarf","3'Tx3-4'W, raspberry-red buds, fragrant, purple-pink flowers, May-Sept, rebloomer",,,,
+SHRUBS,"Lilac, Dwarf","5-6'Tx3-4'W, wine red buds, fragrant, deep pink flowers, mid-May, dense and compact",Red buds to Pink ,Average,Full Sun,Medium Green
+SHRUBS,"Lilac, Dwarf ","4-5'Tx3-4'W, fragrant, dark purple flowers, mid-May -Summer",Dark Purple,Average,Full Sun,Green
+SHRUBS,"Lilac, Dwarf Korean","4-5'Tx4-6'W, fragrant lavender flowers, May, Powdery Mildew Resistant",Lavender,Average,Full Sun,Green
+SHRUBS,Mountain Laurel,"7-8'Tx7-8'W, white-light pink buds, white-edged with burgunday flowers, June, compact, N", Pink Buds to White/ Burgundy,Average to Moist,Partial Shade,Green
+SHRUBS,Mountain Laurel,"6-8'Tx7-9'W, red buds, pink flower, late June,  N",Red Bud to Pink ,Average to Moist,Partial Shade,Green
+SHRUBS,Mountain Laurel,"4-5'Tx4-5'W, pink bud/pink corolla, delicate, June, N",Pink Buds,Average to Moist,Partial Shade,Green
+SHRUBS,Mountain Laurel,"8-10'Tx6-7'W, burgundy red bud, pink corolla, June, N",Red Bud to Pink ,Average to Moist,Partial Shade,Dark Green
+SHRUBS,Mountain Laurel,"7-8'Tx7-8'W, buds red, pink flowers, June, compact, N",Red Bud to Pink ,Average to Moist,Partial Shade,Green
+SHRUBS,Mountain Laurel,"6-8'Tx6-8'W, white flowers, May-June, compact, N",White,Average to Moist,Partial Shade,Green
+SHRUBS,Mountain Laurel,"5-6'Tx5-6'W, medium green foliage, white flowers, late May, N",White,Average to Moist,Partial Shade,Medium Green
+SHRUBS,Mountain Laurel,"4-5'Tx4-5'W, red buds-pink flowers, late-May, N",Red Bud to Pink ,Average to Moist,Partial Shade,Green
+SHRUBS,Mountain Laurel,"8-10'Tx6-8'W, red buds, pinkish-red flowers, late May, N",Red Bud to Pink ,Average to Moist,Partial Shade,Deep Green
+SHRUBS,Mountain Laurel,"5'Tx5'W, light pink buds/pure white flowers, late May, N ",Pink buds to White ,Average to Moist,Partial Shade,Dark Green
+SHRUBS,Mountain Laurel,"7-8'Tx7-8'W, buds red/white flowers, late May, N",Red Bud to White,Average to Moist,Partial Shade,Green
+SHRUBS,Mountain Laurel,"7-8' Tx7-8' W, compact, deep pink buds, light pink with cinnamon flowers, June, N",Pink w/Cinnamon,Average to Moist,Partial Shade,Deep Green
+SHRUBS,Mountain Laurel,"8-10'Tx8-10'W, bright red-pink buds, narrow maroon band flowers, June, N", Pink w/ Maroon ,Average to Moist,Partial Shade,Green
+SHRUBS,Mountain Laurel,"8-10' Tx 8-10' W, deep pink buds, strong pink flowers, June, N",Pink,Average to Moist,Partial Shade,Deep Green
+SHRUBS,Mountain Laurel,"6-8'Tx6-8'W, deep red buds, light pink flowers, May-June, N", Red Buds to Pink,Average to Moist,Partial Shade,Dark Green
+SHRUBS,Mountain Laurel,"8-10'Tx8-10'W, brilliant red buds, white with cinnamon flowers, June, N", Red buds to white w/cinnimon ,Average to Moist,Partial Shade,Green
+SHRUBS,Mountain Laurel,"8-10'Tx8-10'W, pink buds, pink flowers, late June, N",Pink,Average to Moist,Partial Shade,Green
+SHRUBS,Mountain Laurel,"8-10'Tx8-10'W, soft pink buds, white flowers/cinnamon-purple bands, late May, burgundy stems, N", Pink Buds to White/Cinnamon-Purple ,Average to Moist,Partial Shade,Green w/Burgundy Stems
+SHRUBS,Ninebark,"7-8'Tx8-9'W, white flowers, June, yellow-green-reddish/purplish foliage, N",White ,Average to Dry,Sun/Part Sun,Yellow Green to Red- Purple
+SHRUBS,"Ninebark, Dwarf","3-4'Tx3-4'W, white flowers, June, bronze/maroon foliage, blooms on old wood N",White ,Average to Dry,Sun/Part Sun,Bronze Maroon
+SHRUBS,"Ninebark, Dwarf","3-4'Tx3-4'W, blush flowers, late May-June, burgundy foliage, blooms on old wood, N",Blush ,Average to Dry,Sun/Part Sun,Burgundy
+SHRUBS,Ninebark,"5-6'Tx5-6'W, white flowers, late May-June, orange maturing to burgundy foliage, red fruit in Fall,  N",,,,
+SHRUBS,Ninebark,"5-6'Tx4-5'W, white flowers, late May-June, orange/yellow/gold foliage, N",,,,
+SHRUBS,"Pine, Dwarf White","6-7'Tx10-12'W, medium green needles, dense and spreading",,,,Med Green Needles
+SHRUBS,"Pine, Dwarf White","5-6'Tx6-8'W, low, irregular, half-upright spreader with long-needled, unruly branches",,Average,Sun/Part Sun,Green
+SHRUBS,"Pine, Dwarf White","5-8'T x 6'W, silver-green needles, half-upright spreader, fast grower",,Average,Sun/Part Sun,Silver Green Needles
+SHRUBS,"Pine, Dwarf White ","3-4'Tx4-5'W, soft touchable foliage, dense, tight ,low",,Average,Sun/Part Sun,Green
+SHRUBS,"Pine, Dwarf White ","2-3'Tx3-4'W,  deep blue-green, touchable foliage ",,Average,Sun/Part Sun,Deep Blue/Green
+SHRUBS,"Pine, Mugo","2-3'Tx2-3'W, dense and compact grower",,Average,Full Sun,Green
+SHRUBS,"Pine, Mugo ","3-4'T 6-8'W, slow growing",,Average,Full Sun,Green
+SHRUBS,"Plum Yew, Prostrate Japanese  ","2-3'Tx2-6'W, low mounding evergreen, arching,pendulous branches, can take shade, Deer Resistant",,Average to moist,Part/Full Shade,Green
+SHRUBS,"Quince, Flowering","3-4'Tx4-5'W, large, red camillia-like flowers, mid-April-early May, fruitless and thornless",Red,Average,Sun/Part Sun,Green
+SHRUBS,"Quince, Flowering","3'Tx 5-6'W, deep pink camillia-like blooms, mid-April-early May, fruitless and thornless",Deep Pink,Average,Sun/Part Sun,Green
+SHRUBS,"Quince, Flowering","3-4'Tx4-5'W, reddish-orange flowers, mid-April-early May",Red-Orange,,,
+SHRUBS,Rhododendron,"5-6'Tx6-7'W, soft pink flowers, mid-May",Soft Pink,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,Rhododendron,"5-6'Tx3-4'W, pure white flowers, late April, bright yellowish-green stems, bronze fall/winter color",White ,Average,Sun/Part Sun,Bright Yellow/Green Stem
+SHRUBS,Rhododendron,"6-7'Tx7-8'W, wavey edged foliage, dark purple flowers, late May",Dark Purple,Average to moist,Sun/Part Sun,Wavy Edge
+SHRUBS,Rhododendron,"5-6'Tx5-6'W, riveting violet-purple flowers, late-May",Violet/Purple,Average to moist,Sun/Part Sun,Green
+SHRUBS,Rhododendron,"4-5'Tx3-4'W, lavendar/pink flowers, late-April, purple-plum winter foliage",Lavendar Pink,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,Rhododendron,"6-7'Tx6-7'W, deep purple buds-lavender flowers, mid-May",Deep Purple/Lavendar,Average to moist,Sun/Part Sun,Green
+SHRUBS,Rhododendron,"5-6'Tx4-5'W, deep pink flowers, mid-May, reddish Fall Color",Deep Pink,Average to moist,Sun/Part Sun,Green
+SHRUBS,Rhododendron,"5-6'Tx5-6'W, red flowers, early May, Fall Color",Red ,Average to moist,Sun/Part Sun,Green
+SHRUBS,Rhododendron,"7-9'Tx7-9'W, red flowers, mid-May",Red ,Average to moist,Sun/Part Sun,Green
+SHRUBS,Rhododendron,"4-5'Tx4-5'W, larger deep pink flowers, deep red stems,  late April",Deep Pink,Average to moist,Sun/Part Sun,Red Stem
+SHRUBS,Rhododendron,"5-6'Tx5-6'W, soft pink flowers, early May,fast growing, mounding habit ",Soft Pink,Average to moist,Sun/Part Sun,Green
+SHRUBS,Rhododendron,"6-8'Tx6-8'W, distinct yellow flowers, lustrous deep green foliage, early May",Yellow ,Average to moist,Sun/Part Sun,Lustrous Deep Green
+SHRUBS,Rhododendron,"7-8'Tx7-8'W, lavender-pink flowers , mid-May",Lavender Pink,Average to moist,Sun/Part Sun,Green
+SHRUBS,Rhododendron,"6-7'Tx6-7'W, lilac-tinged open to white flowers with yellow blotches, mid-May","Lilac / White, Yellow",Average to moist,Sun/Part Sun,Green
+SHRUBS,Rhododendron ,"7-8'Tx7-8'W, rose-pink flowers, late May",Rose Pink ,Average to moist,Sun/Part Sun,Medium Green
+SHRUBS,Rhododendron ,"4-5'Tx5-6'W, white with yellow center flowers, early May ","White, Yellow Center",Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,"Rhododendron, Compact","2-3'Tx3-4'W, pink flowers, mid-May",Pink ,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","2-3'Tx5-6'W, frilly, deep dark purple blooms, mid-late May", Deep Purple,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","3-4'Tx4-5'W, rose buds, peachy-pink flowers, May","Rose Buds, Peachy Pink",Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","2-3'Tx3-4'W, dark pink flowers, mid-May",Dark Pink,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","2-3'Tx 3-4'W, soft, lemon yellow flowers, early May, deep green leaves",Soft Lemon Yellow,Average to moist,Sun/Part Sun,Deep Green
+SHRUBS,"Rhododendron, Compact","4'Tx4'W, raspberry red flowers, May",Rasberry Red,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","4'Tx4'W, dark pink buds open to pale pink flowers, mid-May",Dark to pale pink,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","2-3'Tx2-3'W, deep reddish-purple with wavy edges and yellow eye flowers, early May, Winter Foliage-Black ",Deep Red-Purple w/Yellow,Average,Sun/Part Sun,Black Winter Foliage
+SHRUBS,"Rhododendron, Compact","2-3'Tx2-3'W, light yellow flowers, mid-May ",Light Yellow,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","2'Tx3'W, purple-pink buds, white flower, early May", Purple-Pink/White,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","2-3'Tx4-5'W, apple blossom pink fading to white flowers, mid-May",Apple Blossom Pink/White,Average to moist,Sun/Part Sun,Dark Green
+SHRUBS,"Rhododendron, Compact","3-4'Tx4-5'W, bright red flowers, mid-May",Bright Red ,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","3-4'Tx4-5W,  pale purplish-pink flowers with dark edge, mid-May",Pale Purple-Pink,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","3-4'Tx3-4'W, wavy edged pink-light red flowers, mid-May",Pink/Light Red,Average to moist,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","3-4'Tx3-4'W, brilliant blue flowers, early May, reddish-brown winter color",Brilliant Blue,Average,Sun/Part Sun,Reddish Brown Winter
+SHRUBS,"Rhododendron, Compact","6'Tx 5'W, deep pink flowers, May ",Deep Pink,Average,Sun/Part Sun,Green
+SHRUBS,"Rhododendron, Compact","3-4'Tx 4-5'W, trusses of small white flowers, early May, narrow, deep green evergreen foliage, part sun/shade, moist",,,,
+SHRUBS,"Rhododendron, Rosebay","8-12'Tx8-12'W, clear pink flowers, late June/early July, loose, open habit, N",Clear Pink,Average to moist,Part/Full Shade,Dark Green
+SHRUBS,Rhodora,"2-3'Tx3-4'W, pink flowers, April, deciduous, blue-green foliage, moist soil, half day sun, N",Pink ,Moist,1/2 Day,Blue Green
+SHRUBS,Rose of Sharon,"8-12'Tx6-10'W, royal blue flowers with deep-colored throats, mid-late Summer, hummingbirds",Royal Blue,Average,Full Sun,Dark Green
+SHRUBS,"Rose, Climbing ","10-12'T or wider, fragrant cerise pink flowers, tolerates shade, thornless",Cerise Pink,Average,Sun/Part Sun,Green
+SHRUBS,"Rose, Climbing ","8-10'T, double, dark pink flower, early Summer/early Fall, resistant-Black Spot & Mildew",Dark Pink,Average,Full Sun,Dark Green
+SHRUBS,"Rose, Climbing ","14-16'T, sweet smelling, double, cameo pink flowers, old and new wood, tough ",Cameo Pink,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Rose, Climbing ","8-10'Tx8-10'W, fragrant, rosey-pink flowers, X-hardy and Disease Resistant",Rosey Pink,Average,Full Sun,Green
+SHRUBS,"Rose, Climbing ","12-14'Tx3-4'W, rich, red sweetly scented flowers, repeat bloomer",Rich Red,Average,Full Sun,Green
+SHRUBS,"Rose, Climbing ","6-10'Tx3-4'W, slightly fragrant, double, deep red flowers, repeat bloomer, dark green clean foliage",Deep Red,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Rose, Climbing ","8-12'Tx5-7'W, fragrant, velvety red, semi double flowers, repeat bloomer",Velvety Red,Average,Full Sun,Deep Green
+SHRUBS,"Climbing Rose, David Austin","8'Tx4'W, fragrant, large, bright crimson flowers, repeat bloomer",Bright Crimson,Average,Full Sun,Green
+SHRUBS,"Climbing Rose, David Austin","4.5'Tx4'W, highly fragrant, rich, dark crimson flowers in the form of large, shallow cups, repeat bloomer",Dark Crimson,Average,Full Sun,Green
+SHRUBS,"Climbing Rose, David Austin","4.5'Tx4'W, highly fragrant creamy white flowers, repeat flowering",Creamy White,Average,Sun/Part Sun,Green
+SHRUBS,"Climbing Rose, David Austin","15'Tx5'W, lightly fragrant creamy white flowers with medium pink edges, repeat flowering",Creamy White/Pink,Average,Full Sun,Dark Green
+SHRUBS,"Rose, David Austin","4'Tx4'W, vibrant rich yellow, tea fragrance, hardy", Rich Yellow,Average,Full Sun,Green
+SHRUBS,"Rose, David Austin","8-9'Tx2-3'W, double, fragrant, glowing pink flowers, recurring bloom throughout season",Glowing Pink,Average,Sun/Part Sun,Green
+SHRUBS,"Rose, David Austin","4'Tx3'W, intensely fruity fragrant, deep red/pink flowers, repeat flowering ",Deep Red/Pink,Average,Full Sun,Green
+SHRUBS,"Rose, David Austin","4'Tx3'W, peachy-pink buds open to fragrant pure white flowers, repeat flowering",Peachy-pink/White,Average,Full Sun,Deep Green
+SHRUBS,"Rose, David Austin","4'Tx4'W, old rose fragrant white flowers, repeat flowering",White ,Average,Full Sun,Deep Green
+SHRUBS,"Rose, David Austin","4'Tx3'W, fragrant, pure white rounded blooms, very floriferous",White,Average,Full Sun,Light Green
+SHRUBS,"Rose, David Austin","4'Tx3'W, highly fragrant, soft yellow flowers, repeat blooming",Soft Yellow,Average,Full Sun,Medium Green
+SHRUBS,"Rose, David Austin","4'Tx2.5'W, fragrant, soft apricot pink flowers, repeat flowering",Soft Apricot/Pink,Average,Sun/Part Sun,Green
+SHRUBS,"Rose, David Austin","5'Tx4'W, fragrant, pale pink flowers, repeat bloomer",Pale Pink,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Rose, David Austin","3'Tx2'W, fragrant, deep crimson flowers, repeat flowering",Deep Crimson,Average,Full Sun,Deep Green
+SHRUBS,"Rose, David Austin","3'Tx3'W, strongly fragrant, deep, velvety crimson flowers, repeat bloomer",Deep Crimson,Average,Full Sun,Deep Green
+SHRUBS,"Rose, Easy Elegance","3-4'Tx2-3'W, double ivory with a touch of pink flowers turn to pure white",Ivory-Pink/Pure White,Average,Full Sun,Medium Green
+SHRUBS,"Rose, Easy Elegance","4'Tx4'W, lightly scented, velvety red flowers, green foliage emerges red in spring ",Velvety Red,Average,Full Sun,Deep Green
+SHRUBS,"Rose, Floribunda","3-4'Tx2-3'W, extremely fragrant, blush white flowers, Summer, disease-resistant foliage, great cutting rose",Blush White,Average,Sun/Part Sun,Green
+SHRUBS,"Rose, Floribunda","3-4'Tx2-3'W,  fragrant, plum purple flowers, repeat flowering",Plum Purple,Average,Full Sun,Green
+SHRUBS,"Rose, Floribunda","3'Tx4'W, fragrant, buttery yellow flowers, long bloom time",Buttery Yellow,Average,Full Sun,Medium Green
+SHRUBS,"Rose, Floribunda","3-4'Tx3-4'W, fragrant, large, white flowers, Spring-Fall",White,Average,Full Sun,Green
+SHRUBS,"Rose, Floribunda","4-5'Tx3-4'W, fruity, fragrant lavender with magenta flowers",Lavendar/ Magenta,Average,Full Sun,Green
+SHRUBS,"Rose, Floribunda","3-6'Tx3-6'W, everblooming, medium red flowers, medium to dark green satiny foliage",Medium Red,Average,Full Sun,Medium Green
+SHRUBS,"Rose, Grandiflora","5-6'Tx2-3'W, clear pink flowers, all season, grandiflora",Clear Pink,Average,Full Sun,Green
+SHRUBS,"Rose, Grandiflora","2-4'Tx2-3'W, sweetly fragrant apricot blossoms mature to salmon pink flowers, vigorous upright grower",Apricot/Salmon,Average,Full Sun,Green
+SHRUBS,"Rose, Hybrid Tea","4-5'Tx3-4'W, ruby-red edges/lavender flowers, late Spring-Fall",Lavender/Ruby Red,Average,Full Sun,Deep Green
+SHRUBS,"Rose, Hybrid Tea","4-5'Tx2-3'W, extra large, lemon-edged pink flowers",Lemon/Pink,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Rose, Hybrid Tea","4-5'Tx4'W, highly fragrant, deep lilac purple flowers",Deep Lilac,Average,Full Sun,Green
+SHRUBS,"Rose, Hybrid Tea","3-5'Tx3-4'W, double white flowers with fruity fragrance, repeat bloomer",White,Average,Full Sun,Green
+SHRUBS,"Rose, Hybrid Tea","4-5'Tx3-4'W, large, slightly fragrant, pure white blooms",Pure White,Average,Full Sun,Dark Green
+SHRUBS,"Rose, Hybrid Tea","4-7'Tx2-3'W, fragrant, dark, velvety red flowers, matte green foliage",Dark Velvety Red,Average,Full Sun,Matte Green
+SHRUBS,"Rose, Hybrid Tea","4-6'Tx3-4'W, highly fragrant, velvety deep red flowers",Deep Velvety  Red,Average,Full Sun,Green
+SHRUBS,"Rose, Rugosa","4-5'Tx4-5'W, fragrant double white flowers, all summer",White,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Rose, Rugosa","3-4'Tx5-7'W, fragrant, large pink flowers, summer, seashore tolerant, Agressive ",Pink,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Rose, Rugosa ","3-4'Tx5-7'W, single, pure white flowers, Spring, seashore tolerant",Pure white ,Average,Sun/Part Sun,Dark Green
+SHRUBS,"Rose, Shrub","2-3'Tx2-3'W, carmine red flowers, repeat bloomer",Carmine Red,Average,Full Sun,Green
+SHRUBS,"Rose, Shrub","3-4'Tx2-3'W, bright yellow, single, 3"" dia. flowers, May-October, Disease Resistant",Bright Yellow ,Average,Full Sun,Deep Green
+SHRUBS,"Rose, Shrub","2-3'Tx3-5'W, cherry red flowers, blooms all summer, Disease Resistant ",Cherry Red,Average,Full Sun,Deep Gray Green
+SHRUBS,"Rose, Shrub","2-3'Tx3-5'W, dark green foliage, soft pastel pink single flowers, blooms all summer, Disease Resistant ",Soft Pastel Pink,Average,Full Sun,Dark Green
+SHRUBS,"Rose, Shrub","2-3'Tx3-4'W, pink-red double-petal flowers, gray- green foliage, blooms all summer, Disease Resistant ",Pink/Red ,Average,Full Sun,Gray Green
+SHRUBS,"Rose, Shrub","3-4'Tx3-4'W,  double, hot pink flowers, May-October, Disease Resistant",Hot Pink,Average,Full Sun,Deep Green
+SHRUBS,"Skimmia, Japanese (female)","3-5'Tx3-5'W, glossy red buds, fragrant white flowers, bright red fruits, partial-full shade, moist soil", Red Bud/White,Moist,Part/Full Shade,Dark Green
+SHRUBS,"Skimmia, Japanese (male)","3-5'Tx3-5'W, glossy red buds, fragrant white flowers, bright red fruits, partial-full shade, moist soil",Red Bud/ White,Moist,Part/Full Shade,Dark Green
+SHRUBS,Spicebush,"6-10'Tx6-10'W, yellow flowers, early April, shady, wet soils, yellow Fall Color, N",Yellow-Green ,Moist to Wet,Part/Full Shade,Light Green
+SHRUBS,Spirea,"24-30""Tx3-4'W, deep, pink flowers, June-late August, purple-red new foliage changes to deep, blue green",Deep Pink,Average,Sun/Part Sun,Purple Red /Deep Blue Green
+SHRUBS,Spirea,"24-30""Tx3-4'W, pinkish-red flowers, early Summer, blue-green foliage, Deer Resistant",,,,
+SHRUBS,Spirea,"5-6'Tx5-6'W,  pink flowers, June-late August, Bees and Butterflies",Pink,Average,Sun/Part Sun,Pink tinge to Blue-Green
+SHRUBS,Spirea,"2-3'Tx2-3'W, large, white flowers, early Summer, blue-green foliage, Deer Resistant",,,,
+SHRUBS,"Spirea, Mellow Yellow","4-5'Tx4-5'W, white flowers, mid-late April, bright yellow foliage  ",White,Average,Sun/Part Sun,Pale Green
+SHRUBS,Spirea,"2-3'Tx2-3'W, large white flowers, early Summer, blue-green foliage, Deer Resistant, Butterflies  ",White,Average,Sun/Part Sun,Blue-Green
+SHRUBS,"Spruce, Colorado Dwarf","3'Tx4-6'W, dwarf, blue-needled evergreen",,Average to moist,Full Sun,Blue 
+SHRUBS,"Spruce, Dwarf Globe Blue","3-4'Tx 5'W, dwarf, globose form, electric blue needle color",,Average to moist,Full Sun, Electric Blue 
+SHRUBS,"Spruce, Dwarf Serbian","3-6'Tx 4-6'W, dwarf, horizontal spreading branches, broadly conical/globose, dense and stiff, blue/green needles",,Average,Sun/Part Sun, Blue Green 
+SHRUBS,St. John's Wort,"36""Tx24-36""W, yellow, star-like flowers, July-Frost, orange fruit, Deer and Drought Resistant",Yellow ,Average to moist,Sun/Part Sun,Green
+SHRUBS,St. John's Wort,"3-4'Tx3-4'W, yellow flowers, Summer, red fruit, Deer and Drought Resistant, N",Yellow ,Average,Sun/Part Sun, Blue Green 
+SHRUBS,St. John's Wort,"3'Tx3-4'W, yellow flowers, Summer, red fruit, Deer and Drought Resistant",Yellow,Average,Sun/Part Sun,Dark Green
+SHRUBS,St. John's Wort,"3-4'Tx3-4'W, yellow, star-like flowers, Summer, willow-like leaves, red fruit, Salt Tolerant, Deer and Drought Resistant",Yellow,Average,Sun/Part Sun,Deep Green
+SHRUBS,Steeplebush,"3-6'Tx3-6'W, pinkish-lavender flower, July-Aug, butterflies, sunny/moist soil, N",Pink/Lavender,Moist to Wet,Full Sun,Dark Green
+SHRUBS,"Sumac, Smooth","10-20'Tx10-20'W, greenish flowers, July-August, velvety, red hairy berries, red Fall Color, colony forming, Birds, N",Greenish,Average to Dry,Sun/Part Sun,Dark Green
+SHRUBS,Summersweet,"3-4'Tx3-4'W, fragrant white flowers, late July, yellow Fall Color, N",White,Moist,Sun/Part Sun,Deep Green
+SHRUBS,Summersweet,"5-6'Tx5-6'W, fragrant pink flowers, late July, N",Pink,Moist,Sun/Part Sun,Deep Green
+SHRUBS,Summersweet ,"5-7'Tx6-8'W, fragrant white flowers, late July, N",White ,Moist,Sun/Part Sun,Deep Green
+SHRUBS,"Summersweet, Dwarf","30-36""Tx36-48""W, fragrant, pure white flowers, July-August, butterflies, yellow fall color, N",Pure White,Moist,Sun/Part Sun,Deep Green
+SHRUBS,Sweetfern,"2-4'Tx4-8'W, fragrant fern-like foliage, upright, N",  ,Average,Sun/Part Sun,Deep Green
+SHRUBS,Sweetgale,"2-4'Tx5-6'W, catkin-like flowers, Spring, aromatic, gray green leaves, wetlands, N",Yellowish Green,Moist to Wet,Sun/Part Sun,Gray/Green
+SHRUBS,Sweetshrub,"6-9'Tx6-9'W, fragrant red flowers, May-June, yellow Fall Color, Deer Resistant, N",Red,Average,Sun/Part Sun,Green
+SHRUBS,Sweetshrub,"5-6'Tx6-7'W, fragrant, bright red, magnolia-like flowers, Summer, glossy foliage, Deer Resistant",Bright Red ,Average,Sun/Part Sun,Green
+SHRUBS,Sweetshrub,"8-10'Tx6-8'W, fragrant magnolia-like white blooms with yellow and lavender, late May-late July, Deer Resistant",White/Yellow Center,Average,Sun/Part Sun,Green
+SHRUBS,Sweetspire,"3-4'Tx5-6'W, fragrant, white flowers, June, glossy foliage, Fall Color, N",White,Moist,Sun/Part Sun,Dark Green
+SHRUBS,Sweetspire,"3'Tx3-4'W, fragrant, white flowers, June, glossy foliage, Fall Color, N",White ,Moist,Sun/Part Sun,Medium Green 
+SHRUBS,Sweetspire,"2-3'Tx2-3'W, highly fragrant, white flowers, early Summer, glossy foliage, red Fall Color, bees, N",White,Moist,Sun/Part Sun,Medium Green 
+SHRUBS,"Tea, New Jersey","3-4'Tx4-5'W, fragrant, white flowers, May, butterflies, hummers, N",White,Average to Dry,Sun/Part Sun,"Deep Green, Yellow Twigs"
+SHRUBS,Viburnum,"6-8'Tx6-8'W, white flowers, late-June, colorful berries, birds, crimson-purple Fall Color",White,Moist to Wet,Sun/Part Sun,Dark Green
+SHRUBS,  ,"10-12'Tx10-12'W, yellow-white flowers, May, long, leathery evergreen foliage, berries ",Yellow White,Moist,Sun/Part Sun,long leathery green
+SHRUBS,Viburnum,"8-10'Tx8-10'W, white flowers, late May, red berries, birds, N",White,Moist,Sun/Part Sun,Deep Green
+SHRUBS,Viburnum,"6-8'Tx6-8'W,  fragrant, creamy white flowers, early May, evergreen foliage, full and dense growing",Creamy White,Moist,,Evergreen 
+SHRUBS,Viburnum,"6-7'Tx6-7'W,  fragrant, creamy white flowers, early May, evergreen foliage, full and dense growing",Creamy White,Moist,,Evergreen
+SHRUBS,Viburnum,"6-7'Tx8-10'W, creamy white flowers, May, dark green, glossy foliage, red fruit, Fall Color",Creamy White,Moist,,Dk green Glosssy
+SHRUBS,"Viburnum, Arrowood","8-10'Tx 8-10'W, creamy white flowers, May-July, blue-black fruit in fall,  Fall Color, birds, N",Creamy White,Average to Moist,Sun/Part Sun,"Glossy, Dark Green"
+SHRUBS,"Viburnum, Arrowood","7-8'Tx5-6'W, white flowers, late May/early June, birds, Fall Color, N",White,Average to Moist,Sun/Part Sun,"Glossy, Dark Green"
+SHRUBS,"Viburnum, Arrowood ","5-6'Tx5-6'W, creamy white flowers, late May, blue fruit, Fall Color, birds, N",Creamy White ,Average to Moist,Sun/Part Sun,"Glossy, Dark Green"
+SHRUBS,"Viburnum, Bailey's Compact ","5-6'Tx5-6'W, white flowers, late May, red fruit, Fall Color, birds, N",White,Moist,Sun/Part Sun,Shiny Green
+SHRUBS,"Viburnum, Blackhaw","10-12'Tx6-8'W, fragrant creamy-white flowers, mid-May, black berries, N ",Creamy White ,Average to Dry,Sun/Part Sun,Deep Green
+SHRUBS,"Viburnum, Doublefile","3-5'Tx3-5'W, white flowers, mid-May, berries, Fall Color, birds",White ,Average to Moist,Sun/Part Sun,Green
+SHRUBS,"Viburnum, Doublefile","8-10'Tx10-12'W, white flowers, mid-May, red/black in July, red-purple Fall Color, birds",White,Average to Moist,Sun/Part Sun,Dark Green
+SHRUBS,"Viburnum, Doublefile","5-6'Tx8-10'W, white flowers, mid-May, fall berries, birds",White ,Average to Moist,Sun/Part Sun,Green
+SHRUBS,"Viburnum, Fragrant","8-10'Tx8-10'W, pink buds opening to fragrant white flowers, early May, deep green foliage, spreading",Pink buds-White Flrs,Average to Moist,Sun/Part Sun,Deep Green 
+SHRUBS,"Viburnum, Korean Spice","6-8'Tx6-8'W, very fragrant, pink, snowball flowers, late-April ",Pink to White,Average,Sun/Part Sun,Deep Green 
+SHRUBS,"Viburnum, Dwarf Korean Spice","4-6'Tx4-6'W, very fragrant, pink, snowball flowers, late-April, Deer Resistant ",Pink to White,Average,Sun/Part Sun,Deep Green 
+SHRUBS,"Viburnum, Leatherleaf","10-12'Tx12-14'W, white flowers, mid-May, leathery, deep green, evergreen foliage ",White ,Moist,Sun/Part Sun,Leathery Deep Green
+SHRUBS,"Viburnum, Dwarf Leatherleaf","8'Tx8'W, white flowers, mid-May, leathery, deep green, evergreen foliage, part shade-shade ",White ,Moist,Sun/Part Sun,Leathery Deep Green
+SHRUBS,"Viburnum, Mapleleaf","6-7'Tx4-5'W, white flowers, May-June, black-red berries, upright/suckering plant, red fall color, birds, N",White ,Average to Moist,Sun/Part Sun,Medium Green
+SHRUBS,"Viburnum, Tea","8-12'Tx6-8'W, white flowers, May, soft blue-green foliage, bright red berries, birds",White  ,,,Soft Blue Green
+SHRUBS,"Viburnum, Witherod","7-8'Tx5-6'W, white flowers, late-June, birds, crimson-purple Fall Color, N",White ,Moist to Wet,Sun/Part Sun,Dark Green
+SHRUBS,"Viburnum, Witherod","7'Tx7'W, (suckering habit), creamy white flowers, late June, pink/black fruit, Sept, red-purple Fall Color, Birds, N",Creamy White,Moist to Wet,Sun/Part Sun,Dark Green
+SHRUBS,Nannyberry,"14-16'Tx6-12'W, (suckering habit), creamy white flowers, Spring, blue/black fruit, Fall/Winter, red-purple Fall Color, Birds, N",Creamy White,Average,Sun/Part Sun,"Leathery, Deep Green"
+SHRUBS,Weigela,"3'Tx4-5'W, reddish/pink flowers, May- June, dark burgundy foliage, hummingbirds",Reddish Pink,Average,Full Sun,Medium Green
+SHRUBS,Weigela,"2-3'Tx3-5'W, pink tubular flowers, June, black/pruple foliage, spreading habit, hummingbirds",Pink ,Average,Full Sun,Medium Green
+SHRUBS,Winterberry,"5-7'Tx5-7'W, early flowering male for Red Sprite, Afterglow, Berry Heavy, Berry Nice, N",White,Moist to wet,Sun/Part Sun,Dark Green
+SHRUBS,Winterberry,"5-6'Tx4-5'W, small white flowers, red berries, birds, N/ Jim Dandy",White,Moist to wet,Sun/Part Sun,Dark Green
+SHRUBS,Winterberry,"6-8'Tx6-8'W, small white flowers, May, XL red-orange berries in fall, birds/Jim Dandy",White,Moist to wet,Sun/Part Sun,Dark Green
+SHRUBS,Winterberry,"8-10'Tx8-10'W, small, white flowers, May, green foliage, bright red berries, birds, N /Apollo or Southern Gentleman",White,Moist to wet,Sun/Part Sun,Dark Green
+SHRUBS,Winterberry,"10-12'Tx6-8'W, late flowering male for Sparkleberry & Winter Red, N",White,Moist to wet,Sun/Part Sun,Dark Green
+SHRUBS,"Winterhazel, Buttercup","5-6'Tx 5-6' W, fragrant, soft yellow flower, early April ",Soft Yellow,,,
+SHRUBS,"Winterhazel, Spike","8-10'Tx8-10'W, fragrant, pale yellow flowers, mid-April bloom",Pale Yellow,,,
+SHRUBS,"Winterhazel, Vernal ","8-10'Tx10-12'W, fragrant, yellow flowers, late Feb-early Mar, Fall Color, N",Yellow ,Moist,Sun/Part Sun,Bronze to Green
+SHRUBS,Witchhazel,"10-15'Tx10-15'W, fragrant, yellow flowers, early-mid-March ",Yellow,Average to Moist,Sun/Part Sun,Green
+SHRUBS,"Witchhazel, Common","15-20'Tx15-18'W, fragrant, strap-like, yellow flowers, Oct-Nov, Fall Color, N",Yellow,Moist,Sun/Part Sun,Bronze to Bluish Green
+SHRUBS,Witchhazel ,"10-15'Tx10-15'W, fragrant, coppery orange, strap-like flowers, late February",Coppery Orange,Average to Moist,Sun/Part Sun,Green
+SHRUBS,Witchhazel ,"15-20'Tx8-10'W, slightly fragrant, copper-red, strap-like flowers, February, yellow/orange/red Fall Color",Coppery Red,Average to Moist,Sun/Part Sun,Green
+SHRUBS,"Witchhazel, Chinese","10-15'Tx10-15'W, fragrant, yellow, strap-like flowers, late February",Yellow,Moist,Sun/Part Sun,Deep Green
+SHRUBS,"Zenobia, Dusty","3-4'Tx3-4'W, fragrant white flowers, bluish-green foliage, yellow-red Fall Color, N",White,,,Bluish/Green
+TREES,"Alder, Speckled","15-20'Tx8-10'W, multi-stem shrubby tree, leathery foliage, bark, N",,Moist to wet,Sun/Part Sun,"Leathery,  Dark Green"
+TREES,Arborvitae ,"20-30'Tx6-8'W, deep green fan foliage, N",,Average to Moist,Sun/Part Sun,Deep Green 
+TREES,"Arborvitae, Emerald Green","12-15'Tx5-6'W, upright, narrow evergreen, glossy green ",,Average to Moist,Sun/Part Sun, Glossy  Bright Green
+TREES,"Arborvitae, Emerald Green","12-15'Tx5-6'W, upright, narrow evergreen, glossy green foliage ",,Average to Moist,Sun/Part Sun, Glossy  Bright Green
+TREES,"Arborvitae, Western","30-40'Tx15'W, fast growing, upright, rich, medium green foliage",,Average to Moist,Sun/Part Sun,Rich Medium Green
+TREES,Baldcypress,"50-70'Tx20-30'W, deciduous needles, pyramidal form, orange-brown Fall Color ",,Moist to wet,Full Sun,Yellow-Green
+TREES,"Beech, European ","50-70'Tx30-35'W, purplish leaves edged in rose/pinkish white",,Average to Moist,Partial Shade,Purple with Rose Pink/White edges
+TREES,"Beech, River's Purple","60-80'Tx50-60'W, black-purple foliage, smooth gray bark",,Average to Moist,Sun/Part Sun,Black/Purple
+TREES,"Beech, Weeping ","25-30'Tx8-12'W, deep purple foliage, narrow, pendulous form ",,Average to Moist,Sun/Part Sun,Deep Purple 
+TREES,"Birch, White-Barked Himalayan","30-40'Tx15-20'W, medium-green foliage, brilliant white bark ",,Moist to wet,Sun/Part Sun,Medium Green
+TREES,"Birch, Sweet","45-50'Tx25-30'W, tight pyramidal form, brownish-black bark, Fall Color, N",,,,Brownis /Black Bark
+TREES,"Birch, Dwarf River Birch","12-15'Tx 8-10'W, dense growth, cream-cinnamon exfoliating bark, Fall Color-Yellow",,,,Cream Cinnimon
+TREES,"Birch, Heritage River","35-40'Tx25-30'W, Multi-stem, exfoliating bark, resistant to disease and insects, N",,Moist,Sun/Part Sun,Light Green
+TREES,"Birch, Heritage River","35-40'Tx25-30'W, Multi-stem, exfoliating bark, resistant to disease and insects, N",,Moist,Sun/Part Sun,Light Green
+TREES,"Birch, Heritage River","35-40'Tx25-30'W, Multi-stem, exfoliating bark, resistant to disease and insects, N",,Moist,Sun/Part Sun,Light Green
+TREES,"Birch, Asian White","30-40'Tx10-12'W, narrow in form, heat, drought, borer resistant, yellow Fall Color",,Moist,Sun/Part Sun,Dark Green
+TREES,"Birch, White (Paper)","25-30'Tx15-18'W, striking white bark, most resistance to bronze birch borer, yellow Fall Color",,Moist,Sun/Part Sun,Dark Green
+TREES,Birch,"30-40'Tx15-20'W, reddish purple foliage, cinnamon- white exfoliating bark, orange yellow Fall Color",,Moist,Sun/Part Sun,Reddish/Purple
+TREES,Black Gum,"30-50'Tx20-30'W, oval-pyramidal shape, wet soils, deep red Fall Color, N",,Moist to wet,Sun/Part Sun,Green
+TREES,"Cedar, Blue Atlas","60-70'Tx30-40'W, deep blue, whorled needles, open stiff form",,Average,Full Sun,Deep Blue
+TREES,"Cedar, Blue Atlas Weeping","10-20'Tx15-20'W, short blue needles, cascading, pendulous habit",,Average,Full Sun,Blue
+TREES,"Cedar, Weeping Alaskan","15-20'Tx15-20'W, blue/green foliage, cascading, pendulous habit",Carmine Pink,,,Blue/Green
+TREES,"Cherry, Flowering ","20-25'Tx12-15'W, single, carmine-pink flowers, early-May, orange/red Fall Color",White,,,
+TREES,"Cherry, Flowering Yoshino","25-30'Tx25-30'W,  pink buds, fragrant white flowers, early-May, yellow Fall Color",White,,,
+TREES,"Cherry, Weeping","8-12'Tx6-12'W, white flowers, heavy branching, late-April, red Fall Color",Small Pink,,,Heavy Branches
+TREES,"Cherry, Weeping","20-25'Tx20-25'W, small pink flowers, late-April",Double Rose Pink,,,
+TREES,"Crabapple, Columnar Flowering","20'Tx 8-10'W, bright, rose-pink flowers, May, glossy, bronze-purple foliage, red-purple fruit, upright/narrow growth, birds",Rosey Pink,Average,Full Sun,Glossy Bronze/Purple
+TREES,"Crabapple, Flowering","10-12'Tx8-10'W, double rose-pink flowers, early-May, orange-red fruit, birds",Red bud/White ,,,
+TREES,"Crabapple, Flowering","20'Tx25'W, single red buds, white flowers, bright red fruits, early-May, birds",Pink Buds /White ,,,
+TREES,"Crabapple, Flowering","20-22'Tx15-18'W, pink buds, white flowers, dark red fruit, birds",Magenta Pink,,,
+TREES,"Crabapple, Flowering","15-20'Tx10-15'W, magenta pink flowers, May, deep purple cutleaf foliage, bright red fruits, FC, DR, birds",Pink,,,Deep Purple cutleaf
+TREES,"Crabapple, Flowering","15-20'Tx15-20'W, fragrant, pink flowers, early May, reddish-green leaves, red fruits, FC, DR, birds",,,,Reddish Green 
+TREES,"Crabapple, Weeping","8-10'Tx12-15'W, pink flrs, early May, merlot/green foliage, red fruits, birds, Fall Color, Disease Resistant",Red Bud/Pink FL,,,Green 
+TREES,"Crabapple, Weeping","10-15'Tx10-15'W, red flower buds/pink flowers, late April, golden fruit, birds",,,,
+TREES,"Cryptomeria, Japanese","50-60'Tx20-30'W, blue-green foliage turning bronze in winter",,,,Blue Green/ turning bronze in winter
+TREES,"Cryptomeria, Japanese Dwarf ","10-12'Tx3-5'W, dark green foliage, male and female cones on tree, growth rate 6-12""/year",,,,Dark Green  
+TREES,"Cypress, Leyland","40-50'Tx8-15'W, feathery, blue-green foliage (30'x8' in 10 yrs)",White,,,
+TREES,"Dogwood, Chinese ","12'Tx12-20'W, white flowers, late-May, reddish-purple Fall Color",Yellow,,,
+TREES,"Dogwood, Cornelian Cherry","15-20'Tx10-15'W, yellow flowers, early-April, fall red berries, N",White ,,,
+TREES,"Dogwood, Flowering","18-22'Tx18-22'W, white flowers, mid-May, birds, Fall Color, N",Deep Red ,,,
+TREES,"Dogwood, Flowering","25-30'Tx25-35'W, deep red flowers, May, red berries, birds, Fall Color", ,,,
+TREES,"Dogwood, Flowering","15-25'Tx25'W, 5"" large white flower bracts, birds, Fall Color",Creamy White,,,
+TREES,"Dogwood, Pagoda","20-25'Tx20-25'W, creamy white flowers, July, purple berries, Fall Color, N",,,,
+TREES,"Fir, Frasier","30-40'Tx20-25'W, pyramidal, with horizontal, stiff branches, slow growth, shining dark green foliage",,,,Shinny Dark Green
+TREES,"Fir, Korean","20'Tx15-20'W, white-backed needles, slow grower initiallly",,,,white back needles
+TREES,"Fir, White","30-50'Tx15-30'W, conical, branched at base, slow-medium growth rate, bluish-green foliage",White,,,Bluish - green
+TREES,Franklinia,"10-15'Tx6-9'W, fragrant white flowers, July/Aug, excellent Fall Color, N",White,,,
+TREES,Fringetree,"12-20'Tx12-20'W, white fragrant flowers, mid-May, N",White ,,,
+TREES,Hawthorne,"20-25'Tx20-25'W, white flowers, May, bright red fruit, purple/scarlet Fall Color",,,,
+TREES,Holly,"15'Tx15'W, blue-green evergreen foliage, red berries in Fall, MP Blue Prince                                               wide body",,,,Blue/Green Evergreen
+TREES,Holly,"15-20'Tx8-10'W, dark glossy foliage, tall, columnar, MP Blue Stallion or Blue Prince",,,,
+TREES,Holly,"15'Tx6'W, upright, pyramidal, high quantity of red berries, mite resistant, MP Blue Stallion or Blue Prince",,,,
+TREES,"Holly, Tea Olive","8-10'Tx6-8""W, gold-flecked variegation, holly-like foliage, Deer Resistant",,,,Gold/Green variegated
+TREES,"Honeylocust, Sunburst","35-45'Tx 25-35'W, fine-textured foliage, nearly seedless, thornless, yellow Fall Color",,,,
+TREES,"Hophornbeam, Eastern","30-40'Tx20-30'W, catkin-like blooms, April, hop-like fruit, tolerates poor soil, N",,Poor,,
+TREES,"Hornbeam, American (Musclewood)","30'Tx30'W, yellow/green flowers (male and female), early Spring, N moist soil",Yellow/Green,Moist,Part Sun-Part Shade,Green
+TREES,"Juniper, Chinese ","8-10'Tx4-5'W, dense, blue/green foliage",,,,Dense Blue-green
+TREES,"Juniper, Chinese ","10-15'Tx6-8'W, slow growing, irregular, broadly columnar, tufted, bright green foliage, abundant fruit ",,,, Bright Green
+TREES,"Juniper, Chinese ","15'Tx3-5'W, fast grower, dense green foliage",,,, Blue-Green
+TREES,"Juniper, Chinese ","20-30'Tx6-10'W, twisted, artistic and sculptural growth habit, salt tolerant",,,,
+TREES,"Juniper, Chinese ","10-15'Tx5'W, hedge for dry areas, bright green foliage, abundant fruit",,,,Bright Green 
+TREES,"Juniper, Chinese ","10'Tx4'W, upright informal habit, blue/green foliage",,,,Blue Green
+TREES,Katsura Tree,"50-60'Tx40-50'W, pest free, med-fast growth, apricot Fall Color",Inconspicuous Red,,,
+TREES,"Katsura Tree, Weeping","15-25'Tx'Tx 10-15'W, inconspicuous red flrs, pest free, slow growth, blue green foliage, yellow Fall Color",,,,Blue/Green
+TREES,"Katsura Tree, Weeping","15-25'Tx'Tx 30-40'W, inconspicuous red flowers, slow growth, blue green foliage, orange/yellow Fall Color",Creamy White,,,Blue/Green
+TREES,"Lilac, Japanese Tree ","20-25'Tx10-15'W, creamy white, 6-12"" flowers, June",Creamy White ,,,
+TREES,"Magnolia, Moonglow Sweetbay","30-35'Tx30-35'W, fragrant, creamy-white flowers, June-August, birds,  wet soils, tolerates shade, N",Canary,Wet  ,Part Shade-Sun,
+TREES,"Magnolia, Saucer","50-60'Tx50-60'W, canary-yellow flowers",Lg Rose/Purple,,,
+TREES,"Magnolia, Saucer","20'Tx20'W, fragrant, large, rose/purple flowers, late April, upright-oval shape,  gold/bronze Fall Color",Reddish/Purple,,,
+TREES,"Magnolia, Saucer","20-28'Tx20-25'W, fragrant, reddish/purple flowers, late April",Rose/Pink,,,
+TREES,"Magnolia, Saucer","15-18'Tx15-18'W, highly fragrant, 10-12"" diameter rose/pink flowers, late April-early May",Vivid Fuchsia/Purple,,,
+TREES,"Magnolia, Star","20-25'Tx20-25'W, vivid fuchsia buds open to fragrant, purple, star-like flowers, late April, rounded shape",Pure White Silky,,,
+TREES,"Magnolia, Star","10-12'Tx12-15'W, pure white, silky, strap-like flowers, late-April, waxy green leaves, hardy",,,,Green
+TREES,Maidenhair,"40-60'Tx30-40'W, fan-shaped foliage, yellow Fall Color",,,,
+TREES,Maidenhair,"45'Tx25'W, fan-shaped foliage, bright yellow Fall Color",,Normal,Full Sun,Green
+TREES,"Maple, Japanese","6-8'Tx6-8'W, purple-red foliage, orange Fall Color",,,,Purple/ Red  
+TREES,"Maple, Japanese","8-10'Tx8-10'W, soft, blue-green with cream/pink variegated edge, mature leaves curl, slow growing, upright",,,,Blue/Green w Cream/Pink variegated Edges
+TREES,"Maple, Japanese ","8-10'Tx5-6'W, foliage-bright orange-red, Fall Color-lemon yellow with orange tips ",,,,Bright Orange/Red
+TREES,"Maple, Japanese ","15-18'Tx12-15'W, rich, dark red foliage turns brilliant red in Fall, rounded habit",,,,Dark Red
+TREES,"Maple, Japanese Autumn Moon","10-12'Tx10-12'W, new foliage-bright chartreuse green/rust and pink tones change to deep orange and red",,,, Chartreuse Green/Rust/Pink tones
+TREES,"Maple, Japanese Coral Bark ","15-25'Tx15-20'W, upright, vase-shaped form, foliage-bright green change to gold/apricot/light red in fall",,,,Bright Green / Gold/Apricot/Light Red 
+TREES,"Maple, Japanese Full Moon","10-20'Tx20'W, magnificent crimson Fall Color ",Yellow/ Red,,,
+TREES,"Maple, Japanese Full Moon Golden","15-20'Tx15-20'W, yellow and red flowers, May, firey red Fall Color ",,,,
+TREES,"Maple, Japanese Weeping","8-10'Tx10-12'W, Red/Purple filegree-textured foliage, slow growth",,,,Red/Purple 
+TREES,"Maple, Japanese Weeping","6-8'Tx8-9'W, deep purple foliage, low spreading",,,,Deep Purple
+TREES,"Maple, Japanese Weeping","8-10'Tx10-12'W, deeply dissected purple-red leaf color",,,,deeply dissected Purple/Red
+TREES,"Maple, Japanese Weeping","8-12'Tx10-14'W, light to medium green foliage, yellow/orange Fall Color",,,,Light /Medium Green
+TREES,"Maple, Japanese Weeping","6-8'Tx8-10'W, bright green leaf color, bright yellow Fall Color",,,,Bright Green
+TREES,"Maple, Japanese Weeping","10-12'Tx10-15'W, red-burgundy leaves, red Fall Color",,,,Red Burgundy
+TREES,"Maple, Japanese Yellow Leaf","6'Tx6'W, foliage-bright orange in Spring becoming  yellow-orange with bright orange margins ",,,,Bright Orange 
+TREES,"Maple, Paper Bark","20-30'Tx25'W, small leaves, copper-colored peeling bark, slow grower",Red,,,
+TREES,"Maple, Red","35-40'Tx35-40'W, red flowers, mid-April, tolerates wet soil, bees, butterflies, birds, firey crimson Fall Color, N",,Wet  ,,
+TREES,"Maple, Red ","45-50'Tx35-40'W, firey red Fall Color, N",,,,
+TREES,"Maple, Red ","40-50'Tx35-40'W, fast growing, bright red Fall Color, N",,,,
+TREES,"Maple, Sugar","50-60'Tx35-40'W, round shape, Fall Color, N",,,,
+TREES,"Maple, Sugar","50-70'Tx40-50'W, deep green foliage, fast growth rate, Fall Color, N",,,,Deep Green
+TREES,"Maple, Sugar","60-70'Tx50-60'W, round spreading form, Fall Color, N",,,,
+TREES,"Maple, Sugar","60-80'Tx40-50'W, fast growing, symetrically ovoid in shape, red-orange Fall Color, N",,,,
+TREES,"Maple, Sugar","50-60'Tx35-40'W, fast growing, drought resistant, orange/red Fall Color, N",,,,
+TREES,"Oak, Northern Red ","60-70'Tx60-70'W, fast growing, rounded form, Fall Color, N",,,,
+TREES,"Oak, Pin","40-60'Tx30-40'W, broad, pyramidal form, Fall Color, N",,,,
+TREES,"Oak, Scarlet","50-70'Tx 15-30'W, glossy, c-shaped sinuses on leaves, brilliant red fall color, like dry, rocky soils, N",,Dry Rocky,,
+TREES,"Oak, White","80-100'Tx 60-80'W, acorns, wildlife, birds, N",,,,
+TREES,"Oak, Swamp White ","50-60'Tx50-60'W, rounded form, wildlife, Fall Color, N",Brown/Purple,,,
+TREES,PawPaw,"20-25'Tx20-25'W, brownish-purple flowers, late April-early May, fruit, butterfly magnet, N",,,,
+TREES,"Pine, Austrian ","50-60'Tx20-40'W, course, tolerates seaside conditions",,,,
+TREES,"Pine, Bosnian","12'Tx7-10'W, purple-blue cones, dense, narrow, pyramidal, drought and salt tolerant ",,,,
+TREES,"Pine, Dwarf Austrian","10-20'Tx10-20'W, slightly twisted green needles, silver-white candles, upright growth habit",,,,Medium Green
+TREES,"Pine, Japanese Black Dwarf","10-15'T, dwarf, broad habit, heavy, dense needles",,,,Dark Green
+TREES,"Pine, Japanese Umbrella","20-30'Tx10-15'W, slow growing, deep green glossy needles",,,,Deep Green/Glossy 
+TREES,"Pine, Lacebark","10-18'Tx12'W, dark green needles, splotchy ornamental bark, slow growing",,,,Dk Green Splotchy
+TREES,"Pine, Limber","35-40'Tx20-25'W, white-striped fragrant needles, broadly upright",,,,White striped/Fragrant
+TREES,"Pine, White Columnar","30-40'Tx10-15'W, narrowly upright and columnar",,,,
+TREES,"Pine, White Pine Eastern","50-80'Tx20-40'W, fast growing, soft and graceful in shape",Pink,,,
+TREES,"Plum, Purple Leaf","18-20'Tx12-15'W, pink flowers, May, deep purple-red foliage",,,,Deep Purple 
+TREES,"Red Cedar, Eastern","15-20'Tx5-7'W, pyramidal form with green foliage ",,,,Green 
+TREES,"Red Cedar, Eastern","20'Tx8-10'W, pyramidal form with dark green foliage ",,,,Dark Green
+TREES,"Red Cedar, Eastern","25-30'Tx10-12'W, pyramidal form with green foliage, berries for wildlife, N ",,,,Green 
+TREES,"Red Cedar, Eastern","12-15'Tx2-3'W, bright blue-dark green foliage, wildlife, deer resistant, seashore, N ",,Seashore,,Bright Blue/Dark Green
+TREES,"Red Cedar, Eastern","15-20'Tx5-7'W, deep green, finely textured foliage, strongly upright form, burgundy winter foliage, wildlife, DDR, seashore ",Rose/Purple,Seashore,,Deep Green-Burgundy
+TREES,Redbud,"20-25'Tx25-30'W, rose-purple flowers, burgundy foliage, May, N",White ,,,Burgundy
+TREES,Redbud,"20-25'Tx25-30'W, green foliage, white flowers, May, clump form, N",Lavendar/Pink,,,Green 
+TREES,"Redbud, Weeping","8'Tx 10'W, lavender/pink flowers, April-May, large, heart-shaped green leaves, Deer Resistant",Reddish Purple,,,
+TREES,"Redbud, Weeping","8-10'Tx8-10'W, reddish-purple flowers, early Spring ",Reddish Purple,,,
+TREES,"Redbud, Weeping","12-15'Tx8-10'W, reddish-purple flowers, early Spring ",Rose Purple ,,,
+TREES,"Redbud, Weeping","12'Tx 6-8'W, white flowers, April-May, medium green, heart-shaped leaves, Deer Resistant",White,Average,Sun/Part Sun,Medium Green
+TREES,"Redbud, Weeping","12'Tx 6-8'W, rose/purple flowers, April-May, ruby-purple changing to deep purple, heart-shaped leaves, Deer Resistant",,,,
+TREES,"Redwood, Dawn","110'Tx30-40'W, upright, deciduous conifer, yellow-orange Fall Color",Pink,,,
+TREES,Sandcherry,"7-9'Tx5-6'W, pink flowers, late April, purple/red foliage",,,,Purple/Red
+TREES,Sassafras,"35-50'Tx25-35'W, flowers April-May, black berries,  yellow/red/purple fall color, root suckers, birds, N",White,,,
+TREES,Seven-Son-Flower,"15-20'Tx10-15'W, white, fragrant flowers, late-August, exfoliating bark, Fall Color",White,,,
+TREES,Shadblow,"6-8'Tx6-8'W, white flowers, April, birds, Fall Color, N",Pale Pink,,,
+TREES,Shadblow,"15-25'Tx12-15'W, pale pink flowers, April, black fruit, birds, Fall Color, N",White ,,,
+TREES,Shadblow,"15-20'Tx8-12'W, white flowers, April, birds, Fall Color, N   ",White ,,,
+TREES,Shadblow,"20-25'Tx18-20'W, white flowers, April, winter bark, fruit/birds, Fall Color, N",White ,,,
+TREES,Shadblow,"15'Tx4'W, white flowers, April-May, upright/narrow growth habit,  blue edible berries, brilliant red/orange Fall Color",White,,,
+TREES,Shadblow,"15-25'Tx15-25'W, slightly fragrant white flowers, April, purple-black berries, June, red-orange Fall Color, Birds",White ,,,
+TREES,"Shadblow, Allegheny","15-25'Tx10-15'W, white flowers, late-April, multi-stem, Fall Color, N",White ,,,
+TREES,Shadblow,"15-20'Tx15'W (single stem), white flowers, late-April, blue/black fruit, Summer, red/orange Fall Color, Birds, N  ",White,,,
+TREES,Shadbow (Juneberry),"12-14'Tx8-10'W, white flowers, late April, blue fruit, June-July, multi-stem, upright growing, birds, edible, N",White,,,
+TREES,"Silverbell, Carolina","25-30'Tx25'W, white flowers, May, yellow Fall Color, N",Frothy/fluffy rose pink,,,
+TREES,Smoke Tree,"15-20'Tx 15-20'W, frothy/fluffy, rose pink flowers, Summer, purple foliage, orange-red Fall Color, Deer Resistant",Purple/pink stalks,,,Purple
+TREES,"Smoke Tree, American","15-20'Tx 15-20'W, clusters of flowers, June, purple-pink stalk, grey-green foliage, orange-red fall color, N",Pink Plumes,,,Gray- Green
+TREES,Smokebush,"10-15'Tx10-15'W, 6-8"" pink plumes, June-August, burgundy foliage",Gray/Pink Plumes,,,Burgundy
+TREES,Smokebush,"10-15'Tx10-15'W, 6-8"" grey-pink plumes, June-Aug, golden yellow foliage changes to coral/orange in Fall",White,,,Golden Yellow   
+TREES,"Snowbell, Fragrant","20-30'Tx20-30'W, white fragrant flowers, May-June",White,,,
+TREES,"Snowbell, Japanese","20-25'Tx18-20'W, 1"" white, bell-shaped, slightly fragrant flowers, May-June, blue-grey drupe, yellow Fall Color, birds",White,,,
+TREES,"Snowbell, Japanese","20-30'T x 20-30'W, white, bell-shaped, slightly fragrant flowers, May-June, blue-grey drupe, yellow Fall Color, birds",White,,,
+TREES,Sourwood,"25-30'Tx15-20'W, white flowers, July, outstanding bark, Fall Color, N",,,,
+TREES,"Spruce, Colorado Blue","40-50'Tx15-20'W, stiff pyramidal habit, blue/blue-green needles",,,,Blue Green 
+TREES,"Spruce, Colorado Blue Dwarf","8-15'Tx8-12'W, stiff pyramidal habit, blue/blue-green needles",,,,Blue Green 
+TREES,"Spruce, Colorado Blue Weeping","8-15'Tx8-15'W, tight weeping habit, blue/blue-green needles",,,,Blue Green 
+TREES,"Spruce, Dwarf ","30'Tx15'W, silver-blue foliage",,,,Silver Blue
+TREES,"Spruce, Dwarf Alberta ","6-8'Tx3'W, 10-12' in 25-30 years, dense light green foliage",,,,Light Green 
+TREES,"Spruce, Norway","10-20'Tx10-15'W, needs filtered sun, red coloring at tips, male",,,Part Sun-Part Shade,Red color at tips
+TREES,"Spruce, Serbian ","50-60'Tx20-25'W, narrow, slow-med growth",,,,
+TREES,"Spruce, White","40-60'Tx10-20'W, broad, dense pyramid, medium growth rate, glaucous green foliage",White,,,Glaucous Green
+TREES,"Stewartia, Japanese","20-25'Tx10-15'W, white camilla-like flowers, June-July, outstanding bark!",,,,
+TREES,Sweetgum,"40-50'Tx40-50'W, burgundy leaf coloration, Fall Color",Green/Yellow`,,,Burgundy
+TREES,Tulip Tree,"70-90'Tx35-50'W, greenish/yellow flowers, May-early June, N ",Catkin  ,,,
+TREES,"Willow, Pussy","20-25'Tx18-20'W, spring flower catkins, wildlife, N",,,,
+TREES,"Willow, Weeping","60-70'Tx40-50'W, delicate, graceful, pendulous branches",,,,
+TREES,"Zelkova, Japanese","60-80'Tx40-60'W, vase-shaped, yellow/orange Fall Color",,,,
+VINES,Clematis,"8-12', deep red flowers, July-September, Class 3",White,,,
+VINES,Clematis,"20-30', fragrant white flowers, Sept-October, Class 3, AGRESSIVE",Pink Red Bars,,,
+VINES,Clematis,"8-12', pink flowers with red bars, May-September, Class 2                                                    Plant Group 1g=4pts/flat @ $9.99/pot  ",White w/Pink Bars,,,
+VINES,Clematis,"6'T, white flowers with pink bar, late May, compact                                                              Plant Group 1g=4pts/flat @ $9.99/pot",Deep Purple,,,
+VINES,Clematis,"4'T, deep purple flowers, May-Aug, compact                                                                        Plant Group 1g=4pts/flat @ $9.99/pot",Pure White,,,
+VINES,Clematis,"8'T, very large 7-8"" pure white flowers, blooms June and September                                      Plant Group 1g=4pts/flat@ $9.99/pot",Scarlet Red,,,
+VINES,Clematis,"8'T, scarlet red flowers, May-August, compact                                                                      ",Soft Pink/Clear Yellow,,,
+VINES,Honeysuckle,"5-6'Tx 2-3'W, soft pink/clear yellow flowers, Summer, Hummingbirds, Butterflies",Scarlet Red,,,
+VINES,Honeysuckle ,"25-30'Tx25-30'W, scarlet red tubular flowers, May-Frost, hummingbirds",Pale Yellow,,,
+VINES,Honeysuckle ,"20-25'Tx20-25'W, pale yellow flowers, June-October, hummingbirds, N                                          Plant Group 2g=4pts/flat @$8.50/pot",Purple/Red Creamy White,,,
+VINES,Honeysuckle ,"20-25'Tx20-25'W, fragrant purple-red/creamy white flowers, green/red-tinged foliage, May-Jun, hummers ",Bright Red ,,,Green/Red 
+VINES,Honeysuckle ,"20-30'Tx20-30'W, fragrant bright red flowers, late May-summer, butterflies and hummers, N",Pink/Yellow,,,
+VINES,"Honeysuckle, Goldflame ","20-25'Tx20-25'W, fragrant pink/yellow flowers, hummingbirds                                              Plant Group 2g=4pts/flat @$8.50/pot",White,,,
+VINES,"Hydrangea, Climbing","50-60'T, 50-60'W, white flowers, late June, dark foliage, exfoliating bark",,,,Dark Green
+VINES,Virginia Creeper ,"40-50'Tx40-50'W, deciduous, birds, red Fall Color, N",Lavender/Blue,,,Deciduous
+VINES,Wisteria,"15-25'Tx 5-10' W, 8-10"", fragrant, long racemes of lavender-blue flowers, late May, N",Lilac/Purple,,,
+VINES,"Wisteria, American","15-20'Tx 15-20'W,deep, lilac-purple flowers, mid-late May, gray-green compound leaves, N",,,,Gray Green
