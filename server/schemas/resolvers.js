@@ -33,7 +33,7 @@ const resolvers={
             return {token, user};
         },
         
-        saveBook: async(parent, args, context)=>{
+        savePlants: async(parent, args, context)=>{
             if(context.user){
                 const updatedUser = await User.findOneAndUpdate(
                     {_id: context.user._id},
@@ -45,7 +45,7 @@ const resolvers={
             throw new Error('Couldnt not add Plant!');
         },
         
-        removeBook: async (parent, {plantsId}, context) =>{
+        removePlants: async (parent, {plantsId}, context) =>{
             if(context.user){
                 const updatedUser = await User.findOneAndUpdate(
                     {_id: context.user._id},
