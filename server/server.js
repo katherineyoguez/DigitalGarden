@@ -7,6 +7,16 @@ const { typeDefs, resolvers } = require('./schemas');
 const { authMiddleware } = require('./utils/auth');
 const db = require('./config/connection');
 
+const MongoClient = require('mongodb').MongoClient;
+const uri = 'mongodb+srv://katheriney:Mexico123@cluster0.gwpon.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+
+MongoClient.connect(uri, { useNewUrlParser: true }, function(err, client) {
+  if (err) {
+  } else {
+        var collection = client.db('test').collection('devices');
+  }
+});
+
 
 const PORT = process.env.PORT || 3001;
 const app = express();
