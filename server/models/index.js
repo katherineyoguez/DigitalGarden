@@ -1,6 +1,5 @@
 const User = require('./User');
-const Plants = require('./Plants')
-const Stripe = require('./Stripe')
-const Lists = require('./Lists')
+const Plant = require('./Plant')
+const List = require('./List')
 
-module.exports = { User, Plants, Stripe, Lists };
+module.exports = { User, Plant, List };
