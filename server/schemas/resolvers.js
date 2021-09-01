@@ -135,11 +135,11 @@ const resolvers = {
             return {token, user};
         },
         
-        saveBook: async(parent, args, context)=>{
+        savePlant: async(parent, args, context)=>{
             if(context.user){
                 const updatedUser = await User.findOneAndUpdate(
                     {_id: context.user._id},
-                    {$push: {savedPlants: args}},
+                    {$push: {savedPlant: args}},
                     {new: true, runValidators: true}
                 );
                 return updatedUser;
@@ -147,11 +147,11 @@ const resolvers = {
             throw new Error('Couldnt not add Plant!');
         },
         
-        removeBook: async (parent, {plantsId}, context) =>{
+        removePlant: async (parent, {plantId}, context) =>{
             if(context.user){
                 const updatedUser = await User.findOneAndUpdate(
                     {_id: context.user._id},
-                    {$pull: {savedPlants: {plantsId}}},
+                    {$pull: {savedPlant: {plantId}}},
                     {new: true}
                 );
                 return updatedUser;
