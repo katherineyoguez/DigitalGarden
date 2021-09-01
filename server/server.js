@@ -1,21 +1,11 @@
 const express = require('express');
 const { ApolloServer } = require('apollo-server-express')
 const path = require('path');
-// const routes = require('./routes');
 
 const { typeDefs, resolvers } = require('./schemas');
 const { authMiddleware } = require('./utils/auth');
 const db = require('./config/connection');
 
-// const MongoClient = require('mongodb').MongoClient;
-const uri = 'mongodb+srv://katheriney:Mexico123@cluster0.gwpon.mongodb.net/DigitalGarden1?retryWrites=true&w=majority';
-
-// MongoClient.connect(uri, { useNewUrlParser: true }, function(err, client) {
-//   if (err) {
-//   } else {
-//         var collection = client.db('test').collection('devices');
-//   }
-// });
 
 
 const PORT = process.env.PORT || 3001;
@@ -26,7 +16,6 @@ const server = new ApolloServer({
   context: authMiddleware,
 });
 
-server.applyMiddle({ app });
 
 
 app.use(express.urlencoded({ extended: true }));

@@ -1,7 +1,7 @@
 const db = require('../config/connection');
-const { Plants } = require('../models');
+const { Plant } = require('../models');
 
-const plantsData = require('./plantSeeds.json')
+const plantData = require('./plantSeeds.json')
 
 
 
