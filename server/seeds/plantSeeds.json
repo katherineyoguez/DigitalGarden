@@ -1,111 +1,111 @@
 [
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Autumn",
-   "Full Grown Characteristics": "18-24\"Tx18-24\"W",
-   "Flower Color": "",
-   "Soil Type": "Moist",
-   "Sun Exposure": "Part/Full Shade",
-   "Foliage Color": "Green (new fronds red/orange)"
+   "Name": "Fern,Autumn",
+   "Size": "18-24\"Tx18-24\"W",
+   "Color": "",
+   "Soil": "Moist",
+   "Sun": "Part/Full Shade",
+   "Leaf Color": "Green (new fronds red/orange)"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Branford Rambler",
-   "Full Grown Characteristics": "18-24\"x24-36\"W, spreading and mound forming ",
-   "Flower Color": " ",
-   "Soil Type": "Dry",
-   "Sun Exposure": "Full Sun/Part Sun",
-   "Foliage Color": "Variegated"
+   "Name": "Fern,Branford Rambler",
+   "Size": "18-24\"x24-36\"W, spreading and mound forming ",
+   "Color": " ",
+   "Soil": "Dry",
+   "Sun": "Full Sun/Part Sun",
+   "Leaf Color": "Variegated"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Christmas",
-   "Full Grown Characteristics": "24\"Tx30-36\"W, evergreen, N",
-   "Flower Color": "",
-   "Soil Type": "Moist",
-   "Sun Exposure": "Part/Full Shade",
-   "Foliage Color": "Evergreen"
+   "Name": "Fern,Christmas",
+   "Size": "24\"Tx30-36\"W, evergreen, N",
+   "Color": "",
+   "Soil": "Moist",
+   "Sun": "Part/Full Shade",
+   "Leaf Color": "Evergreen"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Cinnamon",
-   "Full Grown Characteristics": "36-48\"Tx36-48\"W, spore spikes, moist, N",
-   "Flower Color": "",
-   "Soil Type": "Moist",
-   "Sun Exposure": "Part/Full Shade",
-   "Foliage Color": "Yellow/ Green"
+   "Name": "Fern,Cinnamon",
+   "Size": "36-48\"Tx36-48\"W, spore spikes, moist, N",
+   "Color": "",
+   "Soil": "Moist",
+   "Sun": "Part/Full Shade",
+   "Leaf Color": "Yellow/ Green"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Crested Red Lady",
-   "Full Grown Characteristics": "30-36\"Tx30-36\"W, burgundy stems, N",
-   "Flower Color": "",
-   "Soil Type": "Moist",
-   "Sun Exposure": "Part/Full Shade",
-   "Foliage Color": "Green w/burgundy stems"
+   "Name": "Fern,Crested Red Lady",
+   "Size": "30-36\"Tx30-36\"W, burgundy stems, N",
+   "Color": "",
+   "Soil": "Moist",
+   "Sun": "Part/Full Shade",
+   "Leaf Color": "Green w/burgundy stems"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Dixie Wood",
-   "Full Grown Characteristics": "3-4'Tx2'W, dark green, semi-evergreen foliage, upright, Deer Resistant",
-   "Flower Color": "",
-   "Soil Type": "Moist",
-   "Sun Exposure": "Part/Full Shade",
-   "Foliage Color": "Dk Green"
+   "Name": "Fern,Dixie Wood",
+   "Size": "3-4'Tx2'W, dark green, semi-evergreen foliage, upright, Deer Resistant",
+   "Color": "",
+   "Soil": "Moist",
+   "Sun": "Part/Full Shade",
+   "Leaf Color": "Dk Green"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Ghost",
-   "Full Grown Characteristics": "24-30\"Tx24-30\"W, silverfish-gray-green foliage, rigidly upright",
-   "Flower Color": "",
-   "Soil Type": "Moist",
-   "Sun Exposure": "Part/Full Shade",
-   "Foliage Color": "Silver/Gray/Green"
+   "Name": "Fern,Ghost",
+   "Size": "24-30\"Tx24-30\"W, silverfish-gray-green foliage, rigidly upright",
+   "Color": "",
+   "Soil": "Moist",
+   "Sun": "Part/Full Shade",
+   "Leaf Color": "Silver/Gray/Green"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Hayscented",
-   "Full Grown Characteristics": "30\"Tx30-36\"W, creeping, yellow-green fronds, sun/shade,  N",
-   "Flower Color": "",
-   "Soil Type": "Moist",
-   "Sun Exposure": "Sun/Part Sun",
-   "Foliage Color": "Yellow/Green"
+   "Name": "Fern,Hayscented",
+   "Size": "30\"Tx30-36\"W, creeping, yellow-green fronds, sun/shade,  N",
+   "Color": "",
+   "Soil": "Moist",
+   "Sun": "Sun/Part Sun",
+   "Leaf Color": "Yellow/Green"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Japanese Beech",
-   "Full Grown Characteristics": "12-24\"Tx12-18\"W, large, arching dark green fronds with a lighter underside",
-   "Flower Color": "",
-   "Soil Type": "Dry to Moist",
-   "Sun Exposure": "Sun/Part Sun",
-   "Foliage Color": "DkGreen/Lt Green"
+   "Name": "Fern,Japanese Beech",
+   "Size": "12-24\"Tx12-18\"W, large, arching dark green fronds with a lighter underside",
+   "Color": "",
+   "Soil": "Dry to Moist",
+   "Sun": "Sun/Part Sun",
+   "Leaf Color": "DkGreen/Lt Green"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Japanese Painted",
-   "Full Grown Characteristics": "6-12\"Tx18-24\"W, silver-purple fronds, moist ",
-   "Flower Color": "",
-   "Soil Type": "Moist",
-   "Sun Exposure": "Part/Full Shade",
-   "Foliage Color": "Silver/Purple"
+   "Name": "Fern,Japanese Painted",
+   "Size": "6-12\"Tx18-24\"W, silver-purple fronds, moist ",
+   "Color": "",
+   "Soil": "Moist",
+   "Sun": "Part/Full Shade",
+   "Leaf Color": "Silver/Purple"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Maidenhair",
-   "Full Grown Characteristics": "24-30\"T, graceful, fan-shaped delicate fronds, moist, N",
-   "Flower Color": "",
-   "Soil Type": "Moist",
-   "Sun Exposure": "Filtered /Full Shade",
-   "Foliage Color": "Med Green"
+   "Name": "Fern,Maidenhair",
+   "Size": "24-30\"T, graceful, fan-shaped delicate fronds, moist, N",
+   "Color": "",
+   "Soil": "Moist",
+   "Sun": "Filtered /Full Shade",
+   "Leaf Color": "Med Green"
  },
  {
    "Type": "FERNS",
-   "Plant - Common": "Fern, Marginal Shield/Leatherwood",
-   "Full Grown Characteristics": "20\"Tx24-30\"W, evergreen, dusty blue fronds, N",
-   "Flower Color": "",
-   "Soil Type": "Moist, Acidic",
-   "Sun Exposure": "Part/Full Shade",
-   "Foliage Color": "Dusty Blue"
+   "Name": "Fern,Marginal Shield/Leatherwood",
+   "Size": "20\"Tx24-30\"W, evergreen, dusty blue fronds, N",
+   "Color": "",
+   "Soil": "Moist, Acidic",
+   "Sun": "Part/Full Shade",
+   "Leaf Color": "Dusty Blue"
  },
  {
    "Type": "FERNS",
