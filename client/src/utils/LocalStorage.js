@@ -1,30 +1,30 @@
-export const getSavedListIds = () => {
-    const savedListsIds = localStorage.getItem('saved_lists')
-      ? JSON.parse(localStorage.getItem('saved_lists'))
+export const getSavedPlantIds = () => {
+    const savedPlantIds = localStorage.getItem('saved_plant')
+      ? JSON.parse(localStorage.getItem('saved_plant'))
       : [];
   
-    return savedListsIds;
+    return savedPlantIds;
   };
   
-  export const saveListsIds = (bookIdArr) => {
-    if (bookIdArr.length) {
-      localStorage.setItem('saved_lists', JSON.stringify(listsIdArr));
+  export const savePlantIds = (plantIdArr) => {
+    if (plantIdArr.length) {
+      localStorage.setItem('saved_plant', JSON.stringify(plantIdArr));
     } else {
-      localStorage.removeItem('saved_lists');
+      localStorage.removeItem('saved_plant');
     }
   };
   
-  export const removeListsId = (listsId) => {
-    const savedListsIds = localStorage.getItem('saved_lists')
-      ? JSON.parse(localStorage.getItem('saved_lists'))
+  export const removePlantId = (plantId) => {
+    const savedPlantIds = localStorage.getItem('saved_plant')
+      ? JSON.parse(localStorage.getItem('saved_plant'))
       : null;
   
-    if (!savedListsIds) {
+    if (!savedPlantIds) {
       return false;
     }
   
-    const updatedSavedListsIds = savedListsIds?.filter((savedListsId) => savedListsId !== listsId);
-    localStorage.setItem('saved_lists', JSON.stringify(updatedSavedListsIds));
+    const updatedSavedPlantIds = savedPlantIds?.filter((savedPlantId) => savedPlantId !== plantId);
+    localStorage.setItem('saved_plant', JSON.stringify(updatedSavedPlantIds));
   
     return true;
   };
